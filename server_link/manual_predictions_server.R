@@ -11,7 +11,7 @@ library(snowfall)
 library(doParallel)
 
 task_params<-list(
-  taxon_name="Lewinskya rupestris",
+  taxon_name="Buxbaumia viridis",
   includes_absence=FALSE,
   pseudoabsence_count=161,
   epsg=4326,
@@ -131,6 +131,8 @@ body_sfc<-c(presence_32633_s,absence_32633_s)
 pa<-c(rep("presence",length(presence_32633_s)),rep("absence",length(absence_32633_s)))
 body_pa<-st_as_sf(body_sfc,pa=pa)
 body_32633<-sf::st_transform(body_pa,st@crs) # transform points to stack crs
+sejp<-nam<-paste0("/home/mman/czechgrids_local/M_outputs/",task_params$taxon_name,"SHP_presence",format(Sys.time(),"%Y_%m_%d_%H"),".shp")
+st_write(body_32633,sejp)
 
 # Pararelize the task
 st.list <- unstack(st)

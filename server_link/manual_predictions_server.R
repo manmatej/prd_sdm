@@ -1,5 +1,5 @@
 
-library(RPostgreSQL)
+
 # library(knitr)
 library(sf)
 library(raster)
@@ -21,17 +21,7 @@ task_params<-list(
 grids.path<-"/home/mman/czechgrids" # where are the data
 grids.path1<-"/home/mman/czechgrids_local"
 
-
-pw <- {"dtx33HtBYTtkKWjC"}
-drv <- dbDriver("PostgreSQL")
-con <- dbConnect(drv, dbname = "dalibor",
-                 host = "192.168.3.238", port = 5432,
-                 user = "dal_public_web", password = pw)
-
-db_expr<-paste0("SELECT name_lat,longitude,latitude,altitude_min,altitude_max,gps_coords_source,gps_coords_precision,datum,lft,rgt from atlas.records INNER JOIN public.taxons ON atlas.records.taxon_id = public.taxons.id WHERE name_lat='",task_params$taxon_name,"'")
-dali<-dbGetQuery(con, db_expr)
-
-dbDisconnect(con)
+source("/home/mman/czechgrids_local/R_outputs/secret.R")
 
 message("species data established")
 
@@ -295,14 +285,14 @@ raster::predict(st,model.rf,
                   type="prob",
                   overwrite=T)
 
-message(paste0("rf prediction terminated ",Sys.time()))
+message(paste0("rf prediction terminated ",Sys.time()),"DONE!")
 
-message(paste0("glm prediction started ",Sys.time()))
-nam<-paste0("/home/mman/czechgrids_local/M_outputs/",task_params$taxon_name,"GLM_predict",format(Sys.time(),"%Y_%m_%d_%H"),".tif")
-raster::predict(st,model.glm,
-                filename=nam,
-                index=2,
-                type="prob",
-                overwrite=T)
-message(paste0("glm prediction terminated ",Sys.time()))
+# message(paste0("glm prediction started ",Sys.time()))
+# nam<-paste0("/home/mman/czechgrids_local/M_outputs/",task_params$taxon_name,"GLM_predict",format(Sys.time(),"%Y_%m_%d_%H"),".tif")
+# raster::predict(st,model.glm,
+#                 filename=nam,
+#                 index=2,
+#                 type="prob",
+#                 overwrite=T)
+# message(paste0("glm prediction terminated ",Sys.time()))
 

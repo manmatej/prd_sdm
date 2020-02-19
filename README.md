@@ -20,9 +20,9 @@ Default is for whole CR. In case of subset, needs to be manually edited around l
 ### Params
 In header of "manual_predictions_server.R" there is list of task params. 
 
-taxon_name="Lewinskya rupestris" #select the name of species from DaLiBor database
-includes_absence=FALSE # default. DaLiBor data never includes absence
-pseudoabsence_count=161 # default. generate the same number of psudo absence as presence data count
-epsg=4326 # default, DaLiBor data are in WGS84
-area_type="cr" # variable, select are type, default=cr, in case of other type, scrips needs to be manually edited
-area_buffer=3000 # buffer size in case of buffer area_type
+* taxon_name="Lewinskya rupestris" #select the name of species from DaLiBor database
+* includes_absence=FALSE # default. DaLiBor data never includes absence
+* pseudoabsence_count=161 # default. generate the same number of psudo absence as presence data count
+* epsg=4326 # default, DaLiBor data are in WGS84
+* area_type="cr" # variable, select are type, default=cr, in case of other type, scrips needs to be manually edited
+* area_buffer=3000 # buffer size in case of buffer area_type

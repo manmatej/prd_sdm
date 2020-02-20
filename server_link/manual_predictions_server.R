@@ -11,7 +11,7 @@ library(snowfall)
 library(doParallel)
 
 task_params<-list(
-  taxon_name="Buxbaumia viridis",
+  taxon_name="Hamatocaulis vernicosus",
   includes_absence=FALSE,
   pseudoabsence_count=161,
   epsg=4326,
@@ -25,6 +25,7 @@ source("/home/mman/czechgrids_local/R_outputs/secret.R")
 
 message("species data established")
 
+dali<-dali[complete.cases(dali),]
 crs=as.numeric(task_params$epsg)
 body<-sf::st_as_sf(dali, coords = c("longitude", "latitude"), crs = crs ) # convert csv to spatial sf object
 body$pa<-rep(1L,nrow(body))

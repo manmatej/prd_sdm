@@ -22,10 +22,13 @@ grids.path<-"/home/mman/czechgrids" # where are the data
 grids.path1<-"/home/mman/czechgrids_local"
 
 source("/home/mman/czechgrids_local/R_outputs/secret.R")
+db_expr<-paste0("SELECT name_lat,longitude,latitude,altitude_min,altitude_max,gps_coords_source,gps_coords_precision,datum,lft,rgt from atlas.records INNER JOIN public.taxons ON atlas.records.taxon_id = public.taxons.id WHERE name_lat='",task_params$taxon_name,"'")
+dali<-dbGetQuery(con, db_expr)
 
+dbDisconnect(con)
 message("species data established")
 
-dali<-dali[complete.cases(dali),]
+dali<-dali[complete.cases(dali[,1:3]),]
 crs=as.numeric(task_params$epsg)
 body<-sf::st_as_sf(dali, coords = c("longitude", "latitude"), crs = crs ) # convert csv to spatial sf object
 body$pa<-rep(1L,nrow(body))
@@ -93,7 +96,7 @@ sa_s<-hrcr_32633_b # for whle cr
 presence_4326<-(st_transform(presence_32633_s,4326L)) # transform presences to wgs
 absence_4326<-st_transform(absence_32633_s,4326L) # transform absences to wgs
 sa4326<-st_transform(sa_s,4326L) # transform spatial envelope to wgs
-
+R
 message("spatial check ok")
 
 
@@ -139,7 +142,7 @@ st_write(body_32633,sejp)
 st.list <- unstack(st)
 names(st.list) <- names(st)
 
-sfInit(parallel=TRUE, cpus=parallel:::detectCores()-1)
+sfInit(parallel=TRUE, cpus=13)
 sfLibrary(raster)
 sfLibrary(sf)
 
@@ -176,8 +179,8 @@ set.seed(100) # defin fix starting number for "random" processes to be reproduci
 
 message("glm computed") 
 
-# # Pararelize the task, use 14 workers
-cl <- makePSOCKcluster(14)
+# # Pararelize the task, use 13 workers
+cl <- makePSOCKcluster(13)
 registerDoParallel(cl)
 
 model.glm<- train(trainDat[complete.cases(trainDat[,nice.predictors]),nice.predictors],

@@ -1,0 +1,106 @@
+> 
+> 
+> # library(knitr)
+> library(sf)
+> library(raster)
+> # library(dplyr)
+> # library(leaflet)
+> library(caret)
+> library(ranger)
+> library(snowfall)
+> library(doParallel)
+> 
+> task_params<-list(
++   taxon_name="Ptilium crista-castrensis",
++   includes_absence=FALSE,
++   pseudoabsence_count=161,
++   epsg=4326,
++   area_type="cr",
++   area_buffer=3000)
+> 
+> grids.path<-"/home/mman/czechgrids" # where are the data
+> grids.path1<-"/home/mman/czechgrids_local"
+> 
+> source("/home/mman/czechgrids_local/R_outputs/secret.R")
+> db_expr<-paste0("SELECT name_lat,longitude,latitude,altitude_min,altitude_max,gps_coords_source,gps_coords_precision,datum,lft,rgt from atlas.records INNER JOIN public.taxons ON atlas.records.taxon_id = public.taxons.id WHERE name_lat='",task_params$taxon_name,"'")
+> dali<-dbGetQuery(con, db_expr)
+> 
+> dbDisconnect(con)
+[1] TRUE
+> message("species data established")
+> 
+> dali<-dali[complete.cases(dali[,1:3]),]
+> crs=as.numeric(task_params$epsg)
+> body<-sf::st_as_sf(dali, coords = c("longitude", "latitude"), crs = crs ) # convert csv to spatial sf object
+> body$pa<-rep(1L,nrow(body))
+> body_4326<-sf::st_transform(body,4326) # transform point to wgs for mapping purpose
+> body_32633<-sf::st_transform(body_4326,32633) # transform points to utm for computation purpose
+> 
+> hrcr_4326<-st_read(paste0(grids.path1,"/hrcr_wgs.shp"),crs = 4326L)  # read shp CZ border
+Reading layer `hrcr_wgs' from data source `/home/mman/czechgrids_local/hrcr_wgs.shp' using driver `ESRI Shapefile'
+Simple feature collection with 1 feature and 5 fields
+geometry type:  POLYGON
+dimension:      XY
+bbox:           xmin: 12.0911 ymin: 48.55153 xmax: 18.8599 ymax: 51.05579
+epsg (SRID):    4326
+proj4string:    +proj=longlat +datum=WGS84 +no_defs
+> hrcr_4326<-st_geometry(hrcr_4326) # drop all information except geometry
+> hrcr_32633<-sf::st_transform(hrcr_4326,32633)
+> 
+> 
+> ## define function for spatial enevelope
+> envelope<-function(type="buffer",dist=3000){
++   if (type=="hull") {sa<-st_convex_hull(st_union(body_32633))} # convex hull envelope
++   if (type=="box") {sa<-st_as_sfc(st_bbox(body_32633))} # bounding box envelope
++   if (type=="buffer") {sa<-st_buffer(st_union(body_32633),dist)} # buffer of defined distance envelope
++   if (type=="cr") {sa<-hrcr_32633}
++   return(sa)
++ }
+> type=as.character(task_params$area_type)
+> dist=as.numeric(task_params$area_buffer)
+> 
+> sa<-envelope(type=type,dist=dist) # define envelope object with default settings (buffer 3 km)
+> 
+> spec_dat_typ<-as.character(ifelse(task_params$includes_absence, spec_dat_typ<-"pa", spec_dat_typ<-"po"))
+> n_samp<-as.numeric(task_params$pseudoabsence_count)
+> 
+> ## define absences or pseudo-absences
+> p_a<-function(x){
++ if(spec_dat_typ == "pa"){
++   presence_32633<-body_32633[body_32633$pa==1,]
++   absence_32633<-body_32633[body_32633$pa==0,]
++ } else {
++   presence_32633<-body_32633[complete.cases(body_32633$pa),]
++   if(n_samp==161){
++     n_pres<-nrow(presence_32633)
++   } else {
++     n_pres<-n_samp
++   } 
++   buf_pres_32633<-st_buffer(st_union(presence_32633),500)
++   buf_abs_32633<-st_difference(sa,buf_pres_32633)
++   absence_32633<-st_sample(buf_abs_32633,size=n_pres,type = "random")
++ } 
++   return(list(presence_32633,absence_32633))
++ }
+> 
+> presence_32633<-st_geometry(p_a(x)[[1]])
+> absence_32633<-st_geometry(p_a(x)[[2]])
+> 
+> message("presence absence created")
+> 
+> ### space check
+> 
+> precise_border<-paste0(grids.path,"/crdem5g_sgrd_32633_poly_01.shp")
+> 
+> hrcr_32633<-st_read(precise_border) # stric cutter precise polygon 
+Reading layer `crdem5g_sgrd_32633_poly_01' from data source `/home/mman/czechgrids/crdem5g_sgrd_32633_poly_01.shp' using driver `ESRI Shapefile'
+Simple feature collection with 1 feature and 3 fields
+geometry type:  MULTIPOLYGON
+dimension:      XY
+bbox:           xmin: 292613.2 ymin: 5377860 xmax: 779123.2 ymax: 5656250
+epsg (SRID):    32633
+proj4string:    +proj=utm +zone=33 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs
+> hrcr_32633_a<-st_transform(hrcr_32633,32633) # unify crs
+> hrcr_32633_b<-st_geometry(hrcr_32633_a) # unify crs
+> absence_32633_s<-st_intersection(hrcr_32633_b,absence_32633)
+> presence_32633_s<-st_intersection(hrcr_32633_b,presence_32633)

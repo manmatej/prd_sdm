@@ -11,7 +11,7 @@ library(snowfall)
 library(doParallel)
 
 task_params<-list(
-  taxon_name="Hamatocaulis vernicosus",
+  taxon_name="Ptilium crista-castrensis",
   includes_absence=FALSE,
   pseudoabsence_count=161,
   epsg=4326,
@@ -258,10 +258,13 @@ rf.stat
 glm.imp<-varImp(model.glm,scale = T)
 rf.imp<-varImp(model.rf,scale = T)
 
-png(filename = paste0("/home/mman/czechgrids_local/M_outputs/",task_params$taxon_name,"_imp_",format(Sys.time(),"%Y_%m_%d_%H"),".png"),
+png(filename = paste0("/home/mman/czechgrids_local/M_outputs/",task_params$taxon_name,"_glm_imp_",format(Sys.time(),"%Y_%m_%d_%H"),".png"),
     width = 800, height = 1600)
-par(mfrow=c(2,1))
 plot(glm.imp,main="GLM - relative variable importnace")
+dev.off()
+
+png(filename = paste0("/home/mman/czechgrids_local/M_outputs/",task_params$taxon_name,"_rf_imp_",format(Sys.time(),"%Y_%m_%d_%H"),".png"),
+    width = 800, height = 1600)
 plot(rf.imp,main="Random Forest - relative variable importnace")
 dev.off()
 

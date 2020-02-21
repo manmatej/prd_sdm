@@ -34,4 +34,4 @@ counts<-merge(counts,Check[,c("V9","V13")],by.x ="spec",by.y="V9")
 names(counts)[8]<-"RL_eval"
 counts<-counts[order(counts$total,decreasing = T),]
 
-write.table(counts,file = "Species_records_dalibor.csv",sep=";",na="0",row.names = F,col.names = T)
+write.table(counts,file = "Species_records_dalibor.csv",sep=",",na="0",row.names = F,col.names = T)

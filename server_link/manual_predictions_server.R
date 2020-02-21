@@ -96,7 +96,7 @@ sa_s<-hrcr_32633_b # for whle cr
 presence_4326<-(st_transform(presence_32633_s,4326L)) # transform presences to wgs
 absence_4326<-st_transform(absence_32633_s,4326L) # transform absences to wgs
 sa4326<-st_transform(sa_s,4326L) # transform spatial envelope to wgs
-R
+
 message("spatial check ok")
 
 

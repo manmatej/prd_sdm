@@ -1,0 +1,1533 @@
+ID;Name_Validity;Division;Class;Sublass;Order;Family;Rank;Name;Author;Czech_name;presence;RL_Evaluation
+10000;V;10000;;;;;17;Anthocerotophyta;\N;hlevíky;;
+10001;V;10000;10001;;;;19;Anthocerotopsida;de Bary ex Jancz.;(bez èeského jména);;
+10002;V;10000;10001;10002;;;20;Anthocerotidae;Rosenv.;(bez èeského jména);;
+10003;V;10000;10001;10002;10003;;22;Anthocerotales;Limpr.;hlevíkotvaré;;
+10004;V;10000;10001;10002;10003;10004;24;Anthocerotaceae;Dumort.;hlevíkovité;;
+10005;V;10000;10001;10005;;;20;Notothylatidae;R.J.Duff;(bez èeského jména);;
+10006;V;10000;10001;10005;10006;;22;Notothyladales;Hyvönen & Piippo;vycpálkotvaré;;
+10007;V;10000;10001;10005;10006;10007;24;Notothyladaceae;Müll.Frib. ex Prosk.;vycpálkovité;;
+10008;V;10008;;;;;17;Marchantiophyta;\N;játrovky;;
+10009;V;10008;10009;;;;19;Haplomitriopsida;Stotler & Crand.-Stotl.;(bez èeského jména);;
+10010;V;10008;10009;10010;;;20;Haplomitriidae;Haplomitriidae;(bez èeského jména);;
+10011;V;10008;10009;10010;10011;;22;Calobryales;Hamlin;pøímenkotvaré;;
+10012;V;10008;10009;10010;10011;10012;24;Haplomitriaceae;Dìdeèek;pøímenkovité;;
+10013;V;10008;10013;;;;19;Marchantiopsida;Cronquist;(bez èeského jména);;
+10014;V;10008;10013;10014;;;20;Blasiidae;He-Nygrén;(bez èeského jména);;
+10015;V;10008;10013;10014;10015;;22;Blasiales;Stotler & Crand.-Stotl.;jamuškotvaré;;
+10016;V;10008;10013;10014;10015;10016;24;Blasiaceae;H.Klinggr.;jamuškovité;;
+10017;V;10008;10013;10017;;;20;Marchantiidae;Engl.;(bez èeského jména);;
+10018;V;10008;10013;10017;10018;;22;Lunulariales;D.G.Long;lunatkotvaré;;
+10019;V;10008;10013;10017;10018;10019;24;Lunulariaceae;H.Klinggr.;lunatkovité;;
+10020;V;10008;10013;10017;10020;;22;Marchantiales;Limpr.;porostnicotvaré;;
+10021;V;10008;10013;10017;10020;10021;24;Aytoniaceae;Cavers;mozolkovité;;
+10022;V;10008;10013;10017;10020;10022;24;Conocephalaceae;Müll.Frib. ex Grolle;møíkovcovité;;
+10023;V;10008;10013;10017;10020;10023;24;Marchantiaceae;Lindl.;porostnicovité;;
+10024;V;10008;10013;10017;10020;10024;24;Oxymitraceae;Müll.Frib. ex Grolle;opatkovité;;
+10025;V;10008;10013;10017;10020;10025;24;Ricciaceae;Rchb.;trhutkovité;;
+10026;V;10008;10013;10017;10020;10026;24;Targioniaceae;Dumort.;boreèkovité;;
+10027;V;10008;10027;;;;19;Jungermanniopsida;Stotler & Crand.-Stotl.;(bez èeského jména);;
+10028;V;10008;10027;10028;;;20;Jungermanniidae;Engl.;(bez èeského jména);;
+10029;V;10008;10027;10028;10029;;22;Jungermanniales;H.Klinggr.;trsenkotvaré;;
+10030;V;10008;10027;10028;10029;10030;24;Adelanthaceae;Adelanthaceae;adelantovité;;
+10031;V;10008;10027;10028;10029;10031;24;Anastrophyllaceae;L.Söderstr.;polankovité;;
+10032;V;10008;10027;10028;10029;10032;24;Cephaloziaceae;Mig.;køepenkovité;;
+10033;V;10008;10027;10028;10029;10033;24;Cephaloziellaceae;Douin;drobnièkovité;;
+10034;V;10008;10027;10028;10029;10034;24;Lophoziaceae;Cavers;køiítkovité;;
+10035;V;10008;10027;10028;10029;10035;24;Scapaniaceae;Mig.;kılnatkovité;;
+10036;V;10008;10027;10028;10029;10036;24;Antheliaceae;R.M.Schust.;mrazovcovité;;
+10037;V;10008;10027;10028;10029;10037;24;Calypogeiaceae;Arnell;kryjnicovité;;
+10038;V;10008;10027;10028;10029;10038;24;Endogemmataceae;Konstant.;endogemovité;;
+10039;V;10008;10027;10028;10029;10039;24;Geocalycaceae;H.Klinggr.;vøesovkovité;;
+10040;V;10008;10027;10028;10029;10040;24;Gymnomitriaceae;H.Klinggr.;skulinatkovité;;
+10041;V;10008;10027;10028;10029;10041;24;Harpanthaceae;Arnell;nivenkovité;;
+10042;V;10008;10027;10028;10029;10042;24;Jungermanniaceae;Rchb.;trsenkovité;;
+10043;V;10008;10027;10028;10029;10043;24;Saccogynaceae;Heeg;(bez èeského jména);;
+10044;V;10008;10027;10028;10029;10044;24;Solenostomataceae;Stotler & Crand.-Stotl.;ústìnkovité;;
+10045;V;10008;10027;10028;10029;10045;24;Blepharostomataceae;W.Frey et M.Stech;nitkovcovité;;
+10046;V;10008;10027;10028;10029;10046;24;Lepidoziaceae;Müll.Frib.;plevinkovité;;
+10047;V;10008;10027;10028;10029;10047;24;Lophocoleaceae;Vanden Berghen;obhøebenkovité;;
+10048;V;10008;10027;10028;10029;10048;24;Plagiochilaceae;Müll.Frib.;kapraïovkovité;;
+10049;V;10008;10027;10028;10029;10049;24;Trichocoleaceae;Nakai;pìknicovité;;
+10050;V;10008;10027;10028;10029;10050;24;Myliaceae;Schljakov;vršatkovité;;
+10051;V;10008;10027;10028;10051;;22;Porellales;Schljakov;podhoøankotvaré;;
+10052;V;10008;10027;10028;10051;10052;24;Frullaniaceae;Lorch;kovancovité;;
+10053;V;10008;10027;10028;10051;10053;24;Lejeuneaceae;Cavers;roeòkovité;;
+10054;V;10008;10027;10028;10051;10054;24;Porellaceae;Cavers;podhoøankovité;;
+10055;V;10008;10027;10028;10051;10055;24;Radulaceae;Müll.Frib.;struhatkovité;;
+10056;V;10008;10027;10028;10056;;22;Ptilidiales;Schljakov;brvitcotvaré;;
+10057;V;10008;10027;10028;10056;10057;24;Ptilidiaceae;H.Klinggr.;brvitcovité;;
+10058;V;10008;10027;10058;;;20;Metzgeriidae;Barthol.-Began;(bez èeského jména);;
+10059;V;10008;10027;10058;10059;;22;Metzgeriales;Chalaud;kroknicotvaré;;
+10060;V;10008;10027;10058;10059;10060;24;Aneuraceae;H.Klinggr.;bezilkovité;;
+10061;V;10008;10027;10058;10059;10061;24;Metzgeriaceae;H.Klinggr.;kroknicovité;;
+10062;V;10008;10027;10062;;;20;Pelliidae;He-Nygrén;(bez èeského jména);;
+10063;V;10008;10027;10062;10063;;22;Fossombroniales;Schljakov;hlávkovcotvaré;;
+10064;V;10008;10027;10062;10063;10064;24;Fossombroniaceae;Hazsl.;hlávkovcovité;;
+10065;V;10008;10027;10062;10065;;22;Pallaviciniales;W.Frey & M.Stech;netøebkotvaré;;
+10066;V;10008;10027;10062;10065;10066;24;Moerckiaceae;K.I.Goebel ex Stotler & Crand.-Stotl.;oleškovité;;
+10067;V;10008;10027;10062;10065;10067;24;Pallaviciniaceae;Mig.;netøebkovité;;
+10068;V;10008;10027;10062;10068;;22;Pelliales;He-Nygrén;pobøenicotvaré;;
+10069;V;10008;10027;10062;10068;10069;24;Pelliaceae;H.Klinggr.;pobøenicovité;;
+10070;V;10070;;;;;17;Bryophyta;\N;mechy;;
+10071;V;10070;10071;;;;19;Sphagnopsida;Schimp.;(bez èeského jména);;
+10072;V;10070;10071;10072;;;20;Sphagnidae;Engl.;(bez èeského jména);;
+10073;V;10070;10071;10072;10073;;22;Sphagnales;Limpr.;rašeliníkotvaré;;
+10074;V;10070;10071;10072;10073;10074;24;Sphagnaceae;Dumort.;rašeliníkovité;;
+10075;V;10070;10075;;;;19;Andreaeopsida;J.H.Schaffn.;(bez èeského jména);;
+10076;V;10070;10075;10076;;;20;Andreaeidae;Engl.;(bez èeského jména);;
+10077;V;10070;10075;10076;10077;;22;Andreaeales;Limpr.;štìrbovkotvaré;;
+10078;V;10070;10075;10076;10077;10078;24;Andreaeaceae;Dumort.;štìrbovkovité;;
+10079;V;10070;10079;;;;19;Polytrichopsida;Doweld;(bez èeského jména);;
+10080;V;10070;10079;10080;;;20;Polytrichidae;Ochyra;(bez èeského jména);;
+10081;V;10070;10079;10080;10081;;22;Polytrichales;Cavers;ploníkotvaré;;
+10082;V;10070;10079;10080;10081;10082;24;Polytrichaceae;Schwägr.;ploníkovité;;
+10083;V;10070;10083;;;;19;Tetraphidopsida;Goffinet & W.R.Buck;(bez èeského jména);;
+10084;V;10070;10083;10084;;;20;Tetraphididae;Doweld;(bez èeského jména);;
+10085;V;10070;10083;10084;10085;;22;Tetraphidales;Cavers;ètyøzoubkotvaré;;
+10086;V;10070;10083;10084;10085;10086;24;Tetraphidaceae;Schimp.;ètyøzoubkovité;;
+10087;V;10070;10087;;;;19;Bryopsida;Pax;(bez èeského jména);;
+10088;V;10070;10087;10088;;;20;Buxbaumiidae;Doweld;(bez èeského jména);;
+10089;V;10070;10087;10088;10089;;22;Buxbaumiales;Cavers;šikouškotvaré;;
+10090;V;10070;10087;10088;10089;10090;24;Buxbaumiaceae;Schwägr.;šikouškovité;;
+10091;V;10070;10087;10091;;;20;Diphysciidae;Ochyra;(bez èeského jména);;
+10092;V;10070;10087;10091;10092;;22;Diphysciales;M.Fleisch.;krèankotvaré;;
+10093;V;10070;10087;10091;10092;10093;24;Diphysciaceae;M.Fleisch.;krèankovité;;
+10094;V;10070;10087;10094;;;20;Timmiidae;Ochyra;(bez èeského jména);;
+10095;V;10070;10087;10094;10095;;22;Timmiales;Ochyra;podnoitkotvaré;;
+10096;V;10070;10087;10094;10095;10096;24;Timmiaceae;Schimp.;podnoitkovité;;
+10097;V;10070;10087;10097;;;20;Funariidae;Ochyra;(bez èeského jména);;
+10098;V;10070;10087;10097;10098;;22;Encalyptales;Dixon;èepièatkotvaré;;
+10099;V;10070;10087;10097;10098;10099;24;Encalyptaceae;Schimp.;èepièatkovité;;
+10100;V;10070;10087;10097;10100;;22;Funariales;M.Fleisch.;zkrutkotvaré;;
+10142;V;10070;10087;10097;10100;10142;24;Disceliaceae;Schimp.;drobnolístkovité;;
+10101;V;10070;10087;10097;10100;10101;24;Funariaceae;Schwägr.;zkrutkovité;;
+10102;V;10070;10087;10102;;;20;Dicranidae;Doweld;(bez èeského jména);;
+10103;V;10070;10087;10102;10103;;22;Dicranidae incertae sedis;N/A;(bez èeského jména);;
+10104;V;10070;10087;10102;10103;10104;24;Distichiaceae;Schimp.;dvoustranníkovité;;
+10105;V;10070;10087;10102;10103;10105;24;Flexitrichaceae;Ignatov & Fedosov;køivovláskovité;;
+10106;V;10070;10087;10102;10103;10106;24;Hymenolomataceae;Ignatov & Fedosov;bradaviènatkovité;;
+10107;V;10070;10087;10102;10107;;22;Grimmiales;M.Fleisch.;dìrkavkotvaré;;
+10108;V;10070;10087;10102;10107;10108;24;Saelaniaceae;Ignatov & Fedosov;sivínkovité;;
+10109;V;10070;10087;10102;10107;10109;24;Grimmiaceae;Arn.;dìrkavkovité;;
+10110;V;10070;10087;10102;10107;10110;24;Ptychomitriaceae;Schimp.;mnoholistcovité;;
+10111;V;10070;10087;10102;10107;10111;24;Seligeriaceae;Schimp.;kápìnkovité;;
+10112;V;10070;10087;10102;10112;;22;Dicranales;M.Fleisch.;dvouhrotcotvaré;;
+10143;V;10070;10087;10102;10112;10143;24;Micromitriaceae;Smyth ex Goffinet & Budke;mohelkovité;;
+10113;V;10070;10087;10102;10112;10113;24;Archidiaceae;Schimp.;úpolnièkovité;;
+10114;V;10070;10087;10102;10112;10114;24;Leucobryaceae;Schimp.;bìlomechovité;;
+10115;V;10070;10087;10102;10112;10115;24;Amphidiaceae;M.Stech;pohárovcovité;;
+10116;V;10070;10087;10102;10112;10116;24;Schistostegaceae;Schimp.;døípovièníkovité;;
+10117;V;10070;10087;10102;10112;10117;24;Rhabdoweisiaceae;Limpr.;pruhovkovité;;
+10118;V;10070;10087;10102;10112;10118;24;Fissidentaceae;Schimp.;krondlovkovité;;
+10119;V;10070;10087;10102;10112;10119;24;Aongstroemiaceae;De Not.;tupolistkovité;;
+10120;V;10070;10087;10102;10112;10120;24;Dicranaceae;Schimp.;dvouhrotcovité;;
+10121;V;10070;10087;10102;10112;10121;24;Bruchiaceae;Schimp.;bruchovkovité;;
+10122;V;10070;10087;10102;10112;10122;24;Ditrichaceae;Limpr.;útlovláskovité;;
+10123;V;10070;10087;10102;10112;10123;24;Pottiaceae;Hampe;pozemnièkovité;;
+10124;V;10070;10087;10124;;;20;Bryidae;Engl.;(bez èeského jména);;
+10125;V;10070;10087;10124;10125;;22;Hedwigiales;Ochyra;tìhovcotvaré;;
+10126;V;10070;10087;10124;10125;10126;24;Hedwigiaceae;Schimp.;tìhovcovité;;
+10127;V;10070;10087;10124;10127;;22;Splachnales;Ochyra;volatkotvaré;;
+10144;;10070;10087;10124;10127;10144;24;Meesiaceae;Schimp.;poparkovité;;
+10128;V;10070;10087;10124;10127;10128;24;Splachnaceae;Grev. & Arn.;volatkovité;;
+10129;V;10070;10087;10124;10129;;22;Bartramiales;M.Menzel;kulistcotvaré;;
+10130;V;10070;10087;10124;10129;10130;24;Bartramiaceae;Schwägr.;kulistcovité;;
+10131;V;10070;10087;10124;10131;;22;Orthotrichales;Dixon;šurpkotvaré;;
+10132;V;10070;10087;10124;10131;10132;24;Orthotrichaceae;Arn.;šurpkovité;;
+10133;V;10070;10087;10124;10133;;22;Bryales;Limpr.;prutníkotvaré;;
+10134;V;10070;10087;10124;10133;10134;24;Bryaceae;Schwägr.;prutníkovité;;
+10135;V;10070;10087;10124;10133;10135;24;Mniaceae;Schwägr.;mìøíkovité;;
+10136;V;10070;10087;10124;10136;;22;Orthodontiales;N.E.Bell, A.E.Newton & D.Quandt;rovnozubotvaré;;
+10137;V;10070;10087;10124;10136;10137;24;Orthodontiaceae;Goffinet;rovnozubovité;;
+10138;V;10070;10087;10124;10138;;22;Aulacomniales;N.E.Bell, A.E.Newton & D.Quandt;klamonokotvaré;;
+10139;V;10070;10087;10124;10138;10139;24;Aulacomniaceae;Schimp.;klamonokovité;;
+10140;V;10070;10087;10124;10140;;22;Hookeriales;M.Fleisch.;kápuškotvaré;;
+10141;V;10070;10087;10124;10140;10141;24;Hookeriaceae;Schimp.;kápuškovité;;
+10145;V;10070;10087;10124;10145;;22;Hypnales;W.R.Buck & Vitt;rokytotvaré;;
+10146;V;10070;10087;10124;10145;10146;24;Plagiotheciaceae;M.Fleisch.;lesklecovité;;
+10147;V;10070;10087;10124;10145;10147;24;Fontinalaceae;Schimp.;pramenièkovité;;
+10148;V;10070;10087;10124;10145;10148;24;Leucodontaceae;Schimp.;bìlozubkovité;;
+10149;V;10070;10087;10124;10145;10149;24;Pylaisiadelphaceae;Goffinet & W.R.Buck;(bez èeského jména);;
+10150;V;10070;10087;10124;10145;10150;24;Hylocomiaceae;M.Fleisch.;rokytníkovité;;
+10151;V;10070;10087;10124;10145;10151;24;Antitrichiaceae ;Ignatov & Ignatova;ilnatkovité;;
+10152;V;10070;10087;10124;10145;10152;24;Climaciaceae;Kindb.;drabíkovité;;
+10153;V;10070;10087;10124;10145;10153;24;Pterigynandraceae;Schimp.;prostozubkovité;;
+10154;V;10070;10087;10124;10145;10154;24;Neckeraceae;Schimp.;sourubkovité;;
+10155;V;10070;10087;10124;10145;10155;24;Pseudoleskeaceae;Schimp.;krytolístkovité;;
+10156;V;10070;10087;10124;10145;10156;24;Pseudoleskeellaceae;Ignatov & Ignatova;øetízkovcovité;;
+10157;V;10070;10087;10124;10145;10157;24;Heterocladiaceae;Ignatov & Ignatova;rùznolístkovité;;
+10158;V;10070;10087;10124;10145;10158;24;Rhytidiaceae;Broth.;èeøitkovité;;
+10159;V;10070;10087;10124;10145;10159;24;Anomodontaceae;Kindb.;klaminkovité;;
+10160;V;10070;10087;10124;10145;10160;24;Leskeaceae;Schimp.;stejnozoubkovité;;
+10161;V;10070;10087;10124;10145;10161;24;Thuidiaceae;Schimp.;zpeøenkovité;;
+10162;V;10070;10087;10124;10145;10162;24;Entodontaceae;Kindb.;pokryvnatcovité;;
+10163;V;10070;10087;10124;10145;10163;24;Taxiphyllaceae;Ignatov;lodìnkovité;;
+10164;V;10070;10087;10124;10145;10164;24;Hypnaceae;Schimp.;rokytovité;;
+10165;V;10070;10087;10124;10145;10165;24;Lembophyllaceae;Broth.;plavuníkovité;;
+10166;V;10070;10087;10124;10145;10166;24;Calliergonaceae;Vanderp., Hedenäs, C.J.Cox & A.J.Shaw;baøinatkovité;;
+10167;V;10070;10087;10124;10145;10167;24;Scorpidiaceae;Ignatov & Ignatova;štírovcovité;;
+10168;V;10070;10087;10124;10145;10168;24;Brachytheciaceae;Schimp.;baòatkovité;;
+10169;V;10070;10087;10124;10145;10169;24;Myuriaceae;M.Fleisch.;høebenitkovité;;
+10170;V;10070;10087;10124;10145;10170;24;Amblystegiaceae;Kindb.;rokıtkovité;;
+10171;V;10070;10087;10124;10145;10171;24;Pylaisiaceae;Schimp.;èepejønatkovité;;
+10172;V;10070;10087;10124;10145;10172;24;Hypnales incertae sedis;N/A;(bez èeského jména);;
+1;V;10000;10001;10002;10003;10004;28;Anthoceros;L.;hlevík;Y;
+2;V;10000;10001;10002;10003;10004;34;Anthoceros agrestis;Paton;hlevík polní;Y;LC
+3;V;10000;10001;10002;10003;10004;34;Anthoceros neesii;Prosk.;hlevík Neesùv;Y;EN
+4;V;10000;10001;10005;10006;10007;28;Notothylas;Sull. ex A.Gray;vycpálka;Y;
+5;V;10000;10001;10005;10006;10007;34;Notothylas orbicularis;(Schwein.) Sull.;vycpálka okrouhlá;Y;CR
+6;V;10000;10001;10005;10006;10007;28;Phaeoceros;Prosk.;hlevíèek;Y;
+7;V;10000;10001;10005;10006;10007;34;Phaeoceros carolinianus;(Michx.) Prosk.;hlevíèek karolínskı;Y;LC
+8;V;10008;10027;10028;10029;10031;28;Anastrepta;(Lindb.) Schiffn.;omšenka;Y;
+9;V;10008;10027;10028;10029;10031;34;Anastrepta orcadensis;(Hook.) Schiffn.;omšenka ohrnutá;Y;LC-att
+10;V;10008;10027;10028;10029;10031;28;Anastrophyllum;(Spruce) Steph.;polanka;Y;
+11;V;10008;10027;10028;10029;10031;34;Anastrophyllum michauxii;(F.Weber) H.Buch;polanka Michauxova;Y;EN
+12;V;10008;10027;10058;10059;10060;28;Aneura;Dumort.;bezilka;Y;
+13;V;10008;10027;10058;10059;10060;34;Aneura maxima;(Schiffn.) Steph.;bezilka nejvìtší;Y;NT
+14;V;10008;10027;10058;10059;10060;34;Aneura pinguis;(L.) Dumort.;bezilka mastná;Y;LC
+15;V;10008;10027;10028;10029;10036;28;Anthelia;(Dumort.) Dumort.;mrazovec;Y;
+16;V;10008;10027;10028;10029;10036;34;Anthelia julacea;(L.) Dumort.;mrazovec jehnìdovitı;Y;VU
+17;V;10008;10027;10028;10029;10036;34;Anthelia juratzkana;(Limpr.) Trevis.;mrazovec Juratzkùv;Y;CR
+18;V;10008;10013;10017;10020;10021;28;Asterella;P.Beauv.;mrtník;Y;
+19;V;10008;10013;10017;10020;10021;34;Asterella saccata;(Wahlenb.) A.Evans;mrtník váèkovitı;Y;EN
+20;V;10008;10027;10028;10029;10031;28;Barbilophozia;Loeske;seèovka;Y;
+21;V;10008;10027;10028;10029;10031;34;Barbilophozia barbata;(Schmidel ex Schreb.) Loeske;seèovka vousatá;Y;LC
+22;V;10008;10027;10028;10029;10031;34;Barbilophozia hatcheri;(A.Evans) Loeske;seèovka Hatcherova;Y;LC
+23;V;10008;10027;10028;10029;10031;34;Barbilophozia lycopodioides;(Wallr.) Loeske;seèovka plavuòovitá;Y;LC
+24;V;10008;10027;10028;10029;10031;34;Barbilophozia sudetica;(Nees ex Huebener) L.Söderstr., De Roo & Hedd.;seèovka sudetská;Y;LC
+25;V;10008;10027;10028;10029;10046;28;Bazzania;Gray;rohozec;Y;
+26;V;10008;10027;10028;10029;10046;34;Bazzania flaccida;(Dumort.) Grolle;rohozec obnaenı;Y;VU
+27;V;10008;10027;10028;10029;10046;34;Bazzania tricrenata;(Wahlenb.) Lindb.;rohozec trojzubı;Y;NT
+28;V;10008;10027;10028;10029;10046;34;Bazzania trilobata;(L.) Gray;rohozec trojlaloènı;Y;LC
+29;V;10008;10027;10028;10029;10046;36;Bazzania trilobata var. depauperata;(Müll.Frib.) Grolle;rohozec trojlaloènı ochuzenı;Y;NE
+30;V;10008;10027;10028;10029;10046;36;Bazzania trilobata var. trilobata;\N;rohozec trojlaloènı pravı;Y;NE
+31;V;10008;10027;10028;10029;10031;28;Biantheridion;(Grolle) Konstant. & Vilnet;dvojpelatka;V;
+32;V;10008;10027;10028;10029;10031;34;Biantheridion undulifolium;(Nees) Konstant. & Vilnet;dvojpelatka vlnitá;V;RE
+33;V;10008;10013;10014;10015;10016;28;Blasia;L.;jamuška;Y;
+34;V;10008;10013;10014;10015;10016;34;Blasia pusilla;L.;jamuška drobná;Y;LC
+35;V;10008;10027;10028;10029;10045;28;Blepharostoma;(Dumort.) Dumort.;nitkovec;Y;
+36;V;10008;10027;10028;10029;10045;34;Blepharostoma trichophyllum;(L.) Dumort.;nitkovec vlasovitı;Y;LC
+37;V;10008;10027;10028;10029;10045;36;Blepharostoma trichophyllum var. trichophyllum;\N;nitkovec vlasovitı pravı;Y;LC
+38;V;10008;10027;10028;10029;10037;28;Calypogeia;Raddi;kryjnice;Y;
+39;V;10008;10027;10028;10029;10037;34;Calypogeia azurea;Stotler & Crotz;kryjnice sleziníkovitá;Y;LC
+40;V;10008;10027;10028;10029;10037;34;Calypogeia fissa;(L.) Raddi;kryjnice zaøíznutá;Y;NT
+41;V;10008;10027;10028;10029;10037;34;Calypogeia integristipula;Steph.;kryjnice Meylanova;Y;LC
+42;V;10008;10027;10028;10029;10037;34;Calypogeia muelleriana;(Schiffn.) Müll.Frib.;kryjnice Müllerova;Y;LC
+43;V;10008;10027;10028;10029;10037;34;Calypogeia neesiana;(C.Massal. & Carestia) Müll.Frib.;kryjnice Neesova;Y;LC
+44;V;10008;10027;10028;10029;10037;34;Calypogeia sphagnicola;(Arnell & J.Perss.) Warnst. & Loeske;kryjnice rašelinná;Y;NT
+45;V;10008;10027;10028;10029;10037;34;Calypogeia suecica;(Arnell & J.Perss.) Müll.Frib.;kryjnice švédská;Y;NT
+46;V;10008;10027;10028;10029;10032;28;Cephalozia;(Dumort.) Dumort.;køepenka;Y;
+47;V;10008;10027;10028;10029;10032;34;Cephalozia bicuspidata;(L.) Dumort.;køepenka dvoulaloèná;Y;LC
+48;V;10008;10027;10028;10029;10032;35;Cephalozia bicuspidata subsp. bicuspidata;\N;køepenka dvoulaloèná pravá;Y;NE
+49;V;10008;10027;10028;10029;10032;35;Cephalozia bicuspidata subsp. lammersiana;(Huebener) R.M.Schust.;køepenka dvoulaloèná Lammersova;Y;NE
+50;V;10008;10027;10028;10029;10032;34;Cephalozia lacinulata;(J.B.Jack ex Gottsche & Rabenh.) Spruce;køepenka døípená;V;RE
+51;V;10008;10027;10028;10029;10032;34;Cephalozia macounii;(Austin) Austin;køepenka Macounova;N;NE
+52;V;10008;10027;10028;10029;10033;28;Cephaloziella;(Spruce) Schiffn.;drobnièka;Y;
+53;V;10008;10027;10028;10029;10033;34;Cephaloziella dentata;(Raddi) Steph.;drobnièka zubatá;N;NE
+54;V;10008;10027;10028;10029;10033;34;Cephaloziella divaricata;(Sm.) Schiffn.;drobnièka Starkeova;Y;LC
+55;V;10008;10027;10028;10029;10033;36;Cephaloziella divaricata var. divaricata;\N;drobnièka Starkeova pravá;Y;NE
+56;V;10008;10027;10028;10029;10033;36;Cephaloziella divaricata var. scabra;(M.Howe) Haynes;drobnièka Starkeova drsná;Y;NE
+57;V;10008;10027;10028;10029;10033;34;Cephaloziella elachista;(J.B.Jack ex Gottsche & Rabenh.) Schiffn.;drobnièka nìná;Y;EN
+58;V;10008;10027;10028;10029;10033;34;Cephaloziella elegans;(Heeg) Schiffn.;drobnièka slièná;Y;CR
+59;V;10008;10027;10028;10029;10033;34;Cephaloziella grimsulana;(J.B.Jack ex Gottsche & Rabenh.) Lacout.;drobnièka horská;Y;EN
+60;V;10008;10027;10028;10029;10033;34;Cephaloziella hampeana;(Nees) Schiffn. ex Loeske;drobnièka Hampeova;Y;LC-att
+61;V;10008;10027;10028;10029;10033;34;Cephaloziella rubella;(Nees) Warnst.;drobnièka naèervenalá;Y;LC
+62;V;10008;10027;10028;10029;10033;34;Cephaloziella spinigera;(Lindb.) J?rg.;drobnièka zoubkatá;Y;VU
+63;V;10008;10027;10028;10029;10033;34;Cephaloziella stellulifera;(Taylor ex Carrington & Pearson) Croz.;drobnièka hvìzdovitá;Y;CR
+64;V;10008;10027;10028;10029;10047;28;Chiloscyphus;Corda;køehutka;Y;
+65;V;10008;10027;10028;10029;10047;34;Chiloscyphus pallescens;(Ehrh.) Dumort.;køehutka bledá;Y;LC-att
+66;V;10008;10027;10028;10029;10047;36;Chiloscyphus pallescens var. fragilis;(Roth) Müll.Frib.;køehutka bledá køehká;Y;NE
+67;V;10008;10027;10028;10029;10047;36;Chiloscyphus pallescens var. pallescens;\N;køehutka bledá pravá;Y;NE
+68;V;10008;10027;10028;10029;10047;34;Chiloscyphus polyanthos;(L.) Corda;køehutka obecná;Y;LC
+69;V;10008;10027;10028;10029;10047;36;Chiloscyphus polyanthos var. polyanthos;\N;køehutka obecná pravá;Y;NE
+70;V;10008;10027;10028;10029;10047;36;Chiloscyphus polyanthos var. rivularis;(Schrad.) Lindb. & Arnell;køehutka obecná potoèní;Y;NE
+71;V;10008;10027;10028;10051;10053;28;Cololejeunea;(Spruce) Steph.;jeenka;Y;
+72;V;10008;10027;10028;10051;10053;34;Cololejeunea calcarea;(Lib.) Steph.;jeenka vápencová;Y;VU
+73;V;10008;10027;10028;10051;10053;34;Cololejeunea rossettiana;(C.Massal.) Schiffn.;jeenka Rossettiho;Y;VU
+74;V;10008;10013;10017;10020;10022;28;Conocephalum;Hill;møíkovec;Y;
+75;V;10008;10013;10017;10020;10022;34;Conocephalum conicum;(L.) Dumort.;møíkovec kuelovitı;Y;LC
+76;V;10008;10013;10017;10020;10022;34;Conocephalum salebrosum;Szweyk., Buczk. & Odrzyk.;møíkovec draslavı;Y;LC
+77;V;10008;10027;10028;10029;10031;28;Crossocalyx;Meyl.;støíovka;Y;
+78;V;10008;10027;10028;10029;10031;34;Crossocalyx hellerianus;(Nees ex Lindenb.) Meyl.;støíovka Hellerova;Y;EN
+79;V;10008;10027;10028;10029;10035;28;Diplophyllum;(Dumort.) Dumort.;zdvojenka;Y;
+80;V;10008;10027;10028;10029;10035;34;Diplophyllum albicans;(L.) Dumort.;zdvojenka bìlavá;Y;LC
+81;V;10008;10027;10028;10029;10035;34;Diplophyllum obtusifolium;(Hook.) Dumort.;zdvojenka tupolistá;Y;LC
+82;V;10008;10027;10028;10029;10035;34;Diplophyllum taxifolium;(Wahlenb.) Dumort.;zdvojenka tisolistá;Y;LC
+83;V;10008;10027;10028;10029;10038;28;Endogemma;Konstant., Vilnet & A.V.Troitsky;endogema;Y;
+84;V;10008;10027;10028;10029;10038;34;Endogemma caespiticia;(Lindenb.) Konstant.,Vilnet & A.V.Troitsky;endogema trsnatá;Y;LC-att
+85;V;10008;10027;10062;10063;10064;28;Fossombronia;Raddi;hlávkovec;Y;
+86;V;10008;10027;10062;10063;10064;34;Fossombronia angulosa;(Dicks.) Raddi;hlávkovec hranatı;V;RE
+87;V;10008;10027;10062;10063;10064;34;Fossombronia caespitiformis;(Raddi) De Not. ex Rabenh.;hlávkovec trsnatı;N;NE
+88;V;10008;10027;10062;10063;10064;34;Fossombronia foveolata;Lindb.;hlávkovec Dumortierùv;Y;EN
+89;V;10008;10027;10062;10063;10064;34;Fossombronia pusilla;(L.) Nees;hlávkovec drobnı;Y;DD-va
+90;V;10008;10027;10062;10063;10064;34;Fossombronia wondraczekii;(Corda) Dumort. ex Lindb.;hlávkovec Wondraczekùv;Y;LC
+91;V;10008;10027;10028;10051;10052;28;Frullania;Raddi;kovanec;Y;
+92;V;10008;10027;10028;10051;10052;34;Frullania dilatata;(L.) Dumort.;kovanec plochı;Y;LC
+93;V;10008;10027;10028;10051;10052;34;Frullania fragilifolia;(Taylor) Gottsche, Lindenb. & Nees;kovanec køehkolistı;Y;CR
+94;V;10008;10027;10028;10051;10052;34;Frullania inflata;Gottsche;kovanec nadmutı;Y;EN
+95;V;10008;10027;10028;10051;10052;34;Frullania tamarisci;(L.) Dumort.;kovanec tamaryškovı;Y;NT
+96;V;10008;10027;10028;10029;10032;28;Fuscocephaloziopsis;Fulford;køepenka;Y;
+97;V;10008;10027;10028;10029;10032;34;Fuscocephaloziopsis albescens;(Hook.) Váòa & L.Söderstr.;køepenka bìlavá;N;NE
+98;V;10008;10027;10028;10029;10032;34;Fuscocephaloziopsis catenulata;(Huebener) Váòa & L.Söderstr.;køepenka øetízkovitá;Y;NT
+99;V;10008;10027;10028;10029;10032;34;Fuscocephaloziopsis connivens;(Dicks.) Váòa & L.Söderstr.;køepenka zahnutá;Y;LC
+100;V;10008;10027;10028;10029;10032;34;Fuscocephaloziopsis leucantha;(Spruce) Váòa & L.Söderstr.;køepenka bledá;Y;NT
+101;V;10008;10027;10028;10029;10032;34;Fuscocephaloziopsis loitlesbergeri;(Schiffn.) Váòa & L.Söderstr.;køepenka Loitlesbergerova;Y;VU
+102;V;10008;10027;10028;10029;10032;34;Fuscocephaloziopsis lunulifolia;(Dumort.) Váòa & L.Söderstr.;køepenka prostøední;Y;LC
+103;V;10008;10027;10028;10029;10032;34;Fuscocephaloziopsis macrostachya;(Kaal.) Váòa & L.Söderstr.;køepenka rašelinná;Y;VU
+104;V;10008;10027;10028;10029;10032;36;Fuscocephaloziopsis macrostachya var. macrostachya;\N;køepenka rašelinná pravá;Y;NE
+105;V;10008;10027;10028;10029;10032;34;Fuscocephaloziopsis pleniceps;(Austin) Váòa & L.Söderstr.;køepenka hlavatá;Y;VU
+106;V;10008;10027;10028;10029;10039;28;Geocalyx;Nees;vøesovka;Y;
+107;V;10008;10027;10028;10029;10039;34;Geocalyx graveolens;(Schrad.) Nees;vøesovka vonná;Y;VU
+108;V;10008;10027;10028;10029;10031;28;Gymnocolea;(Dumort.) Dumort.;svojnice;Y;
+109;V;10008;10027;10028;10029;10031;34;Gymnocolea inflata;(Huds.) Dumort.;svojnice nadmutá;Y;LC
+110;V;10008;10027;10028;10029;10031;35;Gymnocolea inflata subsp. inflata;\N;svojnice nadmutá pravá;Y;NE
+111;V;10008;10027;10028;10029;10040;28;Gymnomitrion;Corda;skulinatka;Y;
+112;V;10008;10027;10028;10029;10040;34;Gymnomitrion adustum;Nees;skulinatka osmahlá;V;RE
+113;V;10008;10027;10028;10029;10040;34;Gymnomitrion alpinum;(Gottsche ex Husn.) Schiffn.;skulinatka alpská;Y;EN
+114;V;10008;10027;10028;10029;10040;34;Gymnomitrion brevissimum;(Dumort.) Warnst.;skulinatka pestrá;V;RE
+115;V;10008;10027;10028;10029;10040;34;Gymnomitrion concinnatum;(Lightf.) Corda;skulinatka ladná;Y;LC-att
+116;V;10008;10027;10028;10029;10040;34;Gymnomitrion corallioides;Nees;skulinatka korálová;Y;CR
+117;V;10008;10027;10028;10029;10040;34;Gymnomitrion obtusum;Lindb.;skulinatka tupá;V;RE
+118;V;10008;10009;10010;10011;10012;28;Haplomitrium;Nees;pøímenka;Y;
+119;V;10008;10009;10010;10011;10012;34;Haplomitrium hookeri;(Lyell ex Sm.) Nees;pøímenka Hookerova;Y;CR
+120;V;10008;10027;10028;10029;10041;28;Harpanthus;Nees;nivenka;Y;
+121;V;10008;10027;10028;10029;10041;34;Harpanthus flotovianus;(Nees) Nees;nivenka Flotowova;Y;VU
+122;V;10008;10027;10028;10029;10041;34;Harpanthus scutatus;(F.Weber & D.Mohr) Spruce;nivenka štítovitá;Y;EN
+123;V;10008;10027;10028;10029;10034;28;Heterogemma;(J?rg.) Konstant. & Vilnet;køiítka;Y;
+124;V;10008;10027;10028;10029;10034;34;Heterogemma capitata;(Hook.) Konstant. & Vilnet;køiítka hlavatá;Y;VU
+125;V;10008;10027;10028;10029;10036;28;Hygrobiella;Spruce;mokøanka;Y;
+126;V;10008;10027;10028;10029;10036;34;Hygrobiella laxifolia;(Hook.) Spruce;mokøanka oddálená;Y;VU
+127;V;10008;10027;10028;10029;10031;28;Isopaches;H.Buch;obdìnka;Y;
+128;V;10008;10027;10028;10029;10031;34;Isopaches bicrenatus;(Schmidel ex Hoffm.) H.Buch;obdìnka zoubkatá;Y;NT
+129;V;10008;10027;10028;10029;10042;28;Jungermannia;L.;trsenka;Y;
+130;V;10008;10027;10028;10029;10042;34;Jungermannia atrovirens;Dumort.;trsenka tmavozelená;Y;VU
+131;V;10008;10027;10028;10029;10042;34;Jungermannia exsertifolia;Steph.;(bez èeského jména);N;NE
+132;V;10008;10027;10028;10029;10042;35;Jungermannia exsertifolia subsp. cordifolia;(Dumort.) Váòa;trsenka srdèitá;N;NE
+133;V;10008;10027;10028;10029;10042;34;Jungermannia pumila;With.;trsenka drobná;Y;NT
+134;V;10008;10027;10028;10029;10046;28;Kurzia;G.Martens;skøíovec;Y;
+135;V;10008;10027;10028;10029;10046;34;Kurzia pauciflora;(Dicks.) Grolle;skøíovec štìtinovitı;Y;VU
+136;V;10008;10027;10028;10029;10046;34;Kurzia sylvatica;(A.Evans) Grolle;skøíovec lesní;Y;LC-att
+137;V;10008;10027;10028;10029;10046;34;Kurzia trichoclados;(Müll.Frib.) Grolle;skøíovec vláskovitı;Y;EN
+138;V;10008;10027;10028;10051;10053;28;Lejeunea;Lib.;roeòka;Y;
+139;V;10008;10027;10028;10051;10053;34;Lejeunea cavifolia;(Ehrh.) Lindb.;roeòka dutolistá;Y;LC
+140;V;10008;10027;10028;10029;10046;28;Lepidozia;(Dumort.) Dumort.;plevinka;Y;
+141;V;10008;10027;10028;10029;10046;34;Lepidozia cupressina;(Sw.) Lindenb.;(bez èeského jména);N;NE
+142;V;10008;10027;10028;10029;10046;34;Lepidozia reptans;(L.) Dumort.;plevinka plazivá;Y;LC
+143;V;10008;10027;10028;10029;10047;28;Leptoscyphus;Mitt.;(bez èeského jména);N;
+144;V;10008;10027;10028;10029;10047;34;Leptoscyphus cuneifolius;(Hook.) Mitt.;(bez èeského jména);N;NE
+145;V;10008;10027;10028;10029;10042;28;Liochlaena;Nees;trsenka;Y;
+146;V;10008;10027;10028;10029;10042;34;Liochlaena lanceolata;Nees;trsenka kopinatá;Y;NT
+147;V;10008;10027;10028;10029;10042;34;Liochlaena subulata;(A.Evans) Schljakov;trsenka šídlovitá;Y;CR
+148;V;10008;10027;10028;10029;10047;28;Lophocolea;(Dumort.) Dumort.;obhøebenka;Y;
+149;V;10008;10027;10028;10029;10047;34;Lophocolea bidentata;(L.) Dumort.;obhøebenka špièatá;Y;LC-att
+150;V;10008;10027;10028;10029;10047;34;Lophocolea coadunata;(Sw.) Mont.;obhøebenka dvouzubá;Y;LC
+151;V;10008;10027;10028;10029;10047;34;Lophocolea heterophylla;(Schrad.) Dumort.;obhøebenka rùznolistá;Y;LC
+152;V;10008;10027;10028;10029;10047;34;Lophocolea minor;Nees;obhøebenka menší;Y;LC
+153;V;10008;10027;10028;10029;10034;28;Lophozia;(Dumort.) Dumort.;køiítka;Y;
+154;V;10008;10027;10028;10029;10034;34;Lophozia ascendens;(Warnst.) R.M.Schust.;køiítka vystoupavá;Y;EN
+155;V;10008;10027;10028;10029;10034;34;Lophozia guttulata;(Lindb. & Arnell) A.Evans;køiítka dlouhoplodá;Y;LC
+156;V;10008;10027;10028;10029;10034;34;Lophozia silvicola;H.Buch;køiítka lesní;Y;LC-att
+157;V;10008;10027;10028;10029;10034;34;Lophozia ventricosa;(Dicks.) Dumort.;køiítka bøichatá;Y;LC
+158;V;10008;10027;10028;10029;10034;34;Lophozia wenzelii;(Nees) Steph.;køiítka Wenzelova;Y;CR
+159;V;10008;10027;10028;10029;10034;28;Lophoziopsis;Konstant. & Vilnet;køiítka;Y;
+160;V;10008;10027;10028;10029;10034;34;Lophoziopsis excisa;(Dicks.) Konstant. & Vilnet;køiítka vykrojená;Y;LC-att
+161;V;10008;10027;10028;10029;10034;34;Lophoziopsis longidens;(Lindb.) Konstant. & Vilnet;køiítka protáhlá;Y;NT
+162;V;10008;10013;10017;10018;10019;28;Lunularia;Adans.;lunatka;Y;
+163;V;10008;10013;10017;10018;10019;34;Lunularia cruciata;(L.) Dumort. ex Lindb.;lunatka køíatá;Y;LC
+164;V;10008;10013;10017;10020;10021;28;Mannia;Corda;mozolka;Y;
+165;V;10008;10013;10017;10020;10021;34;Mannia fragrans;(Balbis) Frye & L.Clark;mozolka vonná;Y;NT
+166;V;10008;10013;10017;10020;10021;34;Mannia gracilis;(F.Weber) D.B.Schill & D.G.Long;mozolka štíhlá;Y;EN
+167;V;10008;10013;10017;10020;10021;34;Mannia triandra;(Scop.) Grolle;mozolka skalní;Y;CR
+168;V;10008;10013;10017;10020;10023;28;Marchantia;L.;porostnice;Y;
+169;V;10008;10013;10017;10020;10023;34;Marchantia polymorpha;L.;porostnice mnohotvárná;Y;NE
+170;V;10008;10013;10017;10020;10023;35;Marchantia polymorpha subsp. montivagans;Bischl. & Boissel.-Dub.;porostnice mnohotvárná horská;Y;LC-att
+171;V;10008;10013;10017;10020;10023;35;Marchantia polymorpha subsp. polymorpha;\N;porostnice mnohotvárná pravá;Y;LC
+172;V;10008;10013;10017;10020;10023;35;Marchantia polymorpha subsp. ruderalis;Bischl. & Boissel.-Dub.;porostnice mnohotvárná ruderální;Y;LC
+173;V;10008;10027;10028;10029;10040;28;Marsupella;Dumort.;obrutka;Y;
+174;V;10008;10027;10028;10029;10040;34;Marsupella aquatica;(Lindenb.) Schiffn.;obrutka vodní;Y;LC
+175;V;10008;10027;10028;10029;10040;34;Marsupella boeckii;(Austin) Lindb. ex Kaal.;obrutka Boeckova;N;NE
+176;V;10008;10027;10028;10029;10040;34;Marsupella emarginata;(Ehrh.) Dumort.;obrutka vykrojená;Y;LC
+177;V;10008;10027;10028;10029;10040;34;Marsupella funckii;(F.Weber & D.Mohr) Dumort.;obrutka Funckova;Y;NT
+178;V;10008;10027;10028;10029;10040;34;Marsupella sparsifolia;(Lindb.) Dumort.;obrutka øídkolistá;Y;CR
+179;V;10008;10027;10028;10029;10040;34;Marsupella sphacelata;(Giesecke ex Lindenb.) Dumort.;obrutka skvrnitá;Y;LC
+180;V;10008;10027;10028;10029;10040;34;Marsupella sprucei;(Limpr.) Bernet;obrutka Spruceova;Y;EN
+181;V;10008;10027;10028;10029;10042;28;Mesoptychia;(Lindb.) A.Evans;prasklice;Y;
+182;V;10008;10027;10028;10029;10042;34;Mesoptychia badensis;(Gottsche ex Rabenh.) L.Söderstr. & Váòa;prasklice bádenská;Y;VU
+183;V;10008;10027;10028;10029;10042;34;Mesoptychia bantriensis;(Hook.) L.Söderstr. & Váòa;prasklice bantryjská;Y;LC
+1359;V;10008;10027;10028;10029;10042;34;Mesoptychia collaris;(Nees) L.Söderstr. & Váòa;prasklice Müllerova;Y;NE
+184;V;10008;10027;10028;10029;10042;34;Mesoptychia heterocolpos;(Thed. ex Hartm.) L.Söderstr. & Váòa;prasklice vzpøímená;Y;CR
+185;V;10008;10027;10028;10029;10042;34;Mesoptychia turbinata;(Raddi) L.Söderstr. & Váòa;(bez èeského jména);N;NE
+186;V;10008;10027;10058;10059;10061;28;Metzgeria;Raddi;kroknice;Y;
+187;V;10008;10027;10058;10059;10061;34;Metzgeria conjugata;Lindb.;kroknice spojená;Y;LC
+188;V;10008;10027;10058;10059;10061;34;Metzgeria furcata;(L.) Corda;kroknice vidliènatá;Y;LC
+189;V;10008;10027;10058;10059;10061;34;Metzgeria pubescens;(Schrank) Raddi;kroknice chlupatá;Y;LC-att
+190;V;10008;10027;10058;10059;10061;34;Metzgeria simplex;Lorb. ex Müll.Frib.;kroknice jednoduchá;Y;NE
+191;V;10008;10027;10058;10059;10061;34;Metzgeria violacea;(Ach.) Dumort.;kroknice keøíèkovitá;Y;VU
+192;V;10008;10027;10028;10051;10053;28;Microlejeunea;(Spruce) Steph.;jemnièka;Y;
+193;V;10008;10027;10028;10051;10053;34;Microlejeunea ulicina;(Taylor) Steph.;jemnièka hlodášová;Y;CR
+194;V;10008;10027;10062;10065;10066;28;Moerckia;;oleška;Y;
+195;V;10008;10027;10062;10065;10066;34;Moerckia blyttii;(Moerch) Brockm.;oleška Blyttova;Y;EN
+196;V;10008;10027;10062;10065;10066;34;Moerckia flotoviana;(Nees) Schiffn.;oleška Flotowova;Y;CR
+197;V;10008;10027;10062;10065;10066;34;Moerckia hibernica;(Hook.) Gottsche;oleška irská;N;NE
+198;V;10008;10027;10028;10029;10050;28;Mylia;Gray;vršatka;Y;
+199;V;10008;10027;10028;10029;10050;34;Mylia anomala;(Hook.) Gray;vršatka odchylná;Y;LC
+200;V;10008;10027;10028;10029;10050;34;Mylia taylorii;(Hook.) Gray;vršatka Taylorova;Y;LC
+201;V;10008;10027;10028;10029;10040;28;Nardia;Gray;okrunice;Y;
+202;V;10008;10027;10028;10029;10040;34;Nardia compressa;(Hook.) Gray;okrunice stlaèená;Y;VU
+203;V;10008;10027;10028;10029;10040;34;Nardia geoscyphus;(De Not.) Lindb.;okunice malá;Y;LC
+204;V;10008;10027;10028;10029;10040;34;Nardia insecta;Lindb.;okrunice zaøíznutá;V;DD-va
+205;V;10008;10027;10028;10029;10040;34;Nardia scalaris;Gray;okrunice schodovitá;Y;LC
+206;V;10008;10027;10028;10029;10031;28;Neoorthocaulis;L.Söderstr., De Roo & Hedd.;seèovka;Y;
+207;V;10008;10027;10028;10029;10031;34;Neoorthocaulis attenuatus;(Mart.) L.Söderstr., De Roo & Hedd.;seèovka štíhlá;Y;LC
+208;V;10008;10027;10028;10029;10031;34;Neoorthocaulis floerkei;(F.Weber & D.Mohr) L.Söderstr., De Roo & Hedd.;seèovka Floerkova;Y;LC
+209;V;10008;10027;10028;10029;10032;28;Nowellia;Mitt.;paøezovec;Y;
+210;V;10008;10027;10028;10029;10032;34;Nowellia curvifolia;(Dicks.) Mitt.;paøezovec køivolistı;Y;LC-att
+211;V;10008;10027;10028;10029;10033;28;Obtusifolium;S.W.Arnell;tupenka;Y;
+212;V;10008;10027;10028;10029;10033;34;Obtusifolium obtusum;(Lindb.) S.W.Arnell;tupenka tupá;Y;EN
+213;V;10008;10027;10028;10029;10032;28;Odontoschisma;(Dumort.) Dumort.;slatinatka ;Y;
+214;V;10008;10027;10028;10029;10032;34;Odontoschisma denudatum;(Mart.) Dumort.;slatinatka obnaená;Y;LC-att
+215;V;10008;10027;10028;10029;10032;34;Odontoschisma fluitans;(Nees) L.Söderstr. & Váòa;slatinatka splıvavá;Y;EN
+216;V;10008;10027;10028;10029;10032;34;Odontoschisma francisci;(Hook.) L.Söderstr. & Váòa;slatinatka Francisova;Y;CR
+217;V;10008;10027;10028;10029;10032;34;Odontoschisma sphagni;(Dicks.) Dumort.;slatinatka rašeliníková;Y;EN
+218;V;10008;10027;10028;10029;10031;28;Orthocaulis;H.Buch;seèovka;Y;
+219;V;10008;10027;10028;10029;10031;34;Orthocaulis atlanticus;(Kaal.) H.Buch;seèovka atlantská;Y;RE
+220;V;10008;10013;10017;10020;10024;28;Oxymitra;Bisch. ex Lindenb.;opatka;Y;
+221;V;10008;10013;10017;10020;10024;34;Oxymitra incrassata;(Brot.) Sérgio & Sim-Sim;opatka šupinatá;Y;EN
+222;V;10008;10027;10062;10065;10067;28;Pallavicinia;Gray;netøebka;V;
+223;V;10008;10027;10062;10065;10067;34;Pallavicinia lyellii;(Hook.) Gray;netøebka Lyellova;V;RE
+224;V;10008;10027;10028;10029;10048;28;Pedinophyllum;Lindb. ex Nordst.;vápnomilka;Y;
+225;V;10008;10027;10028;10029;10048;34;Pedinophyllum interruptum;(Nees) Kaal.;vápnomilka pøerušovaná;Y;LC-att
+226;V;10008;10027;10062;10068;10069;28;Pellia;Raddi;pobøenice;Y;
+227;V;10008;10027;10062;10068;10069;34;Pellia endiviifolia;(Dicks.) Dumort.;pobøenice vápnomilná;Y;LC
+228;V;10008;10027;10062;10068;10069;34;Pellia epiphylla;(L.) Corda;pobøenice obecná;Y;LC
+229;V;10008;10027;10062;10068;10069;35;Pellia epiphylla subsp. borealis ;(Lorb.) Messe;pobøenice obecná pravá;N;NE
+230;V;10008;10027;10062;10068;10069;35;Pellia epiphylla subsp. epiphylla;\N;pobøenice obecná severní;Y;NE
+231;V;10008;10027;10062;10068;10069;34;Pellia neesiana;(Gottsche) Limpr.;pobøenice Neesova;Y;LC
+232;V;10008;10027;10028;10029;10048;28;Plagiochila;(Dumort.) Dumort.;kapraïovka;Y;
+233;V;10008;10027;10028;10029;10048;34;Plagiochila asplenioides;(L.) Dumort.;kapraïovka sleziníkovitá;Y;LC
+234;V;10008;10027;10028;10029;10048;34;Plagiochila porelloides;(Torr. ex Nees) Lindenb.;kapraïovka podhoøankovitá;Y;LC
+235;V;10008;10027;10028;10029;10048;34;Plagiochila spinulosa;(Dicks.) Dumort.;(bez èeského jména);N;NE
+236;V;10008;10027;10028;10051;10054;28;Porella;L.;podhoøanka;Y;
+237;V;10008;10027;10028;10051;10054;34;Porella arboris-vitae;(With.) Grolle;podhoøanka lesklá;Y;NT
+238;V;10008;10027;10028;10051;10054;34;Porella baueri;(Schiffn.) C.E.O.Jensen;podhoøanka Bauerova;Y;NE
+239;V;10008;10027;10028;10051;10054;34;Porella cordaeana;(Huebener) Moore;podhoøanka Cordova;Y;NT
+240;V;10008;10027;10028;10051;10054;34;Porella pinnata;L.;(bez èeského jména);N;NE
+241;V;10008;10027;10028;10051;10054;34;Porella platyphylla;(L.) Pfeiff.;podhoøanka plocholistá;Y;LC
+242;V;10008;10027;10028;10051;10054;34;Porella platyphylloidea;(Schwein.) Lindb.;podhoøanka zploštìlá;N;NE
+243;V;10008;10013;10017;10020;10023;28;Preissia;Corda;pateøín;Y;
+244;V;10008;10013;10017;10020;10023;34;Preissia quadrata;(Scop.) Nees;pateøín ètyødílnı;Y;LC
+245;V;10008;10027;10028;10056;10057;28;Ptilidium;Nees;brvitec;Y;
+246;V;10008;10027;10028;10056;10057;34;Ptilidium ciliare;(L.) Hampe;brvitec chlupatı;Y;LC
+247;V;10008;10027;10028;10056;10057;34;Ptilidium pulcherrimum;(Weber) Vain.;brvitec pøekrásnı;Y;LC
+248;V;10008;10027;10028;10051;10055;28;Radula;Dumort.;struhatka;Y;
+249;V;10008;10027;10028;10051;10055;34;Radula complanata;(L.) Dumort.;struhatka zploštìlá;Y;LC
+250;V;10008;10027;10028;10051;10055;34;Radula lindenbergiana;Gottsche ex C.Hartm.;struhatka Lindenbergova;Y;VU
+251;V;10008;10013;10017;10020;10021;28;Reboulia;Raddi;koenka;Y;
+252;V;10008;10013;10017;10020;10021;34;Reboulia hemisphaerica;(L.) Raddi;koenka polokulovitá;Y;NT
+253;V;10008;10027;10058;10059;10060;28;Riccardia;Gray;stìkovec;Y;
+254;V;10008;10027;10058;10059;10060;34;Riccardia chamedryfolia;(With.) Grolle;stìkovec vykrajovanı;Y;VU
+255;V;10008;10027;10058;10059;10060;34;Riccardia incurvata;Lindb.;stìkovec zakøivenı;Y;VU
+256;V;10008;10027;10058;10059;10060;34;Riccardia latifrons;(Lindb.) Lindb.;stìkovec širokı;Y;LC-att
+257;V;10008;10027;10058;10059;10060;34;Riccardia multifida;(L.) Gray;stìkovec mnohodílnı;Y;LC-att
+258;V;10008;10027;10058;10059;10060;34;Riccardia palmata;(Hedw.) Carruth.;stìkovec prstnatı;Y;LC-att
+259;V;10008;10013;10017;10020;10025;28;Riccia;L.;trhutka;Y;
+260;V;10008;10013;10017;10020;10025;34;Riccia beyrichiana;Hampe;trhutka Beyrichova;N;NE
+261;V;10008;10013;10017;10020;10025;34;Riccia bifurca;Hoffm.;trhutka dvouklanná;Y;LC-att
+262;V;10008;10013;10017;10020;10025;34;Riccia canaliculata;Hoffm.;trhutka lábkovitá;V;DD-va
+263;V;10008;10013;10017;10020;10025;34;Riccia cavernosa;Hoffm.;trhutka dutinkatá;Y;NT
+264;V;10008;10013;10017;10020;10025;34;Riccia ciliata;Hoffm.;trhutka chlupatá;Y;NT
+265;V;10008;10013;10017;10020;10025;34;Riccia ciliifera;Link;trhutka brvitá;Y;NT
+266;V;10008;10013;10017;10020;10025;34;Riccia crinita;Taylor;trhutka vlasatá;Y;NE
+267;V;10008;10013;10017;10020;10025;34;Riccia fluitans;L.;trhutka plovoucí;Y;LC
+268;V;10008;10013;10017;10020;10025;34;Riccia glauca;L.;trhutka sivá;Y;LC
+269;V;10008;10013;10017;10020;10025;34;Riccia gougetiana;Durieu & Mont.;trhutka Gougetova;Y;NE
+270;V;10008;10013;10017;10020;10025;34;Riccia huebeneriana;Lindenb.;trhutka Hübenerova;Y;EN
+271;V;10008;10013;10017;10020;10025;34;Riccia michelii;Raddi;trhutka Michelova;N;NE
+272;V;10008;10013;10017;10020;10025;34;Riccia papillosa;Moris;trhutka papilnatá;Y;CR
+273;V;10008;10013;10017;10020;10025;34;Riccia rhenana;Lorb. ex Müll.Frib.;trhutka rınská;Y;NT
+274;V;10008;10013;10017;10020;10025;34;Riccia sorocarpa;Bisch.;trhutka obecná;Y;LC
+275;V;10008;10013;10017;10020;10025;34;Riccia warnstorfii;Limpr. ex Warnst.;trhutka Warnstorfova;Y;VU
+276;V;10008;10013;10017;10020;10025;28;Ricciocarpos;Corda;nalovka;Y;
+277;V;10008;10013;10017;10020;10025;34;Ricciocarpos natans;(L.) Corda;nalovka plovoucí;Y;NT
+278;V;10008;10027;10028;10029;10043;28;Saccogyna;Dumort.;(bez èeského jména);N;
+279;V;10008;10027;10028;10029;10043;34;Saccogyna viticulosa;(L.) Dumort.;(bez èeského jména);N;NE
+280;V;10008;10027;10028;10029;10035;28;Scapania;(Dumort.) Dumort.;kılnatka;Y;
+281;V;10008;10027;10028;10029;10035;34;Scapania aequiloba;(Schwägr.) Dumort.;kılnatka stejnolaloèná;Y;NT
+282;V;10008;10027;10028;10029;10035;34;Scapania apiculata;Spruce;kılnatka špièatá;Y;CR
+283;V;10008;10027;10028;10029;10035;34;Scapania aspera;M.Bernet & Bernet;kılnatka drsná;Y;VU
+284;V;10008;10027;10028;10029;10035;34;Scapania calcicola;(Arnell & J.Perss.) Ingham;kılnatka vápencová;Y;EN
+285;V;10008;10027;10028;10029;10035;34;Scapania carinthiaca;J.B.Jack ex Lindb.;kılnatka korutanská;V;RE
+286;V;10008;10027;10028;10029;10035;36;Scapania carinthiaca var. massalongi;Müll.Frib.;kılnatka korutanská Massalongova;V;RE
+287;V;10008;10027;10028;10029;10035;34;Scapania compacta;(Roth) Dumort.;kılnatka sloená;V;DD-va
+288;V;10008;10027;10028;10029;10035;34;Scapania curta;(Mart.) Dumort.;kılnatka drobná;Y;LC
+289;V;10008;10027;10028;10029;10035;34;Scapania cuspiduligera;(Nees) Müll.Frib.;kılnatka pøišpièatìlá;Y;VU
+290;V;10008;10027;10028;10029;10035;34;Scapania gymnostomophila;Kaal.;kılnatka vzácná;Y;EN
+291;V;10008;10027;10028;10029;10035;34;Scapania helvetica;Gottsche;kılnatka švıcarská;Y;CR
+292;V;10008;10027;10028;10029;10035;34;Scapania irrigua;(Nees) Nees;kılnatka zavlaovaná;Y;LC
+293;V;10008;10027;10028;10029;10035;34;Scapania lingulata;H.Buch;kılnatka drobnolistá;Y;EN
+294;V;10008;10027;10028;10029;10035;34;Scapania mucronata;H.Buch;kılnatka ostnitá;Y;DD
+295;V;10008;10027;10028;10029;10035;34;Scapania nemorea;(L.) Grolle;kılnatka hajní;Y;LC
+296;V;10008;10027;10028;10029;10035;34;Scapania paludicola;Loeske & Müll.Frib.;kılnatka bainná;Y;VU
+297;V;10008;10027;10028;10029;10035;34;Scapania paludosa;(Müll.Frib.) Müll.Frib.;kılnatka moèálová;Y;VU
+298;V;10008;10027;10028;10029;10035;34;Scapania parvifolia;Warnst.;kılnatka malolistá;Y;CR
+299;V;10008;10027;10028;10029;10035;34;Scapania praetervisa;Meyl.;kılnatka opomíjená;Y;VU
+300;V;10008;10027;10028;10029;10035;34;Scapania scandica;(Arnell & H.Buch) Macvicar;kılnatka vystoupavá;Y;DD
+301;V;10008;10027;10028;10029;10035;34;Scapania subalpina;(Nees ex Lindenb.) Dumort.;kılnatka horská;Y;NT
+302;V;10008;10027;10028;10029;10035;34;Scapania uliginosa;(Lindenb.) Dumort.;kılnatka mokøadní;Y;LC
+303;V;10008;10027;10028;10029;10035;34;Scapania umbrosa;(Schrad.) Dumort.;kılnatka stinná;Y;LC
+304;V;10008;10027;10028;10029;10035;34;Scapania undulata;(L.) Dumort.;kılnatka zvlnìná;Y;LC
+305;V;10008;10027;10028;10029;10035;34;Scapania verrucosa;Heeg;kılnatka bradaviènatá;N;NE
+306;V;10008;10027;10028;10029;10035;28;Schistochilopsis;(N.Kitag.) Konstant.;klanoústka;Y;
+307;V;10008;10027;10028;10029;10035;34;Schistochilopsis grandiretis;(Lindb. ex Kaal.) Konstant.;klanoústka velkobunìèná;Y;VU
+308;V;10008;10027;10028;10029;10035;34;Schistochilopsis incisa;(Schrad.) Konstant.;klanoústka zaøíznutá;Y;LC
+309;V;10008;10027;10028;10029;10035;34;Schistochilopsis opacifolia;(Culm. ex Meyl.) Konstant.;klanoústka tmavá;Y;DD-va
+310;V;10008;10027;10028;10029;10031;28;Schljakovia;Konstant. & Vilnet;seèovka;Y;
+311;V;10008;10027;10028;10029;10031;34;Schljakovia kunzeana;(Huebener) Konstant. & Vilnet;seèovka Kunzeova;Y;EN
+312;V;10008;10027;10028;10029;10031;28;Schljakovianthus;Konstant. & Vilnet;seèovka;Y;
+313;V;10008;10027;10028;10029;10031;34;Schljakovianthus quadrilobus;(Lindb.) Konstant. & Vilnet;seèovka ètyølaloèná;Y;EN
+314;V;10008;10027;10028;10029;10044;28;Solenostoma;Mitt.;ústìnka;Y;
+315;V;10008;10027;10028;10029;10044;34;Solenostoma confertissimum;(Nees) Schljakov;ústìnka Levierova;Y;VU
+316;V;10008;10027;10028;10029;10044;34;Solenostoma gracillimum;(Sm.) R.M.Schust.;ústìnka vroubená;Y;LC
+317;V;10008;10027;10028;10029;10044;34;Solenostoma hyalinum;(Lyell) Mitt.;ústìnka bledá;Y;NT
+318;V;10008;10027;10028;10029;10044;34;Solenostoma obovatum;(Nees) C.Massal.;ústìnka obvejèitá;Y;LC
+319;V;10008;10027;10028;10029;10044;34;Solenostoma sphaerocarpum;(Hook.) Steph.;ústìnka okrouhlá;Y;LC
+320;V;10008;10027;10028;10029;10031;28;Sphenolobus;(Lindb.) Berggr.;nuzenka;Y;
+321;V;10008;10027;10028;10029;10031;34;Sphenolobus minutus;(Schreb. ex D.Crantz) Berggr.;nuzenka drobná;Y;LC
+322;V;10008;10027;10028;10029;10031;34;Sphenolobus saxicola;(Schrad.) Steph.;nuzenka skalní;Y;VU
+323;V;10008;10027;10028;10029;10030;28;Syzygiella;Spruce;vidoòka;Y;
+324;V;10008;10027;10028;10029;10030;34;Syzygiella autumnalis;(DC.) K.Feldberg, Váòa, Hentschel & Heinrichs;vidoòka podzimní;Y;VU
+325;V;10008;10013;10017;10020;10026;28;Targionia;L.;boreèka;Y;
+326;V;10008;10013;10017;10020;10026;34;Targionia hypophylla;L.;boreèka vzácná;Y;CR
+327;V;10008;10027;10028;10029;10031;28;Tetralophozia;(R.M.Schust.) Schljakov;toporec;Y;
+328;V;10008;10027;10028;10029;10031;34;Tetralophozia setiformis;(Ehrh.) Schljakov;toporec štìtinatı;Y;VU
+329;V;10008;10027;10028;10029;10049;28;Trichocolea;Dumort.;pìknice;Y;
+330;V;10008;10027;10028;10029;10049;34;Trichocolea tomentella;(Ehrh.) Dumort.;pìknice plstnatá;Y;LC-att
+331;V;10008;10027;10028;10029;10034;28;Trilophozia;(R.M.Schust.) Bakalin;palèice;Y;
+332;V;10008;10027;10028;10029;10034;34;Trilophozia quinquedentata;(Huds.) Bakalin;palèice hrotitá;Y;LC
+333;V;10008;10027;10028;10029;10034;28;Tritomaria;Schiffn. ex Loeske;palèice;Y;
+334;V;10008;10027;10028;10029;10034;34;Tritomaria exsecta;(Schmidel) Schiffn. ex Loeske;palèice vykrojená;Y;LC
+335;V;10008;10027;10028;10029;10034;34;Tritomaria exsectiformis;(Breidl.) Schiffn. ex Loeske;palèice vykrajovaná;Y;LC-att
+336;V;10008;10027;10028;10029;10034;34;Tritomaria scitula;(Taylor) J?rg.;palèice vkusná;N;NE
+337;V;10070;10087;10124;10145;10161;28;Abietinella;Müll.Hal.;zpeøenka;Y;
+338;V;10070;10087;10124;10145;10161;34;Abietinella abietina;(Hedw.) M.Fleisch.;zpeøenka jedlová;Y;NE
+339;V;10070;10087;10124;10145;10161;36;Abietinella abietina var. abietina;\N;zpeøenka jedlová pravá;Y;LC
+340;V;10070;10087;10124;10145;10161;36;Abietinella abietina var. hystricosa;(Mitt.) Sakurai;zpeøenka jedlová jeatá;Y;DD
+341;V;10070;10087;10102;10112;10123;28;Acaulon;Müll.Hal.;bezprutka;Y;
+342;V;10070;10087;10102;10112;10123;34;Acaulon muticum;(Schreb. ex Hedw.) Müll.Hal.;bezprutka tupá;Y;LC-att
+343;V;10070;10087;10102;10112;10123;34;Acaulon triquetrum;(Spruce) Müll.Hal.;bezprutka tøíboká;Y;VU
+344;V;10070;10087;10124;10145;10154;28;Alleniella;S.Olsson, Enroth & D.Quandt;sourubka;Y;
+345;V;10070;10087;10124;10145;10154;34;Alleniella besseri;(Lobarzewski) S.Olsson, Enroth & D.Quandt;sourubka tupolistá;Y;LC
+346;V;10070;10087;10124;10145;10154;34;Alleniella complanata;(Hedw.) S.Olsson, Enroth & D.Quandt;sourubka hladká;Y;LC
+347;V;10070;10087;10102;10112;10123;28;Aloina;Kindb.;tuènolístek;Y;
+348;V;10070;10087;10102;10112;10123;34;Aloina aloides;(Koch ex Schultz) Kindb.;tuènolístek aloeovitı;Y;NE
+349;V;10070;10087;10102;10112;10123;36;Aloina aloides var. aloides;\N;tuènolístek aloeovitı pravı;V;DD-va
+350;V;10070;10087;10102;10112;10123;36;Aloina aloides var. ambigua;(Bruch & Schimp.) E.J.Craig;tuènolístek aloeovitı vøesolistı;Y;EN
+351;V;10070;10087;10102;10112;10123;34;Aloina bifrons;(De Not.) Delgad.;(bez èeského jména);N;NE
+352;V;10070;10087;10102;10112;10123;34;Aloina brevirostris;(Hook. & Grev.) Kindb.;tuènolístek krátkolistı;Y;CR
+353;V;10070;10087;10102;10112;10123;34;Aloina obliquifolia;(Müll.Hal.) Broth.;tuènolístek hrotolistı;Y;LC
+354;V;10070;10087;10102;10112;10123;34;Aloina rigida;(Hedw.) Limpr.;tuènolístek tuhı;Y;LC
+355;V;10070;10087;10124;10127;10144;28;Amblyodon;P.Beauv.;lahvovec;Y;
+356;V;10070;10087;10124;10127;10144;34;Amblyodon dealbatus;(Hedw.) P.Beauv.;lahvovec jednostrannı;Y;CR
+357;V;10070;10087;10124;10145;10170;28;Amblystegium;Schimp.;rokıtek;Y;
+358;V;10070;10087;10124;10145;10170;34;Amblystegium serpens;(Hedw.) Schimp.;rokıtek obecnı;Y;LC
+359;V;10070;10087;10102;10112;10115;28;Amphidium;Schimp.;pohárovec;Y;
+360;V;10070;10087;10102;10112;10115;34;Amphidium lapponicum;(Hedw.) Schimp.;pohárovec laponskı;Y;EN
+361;V;10070;10087;10102;10112;10115;34;Amphidium mougeotii;(Bruch & Schimp.) Schimp.;pohárovec Mougeotùv;Y;LC
+362;V;10070;10087;10124;10145;10170;28;Anacamptodon;Brid.;paøezníèek;Y;
+363;V;10070;10087;10124;10145;10170;34;Anacamptodon splachnoides;(Froel. ex Brid.) Brid.;paøezníèek celokrajnı;Y;EN
+364;V;10070;10075;10076;10077;10078;28;Andreaea;Hedw.;štìrbovka;Y;
+365;V;10070;10075;10076;10077;10078;34;Andreaea alpestris;(Thed.) Schimp.;štìrbovka horská;?;NE
+366;V;10070;10075;10076;10077;10078;34;Andreaea crassinervia;Bruch;štìrbovka tlustoeberná;Y;CR
+367;V;10070;10075;10076;10077;10078;34;Andreaea frigida;Huebener;štìrbovka mdlá;Y;CR
+368;V;10070;10075;10076;10077;10078;34;Andreaea heinemannii;Hampe & Müll.Hal.;(bez èeského jména);N;NE
+369;V;10070;10075;10076;10077;10078;34;Andreaea rothii;F.Weber & D.Mohr;štìrbovka Rothova;Y;NE
+370;V;10070;10075;10076;10077;10078;35;Andreaea rothii subsp. rothii;\N;štìrbovka Rothova pravá;Y;EN
+371;V;10070;10075;10076;10077;10078;35;Andreaea rothii subsp. falcata;(Schimp.) Lindb.;štìrbovka Rothova jednostranná;Y;LC-att
+372;V;10070;10075;10076;10077;10078;34;Andreaea rupestris;Hedw.;štìrbovka skalní;Y;LC
+373;V;10070;10087;10102;10112;10123;28;Anoectangium;Schwägr.;èíšnatka;Y;
+374;V;10070;10087;10102;10112;10123;34;Anoectangium aestivum;(Hedw.) Mitt.;èíšnatka hustá;Y;EN
+375;V;10070;10087;10124;10133;10134;28;Anomobryum;Schimp.;støecholistec;Y;
+376;V;10070;10087;10124;10133;10134;34;Anomobryum concinnatum;(Spruce) Lindb.;støecholistec ladnı;Y;CR
+377;V;10070;10087;10124;10145;10159;28;Anomodon;Hook. & Taylor;klaminka;Y;
+378;V;10070;10087;10124;10145;10159;34;Anomodon attenuatus;(Hedw.) Huebener;klaminka ztenèená;Y;LC
+379;V;10070;10087;10124;10145;10159;34;Anomodon longifolius;(Schleich. ex Brid.) Hartm.;klaminka dlouholistá;Y;LC
+380;V;10070;10087;10124;10145;10159;34;Anomodon rostratus;(Hedw.) Schimp.;klaminka rozloená;V;DD-va
+381;V;10070;10087;10124;10145;10159;34;Anomodon rugelii;(Müll.Hal.) Keissl.;klaminka tupolistá;Y;VU
+382;V;10070;10087;10124;10145;10159;34;Anomodon viticulosus;(Hedw.) Hook. & Taylor;klaminka keøíèkovitá;Y;LC
+383;V;10070;10087;10124;10145;10151;28;Antitrichia;Brid.;ilnatka;Y;
+384;V;10070;10087;10124;10145;10151;34;Antitrichia curtipendula;(Hedw.) Brid.;ilnatka pøevislá;Y;LC-att
+385;V;10070;10087;10102;10112;10117;28;Arctoa;Bruch & Schimp.;volnoústka;V;
+386;V;10070;10087;10102;10112;10117;34;Arctoa fulvella;(Dicks.) Bruch & Schimp.;volnoústka plavá;V;RE
+387;V;10070;10087;10102;10112;10113;28;Archidium;Brid.;úpolnièka;Y;
+388;V;10070;10087;10102;10112;10113;34;Archidium alternifolium;(Dicks. ex Hedw.) Schimp.;úpolnièka støídavolistá;Y;CR
+389;V;10070;10087;10102;10112;10123;28;Aschisma;Lindb.;nepukavka;N;
+390;V;10070;10087;10102;10112;10123;34;Aschisma carniolicum;(F.Weber & D.Mohr) Lindb.;nepukavka krajinská;N;NE
+391;V;10070;10079;10080;10081;10082;28;Atrichum;P.Beauv.;bezvláska;Y;
+392;V;10070;10079;10080;10081;10082;34;Atrichum angustatum;(Brid.) Bruch & Schimp.;bezvláska úzkolistá;Y;EN
+393;V;10070;10079;10080;10081;10082;34;Atrichum flavisetum;Mitt.;bezvláska Hausknechtova;Y;DD
+394;V;10070;10079;10080;10081;10082;34;Atrichum tenellum;(Röhl.) Bruch & Schimp.;bezvláska útlá;Y;NT
+395;V;10070;10079;10080;10081;10082;34;Atrichum undulatum;(Hedw.) P.Beauv.;bezvláska vlnkatá;Y;LC
+396;V;10070;10087;10124;10138;10139;28;Aulacomnium;Schwägr.;klamonoka;Y;
+397;V;10070;10087;10124;10138;10139;34;Aulacomnium androgynum;(Hedw.) Schwägr.;klamonoka hlávkoplodá;Y;LC
+398;V;10070;10087;10124;10138;10139;34;Aulacomnium palustre;(Hedw.) Schwägr.;klamonoka bahenní;Y;LC
+399;V;10070;10087;10102;10112;10123;28;Barbula;Hedw.;vousatìnka;Y;
+400;V;10070;10087;10102;10112;10123;34;Barbula unguiculata;Hedw.;vousatìnka nehetnatá;Y;LC
+401;V;10070;10087;10124;10129;10130;28;Bartramia;Hedw.;kulistec;Y;
+402;V;10070;10087;10124;10129;10130;34;Bartramia halleriana;Hedw.;kulistec Hallerùv;Y;NT
+403;V;10070;10087;10124;10129;10130;34;Bartramia ithyphylla;Brid.;kulistec rovnolistı;Y;LC-att
+404;V;10070;10087;10124;10129;10130;34;Bartramia pomiformis;Hedw.;kulistec jablíèkovitı;Y;LC
+405;V;10070;10087;10102;10107;10111;28;Blindia;Bruch & Schimp.;hruškoplodec;Y;
+406;V;10070;10087;10102;10107;10111;34;Blindia acuta;(Hedw.) Bruch & Schimp.;hruškoplodec ostrı;Y;LC
+407;V;10070;10087;10102;10107;10111;28;Blindiadelphus;(Lindb.) Fedosov & Ignatov;kápìnka;Y;
+408;V;10070;10087;10102;10107;10111;34;Blindiadelphus campylopodus;(Kindb.) Fedosov & Ignatov;kápìnka køivoštìtá;Y;VU
+409;V;10070;10087;10102;10107;10111;34;Blindiadelphus recurvatus;(Hedw.) Fedosov & Ignatov;kápìnka ohnutá;Y;LC
+410;V;10070;10087;10102;10107;10110;28;Brachydontium;Fürnr.;malozubka;Y;
+411;V;10070;10087;10102;10107;10110;34;Brachydontium trichodes;(F.Weber) Milde;malozubka vlasovitá;Y;LC-att
+412;V;10070;10087;10124;10145;10168;28;Brachytheciastrum;Ignatov & Huttunen;baòatka;Y;
+413;V;10070;10087;10124;10145;10168;34;Brachytheciastrum vanekii;(Šmarda) Ochyra & ¯arnowiec;baòatka Vaòkova;N;NE
+414;V;10070;10087;10124;10145;10168;34;Brachytheciastrum velutinum;(Hedw.) Ignatov & Huttunen;baòatka aksamitová;Y;LC
+415;V;10070;10087;10124;10145;10168;28;Brachythecium;Schimp.;baòatka;Y;
+416;V;10070;10087;10124;10145;10168;34;Brachythecium albicans;(Hedw.) Schimp.;baòatka bìlavá;Y;LC
+417;V;10070;10087;10124;10145;10168;34;Brachythecium campestre;(Müll.Hal.) Schimp.;baòatka ladní;Y;LC-att
+418;V;10070;10087;10124;10145;10168;34;Brachythecium capillaceum;(F.Weber & D.Mohr) Giacom.;baòatka vláskovitá;V;DD-va
+419;V;10070;10087;10124;10145;10168;34;Brachythecium cirrosum;(Schwägr.) Schimp.;hájovka tenkoeberná;N;NE
+420;V;10070;10087;10124;10145;10168;34;Brachythecium erythrorrhizon;Schimp.;baòatka ohnutá;N;NE
+421;V;10070;10087;10124;10145;10168;34;Brachythecium geheebii;Milde;baòatka Geheebova;Y;EN
+422;V;10070;10087;10124;10145;10168;34;Brachythecium glareosum;(Bruch ex Spruce) Schimp.;baòatka štìrková;Y;LC
+423;V;10070;10087;10124;10145;10168;34;Brachythecium laetum;(Brid.) Schimp.;baòatka lesklá;Y;EN
+424;V;10070;10087;10124;10145;10168;34;Brachythecium mildeanum;(Schimp.) Schimp.;baòatka Mildeova;Y;LC-att
+425;V;10070;10087;10124;10145;10168;34;Brachythecium rivulare;Schimp.;baòatka potoèní;Y;LC
+426;V;10070;10087;10124;10145;10168;34;Brachythecium rutabulum;(Hedw.) Schimp.;baòatka obecná;Y;LC
+427;V;10070;10087;10124;10145;10168;34;Brachythecium salebrosum;(Hoffm. ex F.Weber & D.Mohr) Schimp.;baòatka draslavá;Y;LC
+428;V;10070;10087;10124;10145;10168;34;Brachythecium tenuicaule;(Spruce) Kindb.;baòatka tenkolodyná;Y;CR
+429;V;10070;10087;10124;10145;10168;34;Brachythecium tommasinii;(Sendtn. ex Boulay) Ignatov & Huttunen;baòatka Tommasiniho;Y;LC
+430;V;10070;10087;10124;10125;10126;28;Braunia;Bruch & Schimp.;(bez èeského jména);N;
+431;V;10070;10087;10124;10125;10126;34;Braunia imberbis;(Sm.) N.Dalton & D.G.Long;(bez èeského jména);N;NE
+432;V;10070;10087;10124;10145;10172;28;Breidleria;Loeske;jílovka;Y;
+433;V;10070;10087;10124;10145;10172;34;Breidleria pratensis;(Koch ex Spruce) Loeske;jílovka luèní;Y;LC-att
+434;V;10070;10087;10102;10112;10123;28;Bryoerythrophyllum;P.C.Chen;klenice;Y;
+435;V;10070;10087;10102;10112;10123;34;Bryoerythrophyllum ferruginascens;(Stirt.) Giacom.;klenice rezavá;Y;LC-att
+436;V;10070;10087;10102;10112;10123;34;Bryoerythrophyllum recurvirostrum;(Hedw.) P.C.Chen;klenice naèervenalá;Y;LC
+437;V;10070;10087;10124;10133;10134;28;Bryum;Hedw.;prutník;Y;
+438;V;10070;10087;10124;10133;10134;34;Bryum algovicum;Sendtn. ex Müll.Hal.;prutník pøevislı;V;DD-va
+439;V;10070;10087;10124;10133;10134;34;Bryum alpinum;Huds. ex With.;prutník horskı;Y;NT
+440;V;10070;10087;10124;10133;10134;34;Bryum arcticum;(R.Br.) Bruch & Schimp.;prutník severskı;N;NE
+441;V;10070;10087;10124;10133;10134;34;Bryum argenteum;Hedw.;prutník støíbøitı;Y;LC
+442;V;10070;10087;10124;10133;10134;34;Bryum archangelicum;Bruch & Schimp.;prutník nachılenı;Y;EN
+443;V;10070;10087;10124;10133;10134;34;Bryum boreale;(F.Weber & D.Mohr) Funck;prutník plavı;Y;LC
+444;V;10070;10087;10124;10133;10134;34;Bryum caespiticium;Hedw.;prutník drnatı;Y;LC
+445;V;10070;10087;10124;10133;10134;34;Bryum capillare;Hedw.;prutník chluponosnı;Y;LC
+446;V;10070;10087;10124;10133;10134;34;Bryum creberrimum;Taylor;prutník nahlouèenı;Y;EN
+447;V;10070;10087;10124;10133;10134;34;Bryum cryophilum;M?rtensson;(bez èeského jména);N;NE
+448;V;10070;10087;10124;10133;10134;34;Bryum cyclophyllum;(Schwägr.) Bruch & Schimp.;prutník okrouhlolistı;Y;EN
+449;V;10070;10087;10124;10133;10134;34;Bryum dichotomum;Hedw.;prutník dvoubarevnı;Y;LC
+450;V;10070;10087;10124;10133;10134;34;Bryum donianum;Grev.;(bez èeského jména);N;NE
+451;V;10070;10087;10124;10133;10134;34;Bryum elegans;Nees;prutník zdobnı;Y;NT
+452;V;10070;10087;10124;10133;10134;34;Bryum funkii;Schwägr.;prutník Funckùv;Y;DD
+453;V;10070;10087;10124;10133;10134;34;Bryum gemmiferum;R.Wilczek & Demaret;prutník mnoilkonosnı;Y;LC-att
+454;V;10070;10087;10124;10133;10134;34;Bryum intermedium;(Brid.) Turton;prutník prostøední;Y;CR
+455;V;10070;10087;10124;10133;10134;34;Bryum klinggraeffii;Schimp.;prutník Klinggraefùv;Y;LC
+456;V;10070;10087;10124;10133;10134;34;Bryum knowltonii;Barnes;(bez èeského jména);N;NE
+457;V;10070;10087;10124;10133;10134;34;Bryum kunzei;Hornsch.;prutník Kunzeùv;Y;DD
+458;V;10070;10087;10124;10133;10134;34;Bryum longisetum;Blandow ex Schwägr.;prutník dlouhoštìtı;V;RE
+459;V;10070;10087;10124;10133;10134;34;Bryum mildeanum;Jur.;prutník Mildeùv;Y;VU
+460;V;10070;10087;10124;10133;10134;34;Bryum moravicum;Podp.;prutník moravskı;Y;LC
+461;V;10070;10087;10124;10133;10134;34;Bryum muehlenbeckii;Bruch & Schimp.;prutník Mühlenbeckùv;Y;NT
+462;V;10070;10087;10124;10133;10134;34;Bryum pallens;Sw.;prutník bledı;Y;LC
+463;V;10070;10087;10124;10133;10134;34;Bryum pseudotriquetrum;(Hedw.) G.Gaertn., B.Mey. & Scherb.;prutník hvìzdovitı;Y;NE
+464;V;10070;10087;10124;10133;10134;36;Bryum pseudotriquetrum var. pseudotriquetrum;\N;prutník hvìzdovitı pravı;Y;LC
+465;V;10070;10087;10124;10133;10134;36;Bryum pseudotriquetrum var. bimum;(Schreb.) Sw.;prutník hvìzdovitı dvouletı;Y;LC-att
+466;V;10070;10087;10124;10133;10134;36;Bryum pseudotriquetrum var. neodamense;(Itzigs.) Buse;prutník hvìzdovitı neudamskı;V;RE
+467;V;10070;10087;10124;10133;10134;34;Bryum radiculosum;Brid.;prutník zední;Y;LC-att
+468;V;10070;10087;10124;10133;10134;34;Bryum rubens;Mitt.;prutník èervenající;Y;LC
+469;V;10070;10087;10124;10133;10134;34;Bryum ruderale;Crundw. & Nyholm;prutník rumištní;Y;DD
+470;V;10070;10087;10124;10133;10134;34;Bryum sauteri;Bruch & Schimp.;prutník Sauterùv;Y;DD
+471;V;10070;10087;10124;10133;10134;34;Bryum schleicheri;Schwägr.;prutník Schleicherùv;Y;CR
+472;V;10070;10087;10124;10133;10134;34;Bryum subapiculatum;Hampe;prutník pøišpièatìlı;Y;LC
+473;V;10070;10087;10124;10133;10134;34;Bryum tenuisetum;Limpr.;prutník tenkoštìtı;Y;DD
+474;V;10070;10087;10124;10133;10134;34;Bryum torquescens;Bruch & Schimp.;prutník kroucenı;Y;DD
+475;V;10070;10087;10124;10133;10134;34;Bryum turbinatum;(Hedw.) Turner;prutník èíšovitı;Y;EN
+476;V;10070;10087;10124;10133;10134;34;Bryum uliginosum;(Brid.) Bruch & Schimp.;prutník bainnı;Y;EN
+477;V;10070;10087;10124;10133;10134;34;Bryum violaceum;Crundw. & Nyholm;prutník nafialovìlı;Y;LC
+478;V;10070;10087;10124;10133;10134;34;Bryum warneum;(Röhl.) Brid.;prutník warenskı;N;NE
+479;V;10070;10087;10124;10133;10134;34;Bryum weigelii;Biehler;prutník Weigelùv;Y;LC-att
+480;V;10070;10087;10088;10089;10090;28;Buxbaumia;Hedw.;šikoušek;Y;
+481;V;10070;10087;10088;10089;10090;34;Buxbaumia aphylla;Hedw.;šikoušek bezlistı;Y;NT
+482;V;10070;10087;10088;10089;10090;34;Buxbaumia viridis;(DC.) Moug. & Nestl.;šikoušek zelenı;Y;VU
+483;V;10070;10087;10124;10145;10164;28;Callicladium;H.A.Crum;døevomilka;Y;
+484;V;10070;10087;10124;10145;10164;34;Callicladium haldanianum;(Grev.) H.A.Crum;døevomilka rùznolistá;Y;VU
+485;V;10070;10087;10124;10145;10166;28;Calliergon;(Sull.) Kindb.;baøinatka;Y;
+486;V;10070;10087;10124;10145;10166;34;Calliergon cordifolium;(Hedw.) Kindb.;baøinatka srdèitá;Y;LC
+487;V;10070;10087;10124;10145;10166;34;Calliergon giganteum;(Schimp.) Kindb.;baøinatka obrovská;Y;VU
+488;V;10070;10087;10124;10145;10166;34;Calliergon megalophyllum;Mikut.;baøinatka velkolistá;V;RE
+489;V;10070;10087;10124;10145;10166;34;Calliergon richardsonii;(Mitt.) Kindb. ex G.Roth;baøinatka hnìdoèervená;N;NE
+490;;10070;10087;10124;10145;10172;28;Calliergonella;Loeske;károvka;Y;
+491;V;10070;10087;10124;10145;10172;34;Calliergonella cuspidata;(Hedw.) Loeske;károvka hrotitá;Y;LC
+492;V;10070;10087;10124;10145;10172;34;Calliergonella lindbergii;(Mitt.) Hedenäs;károvka Lindbergova;Y;LC
+493;V;10070;10087;10124;10145;10170;28;Campyliadelphus;(Kindb.) R.S.Chopra;zelenka;Y;
+494;V;10070;10087;10124;10145;10170;34;Campyliadelphus elodes;(Lindb.) Kanda;zelenka bainná;Y;DD-va
+495;V;10070;10087;10124;10145;10170;34;Campyliadelphus chrysophyllus;(Brid.) Kanda;zelenka zlatolistá;Y;LC
+496;V;10070;10087;10124;10145;10170;28;Campylium;(Sull.) Mitt.;zelenka;Y;
+497;V;10070;10087;10124;10145;10170;34;Campylium protensum;(Brid.) Kindb.;zelenka prodlouená;Y;LC-att
+498;V;10070;10087;10124;10145;10170;34;Campylium stellatum;(Hedw.) Lange & C.E.O.Jensen;zelenka hvìzdovitá;Y;NT
+499;V;10070;10087;10124;10145;10170;28;Campylophyllopsis;W.R.Buck;mechovec;Y;
+500;V;10070;10087;10124;10145;10170;34;Campylophyllopsis calcarea;(Crundw. & Nyholm) Ochyra;mechovec vápencovı;Y;LC-att
+501;V;10070;10087;10124;10145;10170;34;Campylophyllopsis hispidula;(Brid.) Ochyra;mechovec štìtinovitı;N;NE
+502;V;10070;10087;10124;10145;10170;34;Campylophyllopsis sommerfeltii;(Myrin) Ochyra;mechovec Sommerfeltùv;N;LC-att
+503;V;10070;10087;10124;10145;10170;28;Campylophyllum;(Schimp.) M.Fleisch.;mechovec;Y;
+504;V;10070;10087;10124;10145;10170;34;Campylophyllum halleri;(Hedw.) M.Fleisch.;mechovec Hallerùv;Y;EN
+505;V;10070;10087;10102;10112;10114;28;Campylopus;Brid.;køivonoka;Y;
+506;V;10070;10087;10102;10112;10114;34;Campylopus flexuosus;(Hedw.) Brid.;køivonoka zprohıbaná;Y;LC
+507;V;10070;10087;10102;10112;10114;34;Campylopus fragilis;(Brid.) Bruch & Schimp.;køivonoka køehká;Y;LC-att
+508;V;10070;10087;10102;10112;10114;34;Campylopus introflexus;(Hedw.) Brid.;køivonoka vehnutá;Y;LC
+509;V;10070;10087;10102;10112;10114;34;Campylopus pyriformis;(Schultz) Brid.;køivonoka hruškovitá;Y;LC-att
+510;V;10070;10087;10102;10112;10114;34;Campylopus subulatus;Schimp. ex Milde;køivonoka krátkolistá;Y;VU
+511;V;10070;10087;10102;10107;10110;28;Campylostelium;Bruch & Schimp.;køivoštìt;Y;
+512;V;10070;10087;10102;10107;10110;34;Campylostelium saxicola;(F.Weber & D.Mohr) Bruch & Schimp.;køivoštìt skalní;Y;NT
+513;V;10070;10087;10102;10112;10122;28;Ceratodon;Brid.;rohozub;Y;
+514;V;10070;10087;10102;10112;10122;34;Ceratodon conicus;(Hampe) Lindb.;(bez èeského jména);?;NE
+515;V;10070;10087;10102;10112;10122;34;Ceratodon heterophyllus;Kindb.;(bez èeského jména);N;NE
+516;V;10070;10087;10102;10112;10122;34;Ceratodon purpureus;(Hedw.) Brid.;rohozub nachovı;Y;LC
+517;V;10070;10087;10102;10112;10122;35;Ceratodon purpureus subsp. purpureus;\N;rohozub nachovı pravı;Y;LC
+518;V;10070;10087;10124;10133;10135;28;Cinclidium;Sw.;kleèenka;N;
+519;V;10070;10087;10124;10133;10135;34;Cinclidium stygium;Sw.;kleèenka bahenní;N;NE
+520;V;10070;10087;10102;10112;10123;28;Cinclidotus;P.Beauv.;sítozubka;Y;
+521;V;10070;10087;10102;10112;10123;34;Cinclidotus aquaticus;(Hedw.) Bruch & Schimp.;sítozubka vodní;V;RE
+522;V;10070;10087;10102;10112;10123;34;Cinclidotus fontinaloides;(Hedw.) P.Beauv.;sítozubka zdrojovkovitá;Y;CR
+523;V;10070;10087;10102;10112;10123;34;Cinclidotus riparius;(Host ex Brid.) Arn.;sítozubka pobøení;Y;VU
+524;V;10070;10087;10124;10145;10168;28;Cirriphyllum;Grout;hájovka;Y;
+525;V;10070;10087;10124;10145;10168;34;Cirriphyllum crassinervium;(Taylor ex Wilson) Loeske & M.Fleisch.;hájovka tlustoeberná;Y;LC
+526;V;10070;10087;10124;10145;10168;34;Cirriphyllum piliferum;(Hedw.) Grout;hájovka chluponosná;Y;LC
+527;V;10070;10087;10102;10112;10122;28;Cleistocarpidium;Ochyra & Bedn.-Ochyra;libuòka;Y;
+528;V;10070;10087;10102;10112;10122;34;Cleistocarpidium palustre;(Bruch & Schimp.) Ochyra & Bednarek-Ochyra;libuòka bahenní;Y;VU
+529;V;10070;10087;10124;10145;10152;28;Climacium;F.Weber & D.Mohr;drabík;Y;
+530;V;10070;10087;10124;10145;10152;34;Climacium dendroides;(Hedw.) F.Weber & D.Mohr;drabík stromkovitı;Y;LC
+531;V;10070;10087;10102;10112;10117;28;Cnestrum;I.Hagen;celozubec;N;
+532;V;10070;10087;10102;10112;10117;34;Cnestrum alpestre;(Wahlenb.) Nyholm;celozubec horskı;N;NE
+533;V;10070;10087;10102;10112;10117;34;Cnestrum schisti;(F.Weber & D.Mohr) I.Hagen;celozubec skalní;N;NE
+534;V;10070;10087;10124;10145;10172;28;Conardia;H.Rob.;konardia;Y;
+535;V;10070;10087;10124;10145;10172;34;Conardia compacta;(Müll.Hal.) H.Rob.;konardia hustotrsá;Y;EN
+536;V;10070;10087;10102;10107;10109;28;Coscinodon;Spreng.;síovenka;Y;
+537;V;10070;10087;10102;10107;10109;34;Coscinodon cribrosus;(Hedw.) Spruce;síovenka poduškovitá;Y;LC
+538;V;10070;10087;10124;10145;10170;28;Cratoneuron;(Sull.) Spruce;hruboebrec;Y;
+539;V;10070;10087;10124;10145;10170;34;Cratoneuron curvicaule;(Jur.) G.Roth;(bez èeského jména);N;NE
+540;V;10070;10087;10124;10145;10170;34;Cratoneuron filicinum;(Hedw.) Spruce;hruboebrec kapradinovı;Y;LC
+541;V;10070;10087;10102;10112;10123;28;Crossidium;Jur.;tøásnatka;Y;
+542;V;10070;10087;10102;10112;10123;34;Crossidium squamiferum;(Viv.) Jur.;tøásnatka šupinatá;Y;CR
+543;V;10070;10087;10124;10145;10169;28;Ctenidium;(Schimp.) Mitt.;høebenitka;Y;
+544;V;10070;10087;10124;10145;10169;34;Ctenidium molluscum;(Hedw.) Mitt.;høebenitka mìkkounká;Y;LC
+545;V;10070;10087;10102;10112;10117;28;Cynodontium;Bruch & Schimp.;psízubec;Y;
+546;V;10070;10087;10102;10112;10117;34;Cynodontium bruntonii;(Sm.) Bruch & Schimp.;psízubec Bruntonùv;Y;LC-att
+547;V;10070;10087;10102;10112;10117;34;Cynodontium fallax;Limpr.;psízubec klamnı;N;NE
+548;V;10070;10087;10102;10112;10117;34;Cynodontium gracilescens;(F.Weber & D.Mohr) Schimp.;psízubec štíhlı;Y;VU
+549;V;10070;10087;10102;10112;10117;34;Cynodontium polycarpon;(Hedw.) Schimp.;psízubec mnohoplodı;Y;LC
+550;V;10070;10087;10102;10112;10117;34;Cynodontium strumiferum;(Hedw.) Lindb.;psízubec bradatı;Y;LC
+551;V;10070;10087;10102;10112;10117;34;Cynodontium tenellum;(Schimp.) Limpr.;psízubec zakroucenı;Y;VU
+552;V;10070;10087;10124;10133;10135;28;Cyrtomnium;Holmen;mìøíkovec;N;
+553;V;10070;10087;10124;10133;10135;34;Cyrtomnium hymenophylloides;(Huebener) T.J.Kop.;mìøíkovec blánatcolistı;N;NE
+554;V;10070;10087;10124;10145;10147;28;Dichelyma;Myrin;dvojkrytka;V;
+555;V;10070;10087;10124;10145;10147;34;Dichelyma falcatum;(Hedw.) Myrin;dvojkrytka srpovitá;V;DD-va
+556;V;10070;10087;10102;10112;10119;28;Dichodontium;Schimp.;klanozubka;Y;
+557;V;10070;10087;10102;10112;10119;34;Dichodontium flavescens;(Dicks. ex With.) Lindb.;klanozubka plavá;N;NE
+558;V;10070;10087;10102;10112;10119;34;Dichodontium palustre;(Dicks.) M.Stech;klanozubka bahenní;Y;LC-att
+559;V;10070;10087;10102;10112;10119;34;Dichodontium pellucidum;(Hedw.) Schimp.;klanozubka prosvítavá;Y;LC
+560;V;10070;10087;10102;10112;10119;28;Dicranella;(Müll.Hal.) Schimp.;dvouhroteèek;Y;
+561;V;10070;10087;10102;10112;10119;34;Dicranella cerviculata;(Hedw.) Schimp.;dvouhroteèek volátkovitı;Y;LC
+562;V;10070;10087;10102;10112;10119;34;Dicranella crispa;(Hedw.) Schimp.;dvouhroteèek kadeøavı;V;DD-va
+563;V;10070;10087;10102;10112;10119;34;Dicranella grevilleana;(Brid.) Schimp.;dvouhroteèek Grevilleùv;N;NE
+564;V;10070;10087;10102;10112;10119;34;Dicranella heteromalla;(Hedw.) Schimp.;dvouhroteèek rùznotvárnı;Y;LC
+565;V;10070;10087;10102;10112;10119;34;Dicranella humilis;R.Ruthe;dvouhroteèek nízkı;Y;VU
+566;V;10070;10087;10102;10112;10119;34;Dicranella rufescens;(With.) Schimp.;dvouhroteèek naryšavìlı;Y;LC
+567;V;10070;10087;10102;10112;10119;34;Dicranella schreberiana;(Hedw.) Dixon;dvouhroteèek Schreberùv;Y;LC
+568;V;10070;10087;10102;10112;10119;34;Dicranella staphylina;H.Whitehouse;dvouhroteèek hroznovitı;Y;LC
+569;V;10070;10087;10102;10112;10119;34;Dicranella subulata;(Hedw.) Schimp.;dvouhroteèek šídlovitı;Y;VU
+570;V;10070;10087;10102;10112;10119;34;Dicranella varia;(Hedw.) Schimp.;dvouhroteèek promìnlivı;Y;LC
+571;V;10070;10087;10102;10112;10114;28;Dicranodontium;Bruch & Schimp.;dvouhrotcovka;Y;
+572;V;10070;10087;10102;10112;10114;34;Dicranodontium asperulum;(Mitt.) Broth.;dvouhrotcovka drsná;Y;NT
+573;V;10070;10087;10102;10112;10114;34;Dicranodontium denudatum;(Brid.) E.Britton;dvouhrotcovka lámavá;Y;LC
+574;V;10070;10087;10102;10112;10114;34;Dicranodontium uncinatum;(Harv.) A.Jaeger;dvouhrotcovka kroukolistá;Y;EN
+575;V;10070;10087;10102;10112;10117;28;Dicranoweisia;Lindb. ex Milde;køídleèka;Y;
+576;V;10070;10087;10102;10112;10117;34;Dicranoweisia cirrata;(Hedw.) Lindb. ex Milde;køídleèka zprohıbaná;Y;LC
+577;V;10070;10087;10102;10112;10120;28;Dicranum;Hedw.;dvouhrotec;Y;
+578;V;10070;10087;10102;10112;10120;34;Dicranum bonjeanii;De Not.;dvouhrotec bahenní;Y;NT
+579;V;10070;10087;10102;10112;10120;34;Dicranum elongatum;Schleich. ex Schwägr.;dvouhrotec prodlouenı;Y;EN
+580;V;10070;10087;10102;10112;10120;34;Dicranum flagellare;Hedw.;dvouhrotec vıhonèitı;Y;LC-att
+581;V;10070;10087;10102;10112;10120;34;Dicranum flexicaule;Brid.;dvouhrotec smìstnanı;Y;LC
+582;V;10070;10087;10102;10112;10120;34;Dicranum fulvum;Hook.;dvouhrotec hnìdolutı;Y;LC-att
+583;V;10070;10087;10102;10112;10120;34;Dicranum fuscescens;Turner;dvouhrotec nahnìdlı;Y;LC
+584;V;10070;10087;10102;10112;10120;34;Dicranum majus;Turner;dvouhrotec velkı;Y;VU
+585;V;10070;10087;10102;10112;10120;34;Dicranum montanum;Hedw.;dvouhrotec chlumní;Y;LC
+586;V;10070;10087;10102;10112;10120;34;Dicranum muehlenbeckii;Bruch & Schimp.;dvouhrotec Mühlenbeckùv;Y;CR
+587;V;10070;10087;10102;10112;10120;34;Dicranum polysetum;Sw.;dvouhrotec èeøitı;Y;LC
+588;V;10070;10087;10102;10112;10120;34;Dicranum scoparium;Hedw.;dvouhrotec chvostnatı;Y;LC
+589;V;10070;10087;10102;10112;10120;34;Dicranum spadiceum;J.E.Zetterst.;dvouhrotec opomíjenı;Y;CR
+590;V;10070;10087;10102;10112;10120;34;Dicranum spurium;Hedw.;dvouhrotec nepravı;Y;LC-att
+591;V;10070;10087;10102;10112;10120;34;Dicranum tauricum;Sapjegin;dvouhrotec tuhı;Y;LC
+592;V;10070;10087;10102;10112;10120;34;Dicranum undulatum;Schrad. ex Brid.;dvouhrotec Bergerùv;Y;LC-att
+593;V;10070;10087;10102;10112;10120;34;Dicranum viride;(Sull. & Lesq.) Lindb.;dvouhrotec zelenı;Y;NT
+594;V;10070;10087;10102;10112;10123;28;Didymodon;Hedw.;pározub;Y;
+595;V;10070;10087;10102;10112;10123;34;Didymodon acutus;(Brid.) K.Saito;pározub ostrı;Y;LC-att
+596;V;10070;10087;10102;10112;10123;34;Didymodon cordatus;Jur.;pározub srdèitı;Y;VU
+597;V;10070;10087;10102;10112;10123;34;Didymodon fallax;(Hedw.) R.H.Zander;pározub klamnı;Y;LC
+598;V;10070;10087;10102;10112;10123;34;Didymodon ferrugineus;(Schimp. ex Besch.) M.O.Hill;pározub svinutı;Y;LC
+599;V;10070;10087;10102;10112;10123;34;Didymodon giganteus;(Funck) Jur.;pározub obrovskı;N;NE
+600;V;10070;10087;10102;10112;10123;34;Didymodon glaucus;Ryan;pározub sivı;Y;VU
+601;V;10070;10087;10102;10112;10123;34;Didymodon insulanus;(De Not.) M.O.Hill;pározub válcovitı;Y;LC
+602;V;10070;10087;10102;10112;10123;34;Didymodon luridus;Hornsch.;pározub bledolutı;Y;NT
+603;V;10070;10087;10102;10112;10123;34;Didymodon rigidulus;Hedw.;pározub tuhı;Y;LC
+604;V;10070;10087;10102;10112;10123;34;Didymodon sicculus;M.J.Cano, Ros, García-Zam. & J.Guerra;pározub slanomilnı;Y;NE
+605;V;10070;10087;10102;10112;10123;34;Didymodon sinuosus;(Mitt.) Delogne;pározub zprohıbanı;Y;VU
+606;V;10070;10087;10102;10112;10123;34;Didymodon spadiceus;(Mitt.) Limpr.;pározub kaštanovı;Y;NT
+607;V;10070;10087;10102;10112;10123;34;Didymodon tophaceus;(Brid.) Lisa;pározub vápennı;Y;LC-att
+608;V;10070;10087;10102;10112;10123;34;Didymodon umbrosus;(Müll.Hal.) R.H.Zander;pározub stínomilnı;Y;NE
+609;V;10070;10087;10102;10112;10123;34;Didymodon validus;Limpr.;pározub statnı;Y;EN
+610;V;10070;10087;10102;10112;10123;34;Didymodon vinealis;(Brid.) R.H.Zander;pározub píseènı;Y;EN
+611;V;10070;10087;10091;10092;10093;28;Diphyscium;D.Mohr;krèanka;Y;
+612;V;10070;10087;10091;10092;10093;34;Diphyscium foliosum;(Hedw.) D.Mohr;krèanka listnatá;Y;LC-att
+613;V;10070;10087;10097;10100;10142;28;Discelium;Brid.;drobnolístek;Y;
+614;V;10070;10087;10097;10100;10142;34;Discelium nudum;(Dicks.) Brid.;drobnolístek nahı;Y;VU
+615;V;10070;10087;10102;10103;10104;28;Distichium;Bruch & Schimp.;dvoustranník;Y;
+616;V;10070;10087;10102;10103;10104;34;Distichium capillaceum;(Hedw.) Bruch & Schimp.;dvoustranník vláskovitı;Y;LC
+617;V;10070;10087;10102;10103;10104;34;Distichium inclinatum;(Hedw.) Bruch & Schimp.;dvoustranník nachılenı;Y;EN
+618;V;10070;10087;10102;10112;10122;28;Ditrichum;Timm ex Hampe;útlovláska;Y;
+619;V;10070;10087;10102;10112;10122;34;Ditrichum heteromallum;(Hedw.) E.Britton;útlovláska obecná;Y;LC
+620;V;10070;10087;10102;10112;10122;34;Ditrichum lineare;(Sw.) Lindb.;útlovláska pošvatá;Y;LC-att
+621;V;10070;10087;10102;10112;10122;34;Ditrichum pallidum;(Hedw.) Hampe;útlovláska bledá;Y;VU
+622;V;10070;10087;10102;10112;10122;34;Ditrichum pusillum;(Hedw.) Hampe;útlovláska ohrnutá;Y;LC-att
+623;V;10070;10087;10102;10112;10122;34;Ditrichum zonatum;(Brid.) Kindb.;útlovláska pásmovaná;Y;EN
+624;V;10070;10087;10124;10145;10170;28;Drepanocladus;(Müll. Hal.) G.Roth;srpnatka;Y;
+625;V;10070;10087;10124;10145;10170;34;Drepanocladus aduncus;(Hedw.) Warnst.;srpnatka zahnutá;Y;LC
+626;V;10070;10087;10124;10145;10170;34;Drepanocladus longifolius;(Wilson ex Mitt.) Broth. ex Paris;srpnatka dlouholistá;V;DD-va
+627;V;10070;10087;10124;10145;10170;34;Drepanocladus lycopodioides;(Brid.) Warnst.;srpnatka plavuòovitá;V;RE
+628;V;10070;10087;10124;10145;10170;34;Drepanocladus polygamus;(Schimp.) Hedenäs;srpnatka mnohosnubná;Y;VU
+629;V;10070;10087;10124;10145;10170;34;Drepanocladus sendtneri;(Schimp.) Warnst.;srpnatka Sendtnerova;Y;CR
+630;V;10070;10087;10124;10145;10170;34;Drepanocladus sordidus;(Müll.Hal.) Hedenäs;srpnatka špinavá;V;RE
+631;V;10070;10087;10124;10145;10170;34;Drepanocladus trifarius;(F.Weber & D.Mohr) Broth.;srpnatka tøíøadá;Y;CR
+632;V;10070;10087;10124;10145;10170;34;Drepanocladus turgescens;(T.Jensen) Broth.;(bez èeského jména);N;NE
+633;V;10070;10087;10124;10145;10161;28;Elodium;(Sull.) Austin;plstnatec;Y;
+634;V;10070;10087;10124;10145;10161;34;Elodium blandowii;(F. Weber & D. Mohr) Eckel;plstnatec rašelinnı;Y;EN
+635;V;10070;10087;10097;10098;10099;28;Encalypta;Hedw.;èepièatka;Y;
+636;V;10070;10087;10097;10098;10099;34;Encalypta affinis;R.Hedw.;èepièatka pøíbuzná;V;RE
+637;V;10070;10087;10097;10098;10099;34;Encalypta ciliata;Hedw.;èepièatka brvitá;Y;VU
+638;V;10070;10087;10097;10098;10099;34;Encalypta mutica;I.Hagen;(bez èeského jména);N;NE
+639;V;10070;10087;10097;10098;10099;34;Encalypta rhaptocarpa;Schwägr.;èepièatka lemovaná;Y;NE
+640;V;10070;10087;10097;10098;10099;36;Encalypta rhaptocarpa var. rhaptocarpa;\N;èepièatka lemovaná pravá;Y;EN
+641;V;10070;10087;10097;10098;10099;36;Encalypta rhaptocarpa var. leptodon;Lindb.;èepièatka lemovaná tenkozubá;Y;DD
+642;V;10070;10087;10097;10098;10099;36;Encalypta rhaptocarpa var. spathulata;(Müll.Hal.) Husn.;èepièatka lemovaná kopisovitá;V;DD-va
+643;V;10070;10087;10097;10098;10099;34;Encalypta streptocarpa;Hedw.;èepièatka toèivá;Y;LC
+644;V;10070;10087;10097;10098;10099;34;Encalypta vulgaris;Hedw.;èepièatka obecná;Y;LC
+645;V;10070;10087;10124;10145;10162;28;Entodon;Müll.Hal.;pokryvnatec;Y;
+646;V;10070;10087;10124;10145;10162;34;Entodon cladorrhizans;(Hedw.) Müll.Hal.;(bez èeského jména);N;NE
+647;V;10070;10087;10124;10145;10162;34;Entodon concinnus;(De Not.) Paris;pokryvnatec pøímı;Y;LC-att
+648;V;10070;10087;10124;10145;10162;34;Entodon schleicheri;(Schimp.) Demet.;pokryvnatec Schleicherùv;Y;DD
+649;V;10070;10087;10097;10100;10101;28;Entosthodon;Schwägr.;nitrozubka;Y;
+650;V;10070;10087;10097;10100;10101;34;Entosthodon fascicularis;(Hedw.) Müll.Hal.;nitrozubka svazèitá;Y;VU
+651;V;10070;10087;10097;10100;10101;34;Entosthodon hungaricus;(Boros) Loeske;nitrozubka slanomilná;Y;NE
+652;V;10070;10087;10097;10100;10101;34;Entosthodon muhlenbergii;(Turner) Fife;nitrozubka Mühlenbergova;Y;CR
+653;V;10070;10087;10097;10100;10101;34;Entosthodon pulchellus;(H.Philib.) Brugués;nitrozubka spanilá;Y;EN
+654;V;10070;10087;10102;10112;10123;28;Ephemerum;Hampe;prchavka;Y;
+655;V;10070;10087;10102;10112;10123;34;Ephemerum cohaerens;(Hedw.) Hampe;prchavka souvislá;V;DD-va
+656;V;10070;10087;10102;10112;10123;34;Ephemerum minutissimum;Lindb.;prchavka nejmenší;Y;LC
+657;V;10070;10087;10102;10112;10123;34;Ephemerum recurvifolium;(Dicks.) Boulay;prchavka køivolistá;Y;VU
+658;V;10070;10087;10102;10112;10123;34;Ephemerum serratum;(Schreb. ex Hedw.) Hampe;prchavka pilovitá;Y;DD
+659;V;10070;10087;10102;10112;10123;28;Eucladium;Bruch & Schimp.;krasatka;Y;
+660;V;10070;10087;10102;10112;10123;34;Eucladium verticillatum;(With.) Bruch & Schimp.;krasatka pøeslenitá;Y;LC
+661;V;10070;10087;10124;10145;10168;28;Eurhynchiastrum;Ignatov & Huttunen;trnìnka;Y;
+662;V;10070;10087;10124;10145;10168;34;Eurhynchiastrum pulchellum;(Hedw.) Ignatov & Huttunen;trnìnka kostrbatá;Y;LC-att
+663;V;10070;10087;10124;10145;10168;36;Eurhynchiastrum pulchellum var. praecox;(Hedw.) Ochyra & ¯arnowiec;trnìnka kostrbatá èasná;Y;NE
+664;V;10070;10087;10124;10145;10168;36;Eurhynchiastrum pulchellum var. pulchellum;\N;trnìnka kostrbatá pravá;Y;NE
+665;V;10070;10087;10124;10145;10168;28;Eurhynchium;Schimp.;trnìnka;Y;
+666;V;10070;10087;10124;10145;10168;34;Eurhynchium angustirete;(Broth.) T.J.Kop.;trnìnka Zetterstedtova;Y;LC
+667;V;10070;10087;10124;10145;10168;34;Eurhynchium striatum;(Schreb. ex Hedw.) Schimp.;trnìnka pruhovaná;Y;LC-att
+668;V;10070;10087;10124;10145;10154;28;Exsertotheca;S.Olsson, Enroth & D.Quandt;sourubka;Y;
+669;V;10070;10087;10124;10145;10154;34;Exsertotheca crispa;(Hedw.) S.Olsson, Enroth & D.Quandt;sourubka kadeøavá;Y;LC
+670;V;10070;10087;10102;10112;10118;28;Fissidens;Hedw.;krondlovka;Y;
+671;V;10070;10087;10102;10112;10118;34;Fissidens adianthoides;Hedw.;krondlovka netíkovitá;Y;LC-att
+672;V;10070;10087;10102;10112;10118;34;Fissidens arnoldii;R.Ruthe;krondlovka tupolistá;Y;EN
+673;V;10070;10087;10102;10112;10118;34;Fissidens bambergeri;Schimp.;krondlovka Bambergerova;Y;EN
+674;V;10070;10087;10102;10112;10118;34;Fissidens bryoides;Hedw.;krondlovka prutníkovitá;Y;LC
+675;V;10070;10087;10102;10112;10118;36;Fissidens bryoides var. bryoides;\N;krondlovka prutníkovitá pravá;Y;LC
+676;V;10070;10087;10102;10112;10118;36;Fissidens bryoides var. caespitans;Schimp.;krondlovka prutníkovitá Curnowova;N;NE
+677;V;10070;10087;10102;10112;10118;34;Fissidens crassipes;Wilson ex Bruch & Schimp.;krondlovka vodní;Y;DD-va
+678;V;10070;10087;10102;10112;10118;35;Fissidens crassipes subsp. crassipes;\N;krondlovka vodní pravá;Y;DD-va
+679;V;10070;10087;10102;10112;10118;34;Fissidens dubius;P.Beauv.;krondlovka klamná;Y;NE
+680;V;10070;10087;10102;10112;10118;36;Fissidens dubius var. dubius;\N;krondlovka klamná pravá;Y;LC
+681;V;10070;10087;10102;10112;10118;36;Fissidens dubius var. mucronatus;(Breidl. ex Limpr.) Kartt., Hedenäs & L.Söderstr.;krondlovka klamná hrotitá;Y;LC
+682;V;10070;10087;10102;10112;10118;34;Fissidens exilis;Hedw.;krondlovka neobroubená;Y;LC
+683;V;10070;10087;10102;10112;10118;34;Fissidens fontanus;(Bach.Pyl.) Steud.;krondlovka vodní;Y;NT
+684;V;10070;10087;10102;10112;10118;34;Fissidens gracilifolius;Brugg.-Nann. & Nyholm;krondlovka úzkolistá;Y;LC
+685;V;10070;10087;10102;10112;10118;34;Fissidens gymnandrus;Buse;krondlovka nahá;Y;LC
+686;V;10070;10087;10102;10112;10118;34;Fissidens limbatus;Sull.;krondlovka lemovaná;Y;DD
+687;V;10070;10087;10102;10112;10118;34;Fissidens osmundoides;Hedw.;krondlovka podezøeòovitá;Y;LC-att
+688;V;10070;10087;10102;10112;10118;34;Fissidens pusillus;(Wilson) Milde;krondlovka drobná;Y;LC-att
+689;V;10070;10087;10102;10112;10118;34;Fissidens rivularis;(Spruce) Schimp.;(bez èeského jména);N;NE
+690;V;10070;10087;10102;10112;10118;34;Fissidens rufulus;Schimp.;krondlovka ryšavá;Y;NT
+691;V;10070;10087;10102;10112;10118;34;Fissidens taxifolius;Hedw.;krondlovka tisolistá;Y;LC
+692;V;10070;10087;10102;10112;10118;35;Fissidens taxifolius subsp. taxifolius;\N;krondlovka tisolistá pravá;Y;LC
+693;V;10070;10087;10102;10112;10118;34;Fissidens viridulus;(Sw.) Wahlenb.;krondlovka zelená;Y;NE
+694;V;10070;10087;10102;10112;10118;36;Fissidens viridulus var. incurvus;(Starke ex Röhl.) Wils.;krondlovka zelená zakøivená;Y;LC-att
+695;V;10070;10087;10102;10112;10118;36;Fissidens viridulus var. viridulus;\N;krondlovka zelená pravá;Y;LC
+696;V;10070;10087;10102;10103;10105;28;Flexitrichum;Ignatov & Fedosov;køivovláska;Y;
+697;V;10070;10087;10102;10103;10105;34;Flexitrichum flexicaule;(Schwägr.) Ignatov & Fedosov;køivovláska zprohıbaná;Y;LC
+698;V;10070;10087;10102;10103;10105;34;Flexitrichum gracile;(Mitt.) Ignatov & Fedosov;køivovláska štíhlá;Y;LC-att
+699;V;10070;10087;10124;10145;10147;28;Fontinalis;Hedw.;pramenièka;Y;
+700;V;10070;10087;10124;10145;10147;34;Fontinalis antipyretica;Hedw.;pramenièka obecná;Y;LC
+701;V;10070;10087;10124;10145;10147;34;Fontinalis dalecarlica;Bruch & Schimp.;(bez èeského jména);N;NE
+702;V;10070;10087;10124;10145;10147;34;Fontinalis hypnoides;Hartm.;pramenièka chabá;Y;EN
+703;V;10070;10087;10124;10145;10147;34;Fontinalis squamosa;Hedw.;pramenièka šupinatá;Y;LC
+704;V;10070;10087;10097;10100;10101;28;Funaria;Hedw.;zkrutek;Y;
+705;V;10070;10087;10097;10100;10101;34;Funaria hygrometrica;Hedw.;zkrutek vláhojevnı;Y;LC
+706;V;10070;10087;10097;10100;10101;34;Funaria microstoma;Bruch ex Schimp.;zkrutek maloústı;N;NE
+707;V;10070;10087;10102;10107;10109;28;Grimmia;Hedw.;dìrkavka;Y;
+708;V;10070;10087;10102;10107;10109;34;Grimmia alpestris;(F.Weber & D.Mohr) Schleich.;dìrkavka horská;Y;VU
+709;V;10070;10087;10102;10107;10109;34;Grimmia anodon;Bruch & Schimp.;dìrkavka nahoústá;Y;EN
+710;V;10070;10087;10102;10107;10109;34;Grimmia anomala;Hampe ex Schimp.;dìrkavka nezvyklá;Y;VU
+711;V;10070;10087;10102;10107;10109;34;Grimmia atrata;Miel. ex Hornsch.;dìrkavka tmavá;Y;VU
+712;V;10070;10087;10102;10107;10109;34;Grimmia caespiticia;(Brid.) Jur.;dìrkavka bochánkovitá;Y;DD
+713;V;10070;10087;10102;10107;10109;34;Grimmia crinita;Brid.;dìrkavka šedá;Y;EN
+714;V;10070;10087;10102;10107;10109;34;Grimmia decipiens;(Schultz) Lindb.;dìrkavka tenkozubá;N;NE
+715;V;10070;10087;10102;10107;10109;34;Grimmia dissimulata;E.Maier;dìrkavka utajená;Y;DD
+716;V;10070;10087;10102;10107;10109;34;Grimmia donniana;Sm.;dìrkavka Donnova;Y;LC
+717;V;10070;10087;10102;10107;10109;34;Grimmia elatior;Bruch ex Bals.-Criv. & De Not.;dìrkavka vyvıšená;Y;CR
+718;V;10070;10087;10102;10107;10109;34;Grimmia elongata;Kaulf.;dìrkavka prodlouená;Y;NT
+719;V;10070;10087;10102;10107;10109;34;Grimmia funalis;(Schwägr.) Bruch & Schimp.;dìrkavka závitcovitá;Y;LC-att
+720;V;10070;10087;10102;10107;10109;34;Grimmia hartmanii;Schimp.;dìrkavka Hartmanova;Y;LC
+721;V;10070;10087;10102;10107;10109;34;Grimmia incurva;Schwägr.;dìrkavka køivolistá;Y;LC
+722;V;10070;10087;10102;10107;10109;34;Grimmia laevigata;(Brid.) Brid.;dìrkavka støíbrošedá;Y;LC
+723;V;10070;10087;10102;10107;10109;34;Grimmia longirostris;Hook.;dìrkavka dlouhozobá;Y;LC
+724;V;10070;10087;10102;10107;10109;34;Grimmia montana;Bruch & Schimp.;dìrkavka chlumní;Y;LC-att
+725;V;10070;10087;10102;10107;10109;34;Grimmia muehlenbeckii;Schimp.;dìrkavka Mühlenbeckova;Y;LC
+726;V;10070;10087;10102;10107;10109;34;Grimmia orbicularis;Bruch ex Wilson;dìrkavka kulatá;Y;LC-att
+727;V;10070;10087;10102;10107;10109;34;Grimmia ovalis;(Hedw.) Lindb.;dìrkavka vejèitá;Y;LC
+728;V;10070;10087;10102;10107;10109;34;Grimmia plagiopodia;Hedw.;dìrkavka vystoupavá;V;RE
+729;V;10070;10087;10102;10107;10109;34;Grimmia pulvinata;(Hedw.) Sm.;dìrkavka poduškovitá;Y;LC
+730;V;10070;10087;10102;10107;10109;34;Grimmia ramondii;(Lam. & DC.) Margad.;dìrkavka otevøená;Y;LC-att
+731;V;10070;10087;10102;10107;10109;34;Grimmia sessitana;De Not.;dìrkavka rıhovaná;Y;VU
+732;V;10070;10087;10102;10107;10109;34;Grimmia teretinervis;Limpr.;dìrkavka tlustoeberná;Y;CR
+733;V;10070;10087;10102;10107;10109;34;Grimmia tergestina;Tomm. ex Bruch & Schimp.;dìrkavka istrijská;Y;LC-att
+734;V;10070;10087;10102;10107;10109;34;Grimmia torquata;Drumm.;dìrkavka kroucená;Y;VU
+735;V;10070;10087;10102;10107;10109;34;Grimmia trichophylla;Grev.;dìrkavka chluponosná;Y;LC-att
+736;V;10070;10087;10102;10107;10109;34;Grimmia unicolor;Hook.;dìrkavka jednobarevná;V;RE
+737;V;10070;10087;10102;10112;10123;28;Gymnostomum;Nees & Hornsch.;holoret;Y;
+738;V;10070;10087;10102;10112;10123;34;Gymnostomum aeruginosum;Sm.;holoret skalní;Y;LC
+739;V;10070;10087;10102;10112;10123;34;Gymnostomum calcareum;Nees & Hornsch.;holoret vápnomilnı;Y;DD
+740;V;10070;10087;10102;10112;10123;36;Gymnostomum calcareum var. calcareum;\N;holoret vápnomilnı pravı;Y;NE
+741;V;10070;10087;10102;10112;10123;34;Gymnostomum viridulum;Brid.;holoret zelenı;Y;VU
+742;V;10070;10087;10102;10112;10123;28;Gyroweisia;Schimp.;nahoústka;Y;
+743;V;10070;10087;10102;10112;10123;34;Gyroweisia tenuis;(Hedw.) Schimp.;nahoústka útlá;Y;DD
+744;V;10070;10087;10124;10145;10167;28;Hamatocaulis;Hedenäs;srpnatka;Y;
+745;V;10070;10087;10124;10145;10167;34;Hamatocaulis vernicosus;(Mitt.) Hedenäs;srpnatka fermeová;Y;VU
+746;V;10070;10087;10124;10125;10126;28;Hedwigia;P.Beauv.;tìhovec;Y;
+747;V;10070;10087;10124;10125;10126;34;Hedwigia ciliata;(Hedw.) P.Beauv.;tìhovec bezebrı;Y;LC
+748;V;10070;10087;10124;10125;10126;36;Hedwigia ciliata var. ciliata;\N;tìhovec bezebrı pravı;Y;NE
+749;V;10070;10087;10124;10125;10126;36;Hedwigia ciliata var. leucophaea;Bruch & Schimp.;tìhovec bezebrı svìtlehnìdı;Y;NE
+750;V;10070;10087;10124;10125;10126;34;Hedwigia stellata;Hedenäs;tìhovec hvìzdovitı;Y;DD
+751;V;10070;10087;10102;10112;10123;28;Hennediella;Paris;hennediella;Y;
+752;V;10070;10087;10102;10112;10123;34;Hennediella heimii;(Hedw.) R.H.Zander;hennediella Heimova;Y;DD-va
+753;V;10070;10087;10102;10112;10123;36;Hennediella heimii var. heimii;\N;hennediella Heimova pravá;Y;DD-va
+754;V;10070;10087;10124;10145;10146;28;Herzogiella;Broth.;kornice;Y;
+755;V;10070;10087;10124;10145;10146;34;Herzogiella seligeri;(Brid.) Z.Iwats.;kornice slezská;Y;LC
+756;V;10070;10087;10124;10145;10146;34;Herzogiella striatella;(Brid.) Z.Iwats.;kornice odstálá;Y;NT
+757;V;10070;10087;10124;10145;10157;28;Heterocladium;Schimp.;rùznolístek;Y;
+758;V;10070;10087;10124;10145;10157;34;Heterocladium dimorphum;(Brid.) Schimp.;rùznolístek dvojtvárnı;Y;NT
+759;V;10070;10087;10124;10145;10157;34;Heterocladium heteropterum;(Brid.) Schimp.;rùznolístek nestejnokøídlı;Y;LC
+760;V;10070;10087;10102;10112;10123;28;Hilpertia;R.H.Zander;hilpertia;Y;
+761;V;10070;10087;10102;10112;10123;34;Hilpertia velenovskyi;(Schiffn.) R.H.Zander;hilpertia Velenovského, kroucenec Velenovského;Y;CR
+762;V;10070;10087;10124;10145;10154;28;Homalia;Brid.;zploštìlec;Y;
+763;V;10070;10087;10124;10145;10154;34;Homalia trichomanoides;(Hedw.) Schimp.;zploštìlec sleziníkovı;Y;LC
+764;V;10070;10087;10124;10145;10168;28;Homalothecium;Schimp.;hedvábitec;Y;
+765;V;10070;10087;10124;10145;10168;34;Homalothecium lutescens;(Hedw.) H.Rob.;hedvábitec lutı;Y;LC
+766;V;10070;10087;10124;10145;10168;34;Homalothecium philippeanum;(Spruce) Schimp.;hedvábitec hladkı;Y;LC
+767;V;10070;10087;10124;10145;10168;34;Homalothecium sericeum;(Hedw.) Schimp.;hedvábitec pravı;Y;LC
+768;V;10070;10087;10124;10145;10171;28;Homomallium;(Schimp.) Loeske;pøímolistec;Y;
+769;V;10070;10087;10124;10145;10171;34;Homomallium incurvatum;(Schrad. ex Brid.) Loeske;pøímolistec zakøivenı;Y;LC
+770;V;10070;10087;10124;10140;10141;28;Hookeria;Sm.;kápuška;Y;
+771;V;10070;10087;10124;10140;10141;34;Hookeria lucens;(Hedw.) Sm.;kápuška skvìlá;Y;NT
+772;V;10070;10087;10102;10112;10123;28;Hydrogonium;(Müll.Hal.) A.Jaeger;vlhkomilka;Y;
+773;V;10070;10087;10102;10112;10123;34;Hydrogonium croceum;(Brid.) Jan Kuèera;vlhkomilka šafránová;Y;CR
+774;V;10070;10087;10124;10145;10170;28;Hygroamblystegium;Loeske;potoèník;Y;
+775;V;10070;10087;10124;10145;10170;34;Hygroamblystegium fluviatile;(Hedw.) Loeske;potoèník øíèní;Y;LC
+776;V;10070;10087;10124;10145;10170;34;Hygroamblystegium humile;(P.Beauv.) Vanderp., Hedenäs & Goffinet;potoèník nízkı;Y;LC-att
+777;V;10070;10087;10124;10145;10170;34;Hygroamblystegium tenax;(Hedw.) Jenn.;potoèník ponoøenı;Y;LC-att
+778;V;10070;10087;10124;10145;10170;34;Hygroamblystegium varium;(Hedw.) Mönk.;potoèník mìnlivı;Y;LC
+779;V;10070;10087;10124;10145;10167;28;Hygrohypnella;Ignatov & Ignatova;bøehovec;Y;
+780;V;10070;10087;10124;10145;10167;34;Hygrohypnella ochracea;(Turner ex Wilson) Ignatov & Ignatova;bøehovec hlínolutı;Y;LC
+781;V;10070;10087;10124;10145;10170;28;Hygrohypnum;Lindb.;bøehovec;Y;
+782;V;10070;10087;10124;10145;10170;34;Hygrohypnum luridum;(Hedw.) Jenn.;bøehovec potoèní;Y;LC
+783;V;10070;10087;10124;10145;10150;28;Hylocomiastrum;M.Fleisch. ex Broth.;paitník;Y;
+784;V;10070;10087;10124;10145;10150;34;Hylocomiastrum pyrenaicum;(Spruce) M.Fleisch. ex Broth.;paitník zakøivenı;Y;VU
+785;V;10070;10087;10124;10145;10150;34;Hylocomiastrum umbratum;(Hedw.) M.Fleisch. ex Broth.;paitník stinnı;Y;LC-att
+786;V;10070;10087;10124;10145;10150;28;Hylocomium;Schimp.;rokytník;Y;
+787;V;10070;10087;10124;10145;10150;34;Hylocomium splendens;(Hedw.) Schimp.;rokytník skvìlı;Y;LC
+788;V;10070;10087;10102;10103;10106;28;Hymenoloma;Dusén;bradaviènatka;Y;
+789;V;10070;10087;10102;10103;10106;34;Hymenoloma crispulum;(Hedw.) Ochyra;bradaviènatka kadeøavá;Y;LC
+790;V;10070;10087;10102;10112;10123;28;Hymenostylium;Brid.;štíhlík;Y;
+791;V;10070;10087;10102;10112;10123;34;Hymenostylium recurvirostrum;(Hedw.) Dixon;štíhlík køivozobı;Y;VU
+792;V;10070;10087;10102;10112;10123;36;Hymenostylium recurvirostrum var. recurvirostrum;\N;štíhlík køivozobı pravı;Y;VU
+793;V;10070;10087;10124;10145;10169;28;Hyocomium;Schimp.;(bez èeského jména);N;
+794;V;10070;10087;10124;10145;10169;34;Hyocomium armoricum;(Brid.) Wijk & Margad.;(bez èeského jména);N;NE
+795;V;10070;10087;10124;10145;10164;28;Hypnum;Hedw.;rokyt;Y;
+796;V;10070;10087;10124;10145;10164;34;Hypnum andoi;A.J.E.Sm.;rokyt Andoùv;Y;LC
+797;V;10070;10087;10124;10145;10164;34;Hypnum callichroum;Brid.;rokyt pøíjemnı;Y;EN
+798;V;10070;10087;10124;10145;10164;34;Hypnum cupressiforme;Hedw.;rokyt cypøišovitı;Y;NE
+799;V;10070;10087;10124;10145;10164;36;Hypnum cupressiforme var. cupressiforme;\N;rokyt cypøišovitı pravı;Y;LC
+800;V;10070;10087;10124;10145;10164;36;Hypnum cupressiforme var. filiforme;Brid.;rokyt cypøišovitı nitkovitı;Y;LC
+801;V;10070;10087;10124;10145;10164;36;Hypnum cupressiforme var. heseleri;(Ando & Higuchi) M.O.Hill;rokyt cypøišovitı Heselerùv;Y;DD
+802;V;10070;10087;10124;10145;10164;36;Hypnum cupressiforme var. lacunosum;Brid.;rokyt cypøišovitı vydutı;Y;LC
+803;V;10070;10087;10124;10145;10164;36;Hypnum cupressiforme var. resupinatum;(Taylor) Schimp.;rokyt cypøišovitı odstávající;N;NE
+804;V;10070;10087;10124;10145;10164;36;Hypnum cupressiforme var. subjulaceum;Molendo;rokyt cypøišovitı horskı;Y;NT
+805;V;10070;10087;10124;10145;10164;34;Hypnum fertile;Sendtn.;rokyt plazivı;Y;CR
+806;V;10070;10087;10124;10145;10164;34;Hypnum imponens;Hedw.;rokyt nádhernı;Y;CR
+807;V;10070;10087;10124;10145;10164;34;Hypnum jutlandicum;Holmen & E.Warncke;rokyt vøesovitı;Y;LC
+808;V;10070;10087;10124;10145;10164;34;Hypnum pallescens;(Hedw.) P.Beauv.;rokyt bledı;Y;LC-att
+809;V;10070;10087;10124;10145;10164;36;Hypnum pallescens var. pallescens;\N;rokyt bledı pravı;Y;NE
+810;V;10070;10087;10124;10145;10164;36;Hypnum pallescens var. reptile;(Michx.) Husn.;rokyt bledı plazivı;Y;NE
+811;V;10070;10087;10124;10145;10164;34;Hypnum recurvatum;(Lindb. & Arnell) Kindb.;rokyt svazèitı;Y;CR
+812;V;10070;10087;10124;10145;10164;34;Hypnum revolutum;(Mitt.) Lindb.;rokyt zatoèenı;V;RE
+813;V;10070;10087;10124;10145;10164;36;Hypnum revolutum var. dolomiticum;(Milde) Mönk.;rokyt zatoèenı dolomitovı;V;RE
+814;V;10070;10087;10124;10145;10164;34;Hypnum sauteri;Schimp.;rokyt Sauterùv;Y;CR
+815;V;10070;10087;10124;10145;10164;34;Hypnum vaucheri;Lesq.;rokyt Vaucherùv;Y;LC-att
+816;V;10070;10087;10124;10145;10146;28;Isopterygiopsis;Z.Iwats.;bìlovec;Y;
+817;V;10070;10087;10124;10145;10146;34;Isopterygiopsis muelleriana;(Schimp.) Z.Iwats.;bìlovec Müllerùv;Y;CR
+818;V;10070;10087;10124;10145;10146;34;Isopterygiopsis pulchella;(Hedw.) Z.Iwats.;bìlovec pøekrásnı;Y;CR
+819;V;10070;10087;10124;10145;10165;28;Isothecium;Brid.;plazivec;Y;
+820;V;10070;10087;10124;10145;10165;34;Isothecium alopecuroides;(Lam. ex Dubois) Isov.;plazivec obecnı;Y;LC
+821;V;10070;10087;10124;10145;10165;34;Isothecium holtii;Kindb.;(bez èeského jména);N;NE
+822;V;10070;10087;10124;10145;10165;34;Isothecium myosuroides;Brid.;plazivec útlı;Y;LC-att
+823;V;10070;10087;10102;10112;10117;28;Kiaeria;I.Hagen;veleška;Y;
+824;V;10070;10087;10102;10112;10117;34;Kiaeria blyttii;(Bruch & Schimp.) Broth.;veleška Blyttova;Y;LC
+825;V;10070;10087;10102;10112;10117;34;Kiaeria falcata;(Hedw.) I.Hagen;veleška srpovitá;Y;EN
+826;V;10070;10087;10102;10112;10117;34;Kiaeria glacialis;(Berggr.) I.Hagen;veleška ledovcová;V;RE
+827;V;10070;10087;10102;10112;10117;34;Kiaeria starkei;(F.Weber & D.Mohr) I.Hagen;veleška Starkeova;Y;LC
+828;V;10070;10087;10124;10145;10168;28;Kindbergia;Ochyra;trnìnka;Y;
+829;V;10070;10087;10124;10145;10168;34;Kindbergia praelonga;(Hedw.) Ochyra;trnìnka prodlouená;Y;LC
+830;V;10070;10087;10102;10112;10123;28;Leptobarbula;Schimp.;radotínka;N;
+831;V;10070;10087;10102;10112;10123;34;Leptobarbula berica;(De Not.) Schimp.;radotínka jiní;N;NE
+832;V;10070;10087;10124;10127;10144;28;Leptobryum;(Schimp.) Wilson;prutníèek;Y;
+833;V;10070;10087;10124;10127;10144;34;Leptobryum pyriforme;(Hedw.) Wilson;prutníèek hruškovitı;Y;LC
+834;V;10070;10087;10124;10145;10170;28;Leptodictyum;(Schimp.) Warnst.;sušinec;Y;
+835;V;10070;10087;10124;10145;10170;34;Leptodictyum riparium;(Hedw.) Warnst.;sušinec pobøení;Y;LC
+836;V;10070;10087;10102;10112;10123;28;Leptodontium;(Müll.Hal.) Hampe ex Lindb.;(bez èeského jména);N;
+837;V;10070;10087;10102;10112;10123;34;Leptodontium flexifolium;(Dicks.) Hampe;(bez èeského jména);N;NE
+838;V;10070;10087;10124;10145;10155;28;Lescuraea;Schimp.;øásnatka;Y;
+839;V;10070;10087;10124;10145;10155;34;Lescuraea incurvata;(Hedw.) E.Lawton;øásnatka tmavá;Y;LC
+840;V;10070;10087;10124;10145;10155;34;Lescuraea mutabilis;(Brid.) Lindb.;øásnatka pruhovaná;Y;EN
+841;V;10070;10087;10124;10145;10155;34;Lescuraea patens;Lindb.;øásnatka otevøená;Y;EN
+842;V;10070;10087;10124;10145;10155;34;Lescuraea plicata;(Schleich. ex F.Weber & D.Mohr) Lindb.;øásnatka øáskatá;Y;EN
+843;V;10070;10087;10124;10145;10155;34;Lescuraea radicosa;(Mitt.) Mönk.;øásnatka vlášenitá;Y;EN
+844;V;10070;10087;10124;10145;10155;34;Lescuraea saxicola;(Schimp.) Milde;øásnatka skalní;V;DD-va
+845;V;10070;10087;10124;10145;10160;28;Leskea;Hedw.;stejnozoubek;Y;
+846;V;10070;10087;10124;10145;10160;34;Leskea polycarpa;Hedw.;stejnozoubek mnohoplodı;Y;LC
+847;V;10070;10087;10102;10112;10114;28;Leucobryum;Hampe;bìlomech;Y;
+848;V;10070;10087;10102;10112;10114;34;Leucobryum glaucum;(Hedw.) ?ngstr.;bìlomech sivı;Y;LC
+849;V;10070;10087;10102;10112;10114;34;Leucobryum juniperoideum;(Brid.) Müll.Hal.;bìlomech skalní;Y;LC
+850;V;10070;10087;10124;10145;10148;28;Leucodon;Schwägr.;bìlozubka;Y;
+851;V;10070;10087;10124;10145;10148;34;Leucodon sciuroides;(Hedw.) Schwägr.;bìlozubka ocáskovitá;Y;LC
+852;V;10070;10087;10124;10131;10132;28;Lewinskya;F.Lara, Garilleti & Goffinet;šurpek;Y;
+853;V;10070;10087;10124;10131;10132;34;Lewinskya affinis;(Brid.) F.Lara, Garilleti & Goffinet;šurpek tenkoebernı;Y;NE
+854;V;10070;10087;10124;10131;10132;36;Lewinskya affinis var. affinis;\N;šurpek tenkoebernı pravı;Y;LC
+855;V;10070;10087;10124;10131;10132;36;Lewinskya affinis var. bohemica;(Plášek & Sawicki) Plášek;šurpek tenkoebernı èeskı;Y;DD
+856;V;10070;10087;10124;10131;10132;34;Lewinskya rupestris;(Schleich. ex Schwägr.) F.Lara, Garilleti & Goffinet;šurpek skalní;Y;VU
+857;V;10070;10087;10124;10131;10132;34;Lewinskya speciosa;(Nees) F.Lara, Garilleti & Goffinet;šurpek úhlednı;Y;LC
+858;V;10070;10087;10124;10131;10132;34;Lewinskya striata;(Hedw.) F.Lara, Garilleti & Goffinet;šurpek hladkoplodı;Y;LC-att
+859;V;10070;10087;10124;10145;10150;28;Loeskeobryum;M.Fleisch. ex Broth.;øásnice;Y;
+860;V;10070;10087;10124;10145;10150;34;Loeskeobryum brevirostre;(Brid.) M.Fleisch.;øásnice krátkozobá;Y;NT
+861;V;10070;10087;10124;10127;10144;28;Meesia;Hedw.;poparka;Y;
+862;V;10070;10087;10124;10127;10144;34;Meesia hexasticha;(Funck) Bruch;poparka pìtiøadá;N;NE
+863;V;10070;10087;10124;10127;10144;34;Meesia longiseta;Hedw.;poparka dlouhoštìtá;V;RE
+864;V;10070;10087;10124;10127;10144;34;Meesia triquetra;(L. ex Jolycl.) ?ngstr.;poparka tøíøadá;Y;CR
+865;V;10070;10087;10124;10127;10144;34;Meesia uliginosa;Hedw.;poparka bainná;Y;CR
+866;V;10070;10087;10102;10112;10123;28;Microbryum;Schimp.;drobnomech;Y;
+867;V;10070;10087;10102;10112;10123;34;Microbryum curvicollum;(Hedw.) R.H.Zander;drobnomech køivoštìtı;Y;LC-att
+868;V;10070;10087;10102;10112;10123;34;Microbryum davallianum;(Sm.) R.H.Zander;drobnomech Davallùv;Y;NE
+869;V;10070;10087;10102;10112;10123;36;Microbryum davallianum var. davallianum;\N;drobnomech Davallùv pravı;Y;VU
+870;V;10070;10087;10102;10112;10123;36;Microbryum davallianum var. conicum;(Schleich. ex Schwägr.) R.H.Zander;drobnomech Davallùv kuelovitı;Y;CR
+871;V;10070;10087;10102;10112;10123;34;Microbryum floerkeanum;(F.Weber & D.Mohr) Schimp.;drobnomech Floerkeùv;Y;VU
+872;V;10070;10087;10102;10112;10123;34;Microbryum starckeanum;(Hedw.) R.H.Zander;drobnomech Starkeùv;V;DD-va
+873;V;10070;10087;10124;10145;10168;28;Microeurhynchium;Ignatov & Vanderp.;trnìnka;Y;
+874;V;10070;10087;10124;10145;10168;34;Microeurhynchium pumilum;(Wilson) Ignatov & Vanderp.;trnìnka malièká;Y;DD
+875;V;10070;10087;10102;10112;10143;28;Micromitrium;Austin;mohelka;N;
+876;V;10070;10087;10102;10112;10143;34;Micromitrium tenerum;(Bruch & Schimp.) Crosby;mohelka štíhlá;N;NE
+877;V;10070;10087;10124;10133;10135;28;Mielichhoferia;Nees & Hornsch.;mìïovka;Y;
+878;V;10070;10087;10124;10133;10135;34;Mielichhoferia mielichhoferiana;(Funck) Loeske;mìïovka Mielichhoferova;Y;CR
+879;V;10070;10087;10124;10133;10135;28;Mnium;Hedw.;mìøík;Y;
+880;V;10070;10087;10124;10133;10135;34;Mnium blyttii;Bruch & Schimp.;mìøík Blyttùv;N;NE
+881;V;10070;10087;10124;10133;10135;34;Mnium hornum;Hedw.;mìøík trsnatı;Y;LC
+882;V;10070;10087;10124;10133;10135;34;Mnium lycopodioides;Schwägr.;mìøík plavuòovitı;Y;LC-att
+883;V;10070;10087;10124;10133;10135;34;Mnium marginatum;(Dicks. ex With.) P.Beauv.;mìøík pilovitı;Y;LC
+884;V;10070;10087;10124;10133;10135;34;Mnium spinosum;(Voit) Schwägr.;mìøík trnitı;Y;LC
+885;V;10070;10087;10124;10133;10135;34;Mnium spinulosum;Bruch & Schimp.;mìøík osténkatı;Y;LC
+886;V;10070;10087;10124;10133;10135;34;Mnium stellare;Hedw.;mìøík hvìzdovitı;Y;LC
+887;V;10070;10087;10124;10133;10135;34;Mnium thomsonii;Schimp.;mìøík rovnohrotı;Y;CR
+888;V;10070;10087;10102;10112;10123;28;Molendoa;Lindb.;pohorník;N;
+889;V;10070;10087;10102;10112;10123;34;Molendoa sendtneriana;(Bruch & Schimp.) Limpr.;pohorník Sendtnerùv;N;NE
+890;V;10070;10087;10124;10145;10146;28;Myurella;Schimp.;penízkovec;Y;
+891;V;10070;10087;10124;10145;10146;34;Myurella julacea;(Schwägr.) Schimp.;penízkovec jehnìdovitı;Y;EN
+892;V;10070;10087;10124;10145;10154;28;Neckera;Hedw.;sourubka;Y;
+893;V;10070;10087;10124;10145;10154;34;Neckera menziesii;Drumm.;sourubka Menziesova;Y;CR
+894;V;10070;10087;10124;10145;10154;34;Neckera oligocarpa;Bruch;(bez èeského jména);N;NE
+895;V;10070;10087;10124;10145;10154;34;Neckera pennata;Hedw.;sourubka zpeøená;Y;VU
+896;V;10070;10087;10124;10145;10154;34;Neckera pumila;Hedw.;sourubka drobná;V;RE
+897;V;10070;10087;10124;10145;10154;28;Nogopterium;Crosby & W.R.Buck;oustranka;N;
+898;V;10070;10087;10124;10145;10154;34;Nogopterium gracile;(Hedw.) Crosby & W.R.Buck;oustranka štíhlá;N;NE
+899;V;10070;10087;10124;10131;10132;28;Nyholmiella;Holmen & E.Warncke;šurpek;Y;
+900;V;10070;10087;10124;10131;10132;34;Nyholmiella gymnostoma;(Bruch ex Brid.) Holmen & E.Warncke;šurpek nahoústı;V;RE
+901;V;10070;10087;10124;10131;10132;34;Nyholmiella obtusifolia;(Brid.) Holmen & E.Warncke;šurpek tupolistı;Y;LC
+902;V;10070;10079;10080;10081;10082;28;Oligotrichum;DC.;plonitka;Y;
+903;V;10070;10079;10080;10081;10082;34;Oligotrichum hercynicum;(Hedw.) Lam. & DC.;plonitka horská;Y;LC
+904;V;10070;10087;10102;10112;10117;28;Oncophorus;(Brid.) Brid.;bradatka;V;
+905;V;10070;10087;10102;10112;10117;34;Oncophorus virens;(Hedw.) Brid.;bradatka zelená;N;NE
+906;V;10070;10087;10102;10112;10117;34;Oncophorus wahlenbergii;Brid.;bradatka Wahlenbergova;V;RE
+907;V;10070;10087;10124;10136;10137;28;Orthodontium;Schwägr.;rovnozub;Y;
+908;V;10070;10087;10124;10136;10137;34;Orthodontium lineare;Schwägr.;rovnozub èárkovitı;Y;LC
+909;V;10070;10087;10124;10145;10146;28;Orthothecium;Schimp.;rovnoplodka;Y;
+910;V;10070;10087;10124;10145;10146;34;Orthothecium intricatum;(Hartm.) Schimp.;rovnoplodka spletená;Y;LC
+911;V;10070;10087;10124;10145;10146;34;Orthothecium rufescens;(Dicks. ex Brid.) Schimp.;rovnoplodka èervená;V;RE
+912;V;10070;10087;10124;10131;10132;28;Orthotrichum;Hedw.;šurpek;Y;
+913;V;10070;10087;10124;10131;10132;34;Orthotrichum alpestre;Hornsch. ex Bruch & Schimp.;šurpek horskı;Y;CR
+914;V;10070;10087;10124;10131;10132;34;Orthotrichum anomalum;Hedw.;šurpek odchylnı;Y;LC
+915;V;10070;10087;10124;10131;10132;34;Orthotrichum cupulatum;Brid.;šurpek èíšovitı;Y;NE
+916;V;10070;10087;10124;10131;10132;36;Orthotrichum cupulatum var. cupulatum;\N;šurpek èíšovitı pravı;Y;LC
+917;V;10070;10087;10124;10131;10132;36;Orthotrichum cupulatum var. riparium;Huebener;šurpek èíšovitı nahı;V;RE
+918;V;10070;10087;10124;10131;10132;34;Orthotrichum diaphanum;Brid.;šurpek chluponosnı;Y;LC
+919;V;10070;10087;10124;10131;10132;34;Orthotrichum moravicum;Plášek & Sawicki;šurpek moravskı;Y;DD
+920;V;10070;10087;10124;10131;10132;34;Orthotrichum pallens;Bruch ex Brid.;šurpek bledı;Y;LC
+921;V;10070;10087;10124;10131;10132;34;Orthotrichum patens;Bruch & Brid.;šurpek otevøenı;Y;NT
+922;V;10070;10087;10124;10131;10132;34;Orthotrichum pulchellum;Brunt.;šurpek spanilı;Y;LC-att
+923;V;10070;10087;10124;10131;10132;34;Orthotrichum pumilum;Sw.;šurpek nízkı;Y;LC
+924;V;10070;10087;10124;10131;10132;34;Orthotrichum rogeri;Brid.;šurpek Rogerùv;Y;VU
+925;V;10070;10087;10124;10131;10132;34;Orthotrichum scanicum;Grönvall;šurpek bìloèepka;Y;CR
+926;V;10070;10087;10124;10131;10132;34;Orthotrichum schimperi;Hammar;šurpek Schimperùv;Y;NE
+927;V;10070;10087;10124;10131;10132;34;Orthotrichum stellatum;Brid.;šurpek hvìzdovitı;Y;CR
+928;V;10070;10087;10124;10131;10132;34;Orthotrichum stramineum;Hornsch. ex Brid.;šurpek lutı;Y;LC
+929;V;10070;10087;10124;10131;10132;34;Orthotrichum tenellum;Bruch ex Brid.;šurpek útlı;Y;DD
+930;V;10070;10087;10124;10131;10132;34;Orthotrichum urnigerum;Myrin;šurpek ohrnutı;Y;VU
+931;V;10070;10087;10124;10145;10168;28;Oxyrrhynchium;(Schimp.) Warnst.;trnìnka;Y;
+932;V;10070;10087;10124;10145;10168;34;Oxyrrhynchium hians;(Hedw.) Loeske;trnìnka odstálá;Y;LC
+933;V;10070;10087;10124;10145;10168;36;Oxyrrhynchium hians var. hians;\N;trnìnka odstálá pravá;Y;NE
+934;V;10070;10087;10124;10145;10168;36;Oxyrrhynchium hians var. rigidum;(Boulay) Ochyra & ¯arnowiec;trnìnka odstálá tuhá;Y;NE
+935;V;10070;10087;10124;10145;10168;34;Oxyrrhynchium schleicheri;(R.Hedw.) Röll;trnìnka Schleicherova;Y;LC
+936;V;10070;10087;10124;10145;10168;34;Oxyrrhynchium speciosum;(Brid.) Warnst.;trnìnka okázalá;Y;LC-att
+937;V;10070;10087;10102;10112;10123;28;Oxystegus;(Limpr.) Hilp.;zásovník;Y;
+938;V;10070;10087;10102;10112;10123;34;Oxystegus hibernicus;(Mitt.) Hilp.;(bez èeského jména);N;NE
+939;V;10070;10087;10102;10112;10123;34;Oxystegus tenuirostris;(Hook. & Taylor) A.J.E.Sm.;zásovník válcovitı;Y;LC-att
+940;V;10070;10087;10124;10127;10144;28;Paludella;Ehrh. ex Brid.;bainník;Y;
+941;V;10070;10087;10124;10127;10144;34;Paludella squarrosa;(Hedw.) Brid.;bainník kostrbatı;Y;EN
+942;V;10070;10087;10124;10145;10170;28;Palustriella;Ochyra;hruboebrec;Y;
+943;V;10070;10087;10124;10145;10170;34;Palustriella commutata;(Hedw.) Ochyra;hruboebrec promìnlivı;Y;LC
+944;V;10070;10087;10124;10145;10170;34;Palustriella decipiens;(De Not.) Ochyra;hruboebrec tuhı;Y;LC-att
+945;V;10070;10087;10124;10145;10170;34;Palustriella falcata;(Brid.) Hedenäs;hruboebrec srpovitı;Y;LC
+946;V;10070;10087;10102;10112;10120;28;Paraleucobryum;(Lindb. ex Limpr.) Loeske;široebrec;Y;
+947;V;10070;10087;10102;10112;10120;34;Paraleucobryum longifolium;(Ehrh. ex Hedw.) Loeske;široebrec dlouholistı;Y;LC
+948;V;10070;10087;10102;10112;10120;34;Paraleucobryum sauteri;(Bruch & Schimp.) Loeske;široebrec Sauterùv;V;RE
+949;V;10070;10087;10124;10145;10161;28;Pelekium;Mitt.;(bez èeského jména);N;
+950;V;10070;10087;10124;10145;10161;34;Pelekium minutulum;(Hedw.) Touw;(bez èeského jména);N;NE
+951;V;10070;10087;10124;10129;10130;28;Philonotis;Brid.;vlahovka;Y;
+952;V;10070;10087;10124;10129;10130;34;Philonotis caespitosa;Jur.;vlahovka drnatá;Y;LC-att
+953;V;10070;10087;10124;10129;10130;34;Philonotis calcarea;(Bruch & Schimp.) Schimp.;vlahovka vápnomilná;Y;LC-att
+954;V;10070;10087;10124;10129;10130;34;Philonotis capillaris;Lindb.;vlahovka Arnellova;Y;EN
+955;V;10070;10087;10124;10129;10130;34;Philonotis fontana;(Hedw.) Brid.;vlahovka prameništní;Y;LC
+956;V;10070;10087;10124;10129;10130;34;Philonotis marchica;(Hedw.) Brid.;vlahovka poøíèní;Y;CR
+957;V;10070;10087;10124;10129;10130;34;Philonotis seriata;Mitt.;vlahovka øazená;Y;LC
+958;V;10070;10087;10124;10129;10130;34;Philonotis tomentella;Molendo;vlahovka štíhlá;Y;VU
+959;V;10070;10087;10097;10100;10101;28;Physcomitrella;Bruch & Schimp.;èepenka;Y;
+960;V;10070;10087;10097;10100;10101;34;Physcomitrella patens;(Hedw.) Bruch & Schimp.;èepenka odstálá;Y;LC-att
+961;V;10070;10087;10097;10100;10101;28;Physcomitrium;(Brid.) Brid.;mìchıøoèepka;Y;
+962;V;10070;10087;10097;10100;10101;34;Physcomitrium eurystomum;Sendtn.;mìchıøoèepka široústá;Y;VU
+963;V;10070;10087;10097;10100;10101;34;Physcomitrium pyriforme;(Hedw.) Hampe;mìchıøoèepka hruškovitá;Y;LC
+964;V;10070;10087;10097;10100;10101;34;Physcomitrium sphaericum;(C.Ludw.) Fürnr.;mìchıøoèepka kulovitá;Y;VU
+965;V;10070;10087;10124;10133;10134;28;Plagiobryum;Lindb.;jehnìdovka;Y;
+966;V;10070;10087;10124;10133;10134;34;Plagiobryum demissum;(Hook.) Lindb.;jehnìdovka hnìdoèervená;N;NE
+967;V;10070;10087;10124;10133;10134;34;Plagiobryum zieri;(Hedw.) Lindb.;jehnìdovka støíbøitá;Y;EN
+968;V;10070;10087;10124;10133;10135;28;Plagiomnium;T.J.Kop.;mìøík;Y;
+969;V;10070;10087;10124;10133;10135;34;Plagiomnium affine;(Blandow ex Funck) T.J.Kop.;mìøík pøíbuznı;Y;LC
+970;V;10070;10087;10124;10133;10135;34;Plagiomnium cuspidatum;(Hedw.) T.J.Kop.;mìøík bodlavı;Y;LC
+971;V;10070;10087;10124;10133;10135;34;Plagiomnium elatum;(Bruch & Schimp.) T.J.Kop.;mìøík vyvıšenı;Y;LC-att
+972;V;10070;10087;10124;10133;10135;34;Plagiomnium ellipticum;(Brid.) T.J.Kop.;mìøík oválnı;Y;LC-att
+973;V;10070;10087;10124;10133;10135;34;Plagiomnium medium;(Bruch & Schimp.) T.J.Kop.;mìøík prostøední;Y;NT
+974;V;10070;10087;10124;10133;10135;34;Plagiomnium rostratum;(Schrad.) T.J.Kop.;mìøík zobanitı;Y;LC
+975;V;10070;10087;10124;10133;10135;34;Plagiomnium undulatum;(Hedw.) T.J.Kop.;mìøík èeøitı;Y;LC
+976;V;10070;10087;10124;10129;10130;28;Plagiopus;Brid.;vlášenitka;Y;
+977;V;10070;10087;10124;10129;10130;34;Plagiopus oederianus;(Sw.) H.A.Crum & L.E.Anderson;vlášenitka Oederova;Y;VU
+978;V;10070;10087;10124;10145;10146;28;Plagiothecium;Schimp.;lesklec;Y;
+979;V;10070;10087;10124;10145;10146;34;Plagiothecium cavifolium;(Brid.) Z.Iwats.;lesklec dutolistı;Y;LC
+980;V;10070;10087;10124;10145;10146;34;Plagiothecium curvifolium;Schlieph. ex Limpr.;lesklec køivolistı;Y;LC
+981;V;10070;10087;10124;10145;10146;34;Plagiothecium denticulatum;(Hedw.) Schimp.;lesklec zubatı;Y;NE
+982;V;10070;10087;10124;10145;10146;36;Plagiothecium denticulatum var. denticulatum;\N;lesklec zubatı pravı;Y;LC
+983;V;10070;10087;10124;10145;10146;36;Plagiothecium denticulatum var. obtusifolium;(Turner) Moore;lesklec zubatı tupolistı;Y;VU
+984;V;10070;10087;10124;10145;10146;36;Plagiothecium denticulatum var. undulatum;R.Ruthe ex Geh.;lesklec zubatı vlnkatı;Y;LC-att
+985;V;10070;10087;10124;10145;10146;34;Plagiothecium laetum;Schimp.;lesklec pøíjemnı;Y;LC
+986;V;10070;10087;10124;10145;10146;34;Plagiothecium latebricola;Schimp.;lesklec dlouholistı;Y;VU
+987;V;10070;10087;10124;10145;10146;34;Plagiothecium neckeroideum;Schimp.;lesklec sourubkovitı;Y;EN
+988;V;10070;10087;10124;10145;10146;34;Plagiothecium nemorale;(Mitt.) A.Jaeger;lesklec lesní;Y;LC
+989;V;10070;10087;10124;10145;10146;34;Plagiothecium platyphyllum;Mönk.;lesklec širolistı;Y;LC-att
+990;V;10070;10087;10124;10145;10146;34;Plagiothecium succulentum;(Wilson) Lindb.;lesklec svrasklı;Y;LC
+991;V;10070;10087;10124;10145;10146;34;Plagiothecium undulatum;(Hedw.) Schimp.;lesklec èeøitı;Y;LC
+992;V;10070;10087;10124;10145;10168;28;Plasteurhynchium;M.Fleisch. ex Broth.;øešník;Y;
+993;V;10070;10087;10124;10145;10168;34;Plasteurhynchium striatulum;(Spruce) M.Fleisch.;øešník tlustoebernı;Y;LC-att
+994;V;10070;10087;10124;10145;10146;28;Platydictya;Berk.;rokytnatka;Y;
+995;V;10070;10087;10124;10145;10146;34;Platydictya jungermannioides;(Brid.) H.A.Crum;rokytnatka játrovkovitá;Y;CR
+996;V;10070;10087;10124;10145;10149;28;Platygyrium;Schimp.;prstenatka;Y;
+997;V;10070;10087;10124;10145;10149;34;Platygyrium repens;(Brid.) Schimp.;prstenatka plazivá;Y;LC
+998;V;10070;10087;10124;10145;10170;28;Platyhypnum;Loeske;bøehovec;Y;
+999;V;10070;10087;10124;10145;10170;34;Platyhypnum alpestre;(Hedw.) Ochyra;(bez èeského jména);N;NE
+1000;V;10070;10087;10124;10145;10170;34;Platyhypnum duriusculum;(De Not.) Ochyra;bøehovec rozšíøenı;Y;NT
+1001;V;10070;10087;10124;10145;10170;34;Platyhypnum molle;(Hedw.) Loeske;bøehovec mìkkı;Y;DD
+1002;V;10070;10087;10124;10145;10170;34;Platyhypnum smithii;(Sw.) Ochyra;bøehovec Smithùv;V;RE
+1003;V;10070;10087;10124;10131;10132;28;Plenogemma ;Plášek, Sawicki & Ochyra;(bez èeského jména);N;
+1004;V;10070;10087;10124;10131;10132;34;Plenogemma phyllantha;(Brid.) Sawicki, Plášek & Ochyra;(bez èeského jména);N;NE
+1005;V;10070;10087;10102;10112;10122;28;Pleuridium;Rabenh.;straniplodka;Y;
+1006;V;10070;10087;10102;10112;10122;34;Pleuridium acuminatum;Lindb.;straniplodka šídlovitá;Y;LC-att
+1007;V;10070;10087;10102;10112;10122;34;Pleuridium subulatum;(Hedw.) Rabenh.;straniplodka støídavolistá;Y;LC
+1008;V;10070;10087;10124;10145;10150;28;Pleurozium;(Sull.) Mitt.;travník;Y;
+1009;V;10070;10087;10124;10145;10150;34;Pleurozium schreberi;(Brid.) Mitt.;travník Schreberùv;Y;LC
+1010;V;10070;10079;10080;10081;10082;28;Pogonatum;P.Beauv.;ploníèek;Y;
+1011;V;10070;10079;10080;10081;10082;34;Pogonatum aloides;(Hedw.) P.Beauv.;ploníèek aloeovitı;Y;LC
+1012;V;10070;10079;10080;10081;10082;34;Pogonatum nanum;(Hedw.) P.Beauv.;ploníèek nízkı;Y;VU
+1013;V;10070;10079;10080;10081;10082;34;Pogonatum urnigerum;(Hedw.) P.Beauv.;ploníèek pohárovitı;Y;LC
+1014;V;10070;10087;10124;10133;10135;28;Pohlia;Hedw.;paprutka;Y;
+1015;V;10070;10087;10124;10133;10135;34;Pohlia andalusica;(Höhn.) Broth.;paprutka andaluská;Y;LC-att
+1016;V;10070;10087;10124;10133;10135;34;Pohlia andrewsii;A.J.Shaw;paprutka Andrewsova;Y;NE
+1017;V;10070;10087;10124;10133;10135;34;Pohlia annotina;(Hedw.) Lindb.;paprutka roèní;Y;LC
+1018;V;10070;10087;10124;10133;10135;34;Pohlia bulbifera;(Warnst.) Warnst.;paprutka cibulkatá;Y;LC
+1019;V;10070;10087;10124;10133;10135;34;Pohlia camptotrachela;(Renauld & Cardot) Broth.;paprutka pupenovitá;Y;LC-att
+1020;V;10070;10087;10124;10133;10135;34;Pohlia cruda;(Hedw.) Lindb.;paprutka trpká;Y;LC
+1021;V;10070;10087;10124;10133;10135;34;Pohlia drummondii;(Müll.Hal.) A.L.Andrews;paprutka hromadná;Y;LC
+1022;V;10070;10087;10124;10133;10135;34;Pohlia elongata;Hedw.;paprutka prodlouená;Y;NE
+1023;V;10070;10087;10124;10133;10135;36;Pohlia elongata var. elongata;\N;paprutka prodlouená pravá;Y;LC-att
+1024;V;10070;10087;10124;10133;10135;36;Pohlia elongata var. greenii;(Brid.) A.J.Shaw;paprutka prodlouená mnohotvárná;?;NE
+1025;V;10070;10087;10124;10133;10135;34;Pohlia erecta;Lindb.;(bez èeského jména);N;NE
+1026;V;10070;10087;10124;10133;10135;34;Pohlia filum;(Schimp.) M?rtensson;paprutka štíhlá;Y;VU
+1027;V;10070;10087;10124;10133;10135;34;Pohlia flexuosa;Hook.;(bez èeského jména);N;NE
+1028;V;10070;10087;10124;10133;10135;34;Pohlia lescuriana;(Sull.) Ochi;paprutka nádherná;Y;LC-att
+1029;V;10070;10087;10124;10133;10135;34;Pohlia longicolla;(Hedw.) Lindb.;paprutka dlouhokrkatá;Y;EN
+1030;V;10070;10087;10124;10133;10135;34;Pohlia ludwigii;(Spreng. ex Schwägr.) Broth.;paprutka Ludwigova;Y;VU
+1031;V;10070;10087;10124;10133;10135;34;Pohlia lutescens;(Limpr.) H.Lindb.;paprutka naloutlá;Y;DD
+1032;V;10070;10087;10124;10133;10135;34;Pohlia melanodon;(Brid.) A.J.Shaw;paprutka naèervenalá;Y;VU
+1033;V;10070;10087;10124;10133;10135;34;Pohlia nutans;(Hedw.) Lindb.;paprutka nicí;Y;NE
+1034;V;10070;10087;10124;10133;10135;35;Pohlia nutans subsp. nutans;\N;paprutka nicí pravá;Y;LC
+1035;V;10070;10087;10124;10133;10135;35;Pohlia nutans subsp. schimperi;(Müll.Hal.) Nyholm;paprutka nicí Schimperova;Y;NT
+1036;V;10070;10087;10124;10133;10135;34;Pohlia obtusifolia;(Vill. ex Brid.) L.F.Koch;paprutka kápovitá;V;RE
+1037;V;10070;10087;10124;10133;10135;34;Pohlia proligera;(Kindb. ex Breidl.) Lindb. ex Broth.;paprutka kopinatá;Y;LC
+1038;V;10070;10087;10124;10133;10135;34;Pohlia sphagnicola;(Bruch & Schimp.) Broth.;paprutka rašelinná;?;NE
+1039;V;10070;10087;10124;10133;10135;34;Pohlia tundrae;A.J.Shaw;paprutka tundrová;Y;CR
+1040;V;10070;10087;10124;10133;10135;34;Pohlia wahlenbergii;(F.Weber & D.Mohr) A.L.Andrews;paprutka Wahlenbergova;Y;LC
+1041;V;10070;10087;10124;10133;10135;36;Pohlia wahlenbergii var. wahlenbergii;\N;paprutka Wahlenbergova pravá;Y;NE
+1042;V;10070;10087;10124;10133;10135;36;Pohlia wahlenbergii var. calcarea;(Warnst.) E.F.Warb.;paprutka Wahlenbergova vápencová;Y;NE
+1043;V;10070;10087;10124;10133;10135;36;Pohlia wahlenbergii var. glacialis;(Schleich. ex Brid.) E.F.Warb.;paprutka Wahlenbergova ledovcová;Y;NE
+1044;V;10070;10079;10080;10081;10082;28;Polytrichastrum;G.L.Sm.;ploník;Y;
+1045;V;10070;10079;10080;10081;10082;34;Polytrichastrum alpinum;(Hedw.) G.L.Sm.;ploník horskı;Y;LC
+1046;V;10070;10079;10080;10081;10082;34;Polytrichastrum sexangulare;(Flörke ex Brid.) G.L.Sm.;ploník šestihrannı;V;RE
+1047;V;10070;10079;10080;10081;10082;28;Polytrichum;Hedw.;ploník;Y;
+1048;V;10070;10079;10080;10081;10082;34;Polytrichum commune;Hedw.;ploník obecnı;Y;LC
+1049;V;10070;10079;10080;10081;10082;34;Polytrichum formosum;Hedw.;ploník ztenèenı;Y;LC
+1050;V;10070;10079;10080;10081;10082;34;Polytrichum juniperinum;Hedw.;ploník jalovcovı;Y;LC
+1051;V;10070;10079;10080;10081;10082;34;Polytrichum longisetum;Sw. ex Brid.;ploník štíhlı;Y;LC
+1052;V;10070;10079;10080;10081;10082;34;Polytrichum pallidisetum;Funck;ploník zanedbanı;Y;LC-att
+1053;V;10070;10079;10080;10081;10082;34;Polytrichum perigoniale;Michx.;ploník menší;Y;LC
+1054;V;10070;10079;10080;10081;10082;34;Polytrichum piliferum;Hedw.;ploník chluponosnı;Y;LC
+1055;V;10070;10079;10080;10081;10082;34;Polytrichum strictum;Menzies ex Brid.;ploník tuhı;Y;LC
+1056;V;10070;10079;10080;10081;10082;34;Polytrichum swartzii;Hartm.;(bez èeského jména);N;NE
+1057;V;10070;10079;10080;10081;10082;34;Polytrichum uliginosum;(Wallr.) Schriebl;ploník bainnı;Y;LC-att
+1058;V;10070;10087;10102;10112;10123;28;Pottiopsis;Blockeel & A.J.E.Sm.;vlasoústka;Y;
+1059;V;10070;10087;10102;10112;10123;34;Pottiopsis caespitosa;(Bruch ex Brid.) Blockeel & A.J.E.Sm.;vlasoústka drobná;Y;CR
+1060;V;10070;10087;10102;10112;10122;28;Pseudephemerum;(Lindb.) I.Hagen;prchavièka;Y;
+1061;V;10070;10087;10102;10112;10122;34;Pseudephemerum nitidum;(Hedw.) Loeske;prchavièka lesklá;Y;LC
+1062;V;10070;10087;10124;10145;10170;28;Pseudoamblystegium;Vanderp. & Hedenäs;rokytnatka;Y;
+1063;V;10070;10087;10124;10145;10170;34;Pseudoamblystegium subtile;(Hedw.) Vanderp. & Hedenäs;rokytnatka útlá;Y;LC-att
+1064;V;10070;10087;10124;10133;10135;28;Pseudobryum;(Kindb.) T.J.Kop.;mìøík;Y;
+1065;V;10070;10087;10124;10133;10135;34;Pseudobryum cinclidioides;(Huebener) T.J.Kop.;mìøík sítozoubkovitı;Y;EN
+1066;V;10070;10087;10124;10145;10170;28;Pseudocampylium;Vanderp. & Hedenäs;rokıtek;Y;
+1067;V;10070;10087;10124;10145;10170;34;Pseudocampylium radicale;(P.Beauv.) Vanderp. & Hedenäs;rokıtek vlhkomilnı;Y;LC-att
+1068;V;10070;10087;10102;10112;10123;28;Pseudocrossidium;R.S.Williams;patøásnatka;Y;
+1069;V;10070;10087;10102;10112;10123;34;Pseudocrossidium hornschuchianum;(Schultz) R.H.Zander;patøásnatka Hornschuchova;Y;LC
+1070;V;10070;10087;10102;10112;10123;34;Pseudocrossidium revolutum;(Brid.) R.H.Zander;patøásnatka ohrnutá;Y;EN
+1071;V;10070;10087;10124;10145;10171;28;Pseudohygrohypnum;Kanda;bøehovec;N;
+1072;V;10070;10087;10124;10145;10171;34;Pseudohygrohypnum eugyrium;(Schimp.) Kanda;(bez èeského jména);N;NE
+1073;V;10070;10087;10124;10145;10156;28;Pseudoleskeella;Kindb.;øetízkovec;Y;
+1074;V;10070;10087;10124;10145;10156;34;Pseudoleskeella catenulata;(Brid. ex Schrad.) Kindb.;øetízkovec štíhlı;Y;LC
+1075;V;10070;10087;10124;10145;10156;34;Pseudoleskeella nervosa;(Brid.) Nyholm;øetízkovec ilnatı;Y;LC
+1076;V;10070;10087;10124;10145;10156;34;Pseudoleskeella rupestris;(Berggr.) Hedenäs & L.Söderstr.;øetízkovec skalní;Y;VU
+1077;V;10070;10087;10124;10145;10156;34;Pseudoleskeella tectorum;(Funck ex Brid.) Kindb. ex Broth.;øetízkovec støešní;Y;CR
+1078;V;10070;10087;10124;10145;10168;28;Pseudoscleropodium;(Limpr.) M.Fleisch.;lazovec;Y;
+1079;V;10070;10087;10124;10145;10168;34;Pseudoscleropodium purum;(Hedw.) M.Fleisch.;lazovec èistı;Y;LC
+1080;V;10070;10087;10124;10145;10146;28;Pseudotaxiphyllum;Z.Iwats.;bìlovec;Y;
+1081;V;10070;10087;10124;10145;10146;34;Pseudotaxiphyllum elegans;(Brid.) Z.Iwats.;bìlovec úhlednı;Y;LC
+1082;V;10070;10087;10124;10145;10153;28;Pterigynandrum;Hedw.;prostozubka;Y;
+1083;V;10070;10087;10124;10145;10153;34;Pterigynandrum filiforme;Hedw.;prostozubka niovitá;Y;LC
+1084;V;10070;10087;10102;10112;10123;28;Pterygoneurum;Jur.;lupenitka;Y;
+1085;V;10070;10087;10102;10112;10123;34;Pterygoneurum kozlovii;Laz.;lupenitka Kozlovova;Y;NE
+1086;V;10070;10087;10102;10112;10123;34;Pterygoneurum lamellatum;(Lindb.) Jur.;lupenitka lištnatá;Y;EN
+1087;V;10070;10087;10102;10112;10123;34;Pterygoneurum ovatum;(Hedw.) Dixon;lupenitka drobná;Y;LC
+1088;V;10070;10087;10102;10112;10123;34;Pterygoneurum subsessile;(Brid.) Jur.;lupenitka pøisedlá;Y;VU
+1089;V;10070;10087;10124;10145;10172;28;Ptilium;De Not.;pérovec;Y;
+1090;V;10070;10087;10124;10145;10172;34;Ptilium crista-castrensis;(Hedw.) De Not.;pérovec høebenitı;Y;LC-att
+1091;V;10070;10087;10102;10107;10110;28;Ptychomitrium;Fürnr.;mnoholistec;V;
+1092;V;10070;10087;10102;10107;10110;34;Ptychomitrium polyphyllum;(Sw.) Bruch & Schimp.;mnoholistec øáskatı;V;RE
+1093;V;10070;10087;10124;10131;10132;28;Pulvigera;Plášek, Sawicki & Ochyra;šurpek;Y;
+1094;V;10070;10087;10124;10131;10132;34;Pulvigera lyellii;(Hook. & Taylor) Plášek, Sawicki & Ochyra;šurpek vlákénkatı;Y;LC-att
+1095;V;10070;10087;10124;10145;10171;28;Pylaisia;Schimp.;èepejønatka;Y;
+1096;V;10070;10087;10124;10145;10171;34;Pylaisia polyantha;(Hedw.) Schimp.;èepejønatka mnohoplodá;Y;LC
+1097;V;10070;10087;10097;10100;10101;28;Pyramidula;Brid.;jehlancovka;Y;
+1098;V;10070;10087;10097;10100;10101;34;Pyramidula tetragona;(Brid.) Brid.;jehlancovka ètyøboká;Y;CR
+1099;V;10070;10087;10102;10107;10109;28;Racomitrium;Brid.;zoubkoèepka;Y;
+1100;V;10070;10087;10102;10107;10109;34;Racomitrium aciculare;(Hedw.) Brid.;zoubkoèepka jehlovitá;Y;LC
+1101;V;10070;10087;10102;10107;10109;34;Racomitrium affine;(Schleich. ex F.Weber & D.Mohr) Lindb.;zoubkoèepka pøíbuzná;Y;LC-att
+1102;V;10070;10087;10102;10107;10109;34;Racomitrium aquaticum;(Brid. ex Schrad.) Brid.;zoubkoèepka vlhkomilná;Y;LC
+1103;V;10070;10087;10102;10107;10109;34;Racomitrium canescens;(Hedw.) Brid.;zoubkoèepka šedá;Y;LC
+1104;V;10070;10087;10102;10107;10109;35;Racomitrium canescens subsp. canescens;\N;zoubkoèepka šedá pravá;Y;LC
+1105;V;10070;10087;10102;10107;10109;34;Racomitrium elongatum;Ehrh. ex Frisvoll;zoubkoèepka prodlouená;Y;LC
+1106;V;10070;10087;10102;10107;10109;34;Racomitrium ericoides;(Brid.) Brid.;zoubkoèepka vøesovcová;N;NE
+1107;V;10070;10087;10102;10107;10109;34;Racomitrium fasciculare;(Schrad. ex Hedw.) Brid.;zoubkoèepka svazèitá;Y;LC
+1108;V;10070;10087;10102;10107;10109;34;Racomitrium heterostichum;(Hedw.) Brid.;zoubkoèepka rùznoøadá;Y;LC
+1109;V;10070;10087;10102;10107;10109;34;Racomitrium lanuginosum;(Hedw.) Brid.;zoubkoèepka kosmatá;Y;LC
+1110;V;10070;10087;10102;10107;10109;34;Racomitrium macounii;Kindb.;zoubkoèepka Macounova;Y;NE
+1111;V;10070;10087;10102;10107;10109;35;Racomitrium macounii subsp. macounii;\N;zoubkoèepka Macounova pravá;Y;EN
+1112;V;10070;10087;10102;10107;10109;35;Racomitrium macounii subsp. alpinum;(E.Lawton) Frisvoll;zoubkoèepka Macounova horská;Y;LC
+1113;V;10070;10087;10102;10107;10109;34;Racomitrium microcarpon;(Hedw.) Brid.;zoubkoèepka maloplodá;Y;LC
+1114;V;10070;10087;10102;10107;10109;34;Racomitrium sudeticum;(Funck) Bruch & Schimp.;zoubkoèepka sudetská;Y;LC
+1115;V;10070;10087;10102;10112;10117;28;Rhabdoweisia;Limpr.;pruhovka;Y;
+1116;V;10070;10087;10102;10112;10117;34;Rhabdoweisia crenulata;(Mitt.) H.Jameson;pruhovka vroubkovaná;Y;EN
+1117;V;10070;10087;10102;10112;10117;34;Rhabdoweisia crispata;(Dicks. ex With.) Lindb.;pruhovka zoubkovaná;Y;NT
+1118;V;10070;10087;10102;10112;10117;34;Rhabdoweisia fugax;(Hedw.) Bruch & Schimp.;pruhovka nestálá;Y;LC
+1119;V;10070;10087;10124;10133;10135;28;Rhizomnium;(Mitt. ex Broth.) T.J.Kop.;mìøík;Y;
+1120;V;10070;10087;10124;10133;10135;34;Rhizomnium magnifolium;(Horik.) T.J.Kop.;mìøík velkolistı;Y;LC-att
+1121;V;10070;10087;10124;10133;10135;34;Rhizomnium pseudopunctatum;(Bruch & Schimp.) T.J.Kop.;mìøík kulatoplodı;Y;EN
+1122;V;10070;10087;10124;10133;10135;34;Rhizomnium punctatum;(Hedw.) T.J.Kop.;mìøík teèkovanı;Y;LC
+1123;V;10070;10087;10124;10133;10134;28;Rhodobryum;(Schimp.) Limpr.;rùoprutník;Y;
+1124;V;10070;10087;10124;10133;10134;34;Rhodobryum ontariense;(Kindb.) Paris;rùoprutník ontarijskı;Y;LC-att
+1125;V;10070;10087;10124;10133;10134;34;Rhodobryum roseum;(Hedw.) Limpr.;rùoprutník rùovitı;Y;LC
+1126;V;10070;10087;10124;10145;10168;28;Rhynchostegiella;(Schimp.) Limpr.;úzkolistec;Y;
+1127;V;10070;10087;10124;10145;10168;34;Rhynchostegiella tenella;(Dicks.) Limpr.;úzkolistec štíhlı;Y;NT
+1128;V;10070;10087;10124;10145;10168;34;Rhynchostegiella teneriffae;(Mont.) Dirkse & Bouman;úzkolistec dlouholistı;Y;EN
+1129;V;10070;10087;10124;10145;10168;28;Rhynchostegium;Schimp.;zobanitka;Y;
+1130;V;10070;10087;10124;10145;10168;34;Rhynchostegium confertum;(Dicks.) Schimp.;zobanitka smìstnaná;Y;LC-att
+1131;V;10070;10087;10124;10145;10168;34;Rhynchostegium megapolitanum;(Blandow ex F.Weber & D.Mohr) Schimp.;zobanitka otoèená;Y;VU
+1132;V;10070;10087;10124;10145;10168;34;Rhynchostegium murale;(Hedw.) Schimp.;zobanitka zední;Y;LC
+1133;V;10070;10087;10124;10145;10168;34;Rhynchostegium riparioides;(Hedw.) Cardot;zobanitka jehlicovitá;Y;LC
+1134;V;10070;10087;10124;10145;10168;34;Rhynchostegium rotundifolium;(Scop. ex Brid.) Schimp.;zobanitka okrouhlolistá;Y;EN
+1135;V;10070;10087;10124;10145;10150;28;Rhytidiadelphus;(Limpr.) Warnst.;kostrbatec;Y;
+1136;V;10070;10087;10124;10145;10150;34;Rhytidiadelphus loreus;(Hedw.) Warnst.;kostrbatec øemenatı;Y;LC
+1137;V;10070;10087;10124;10145;10150;34;Rhytidiadelphus squarrosus;(Hedw.) Warnst.;kostrbatec zelenı;Y;LC
+1138;V;10070;10087;10124;10145;10150;34;Rhytidiadelphus subpinnatus;(Lindb.) T.J.Kop.;kostrbatec vìtevnatı;Y;LC-att
+1139;V;10070;10087;10124;10145;10150;34;Rhytidiadelphus triquetrus;(Hedw.) Warnst.;kostrbatec tøíkoutı;Y;LC
+1140;V;10070;10087;10124;10145;10158;28;Rhytidium;(Sull.) Kindb.;èeøitka;Y;
+1141;V;10070;10087;10124;10145;10158;34;Rhytidium rugosum;(Hedw.) Kindb.;èeøitka statná;Y;LC
+1142;V;10070;10087;10102;10107;10108;28;Saelania;Lindb.;sivínka;Y;
+1143;V;10070;10087;10102;10107;10108;34;Saelania glaucescens;(Hedw.) Broth.;sivínka nasivìlá;Y;EN
+1144;V;10070;10087;10124;10145;10167;28;Sanionia;Loeske;srpnatka;Y;
+1145;V;10070;10087;10124;10145;10167;34;Sanionia uncinata;(Hedw.) Loeske;srpnatka háèkovitá;Y;LC
+1146;V;10070;10087;10124;10145;10166;28;Sarmentypnum;Tuom. & T.J.Kop.;srpnatka;Y;
+1147;V;10070;10087;10124;10145;10166;34;Sarmentypnum exannulatum;(Schimp.) Hedenäs;srpnatka bezkruhá;Y;LC
+1148;V;10070;10087;10124;10145;10166;34;Sarmentypnum sarmentosum;(Wahlenb.) Tuom. & T.J.Kop.;srpnatka trsnatá;Y;NT
+1149;V;10070;10087;10102;10107;10109;28;Schistidium;Bruch & Schimp.;klanozoubek;Y;
+1150;V;10070;10087;10102;10107;10109;34;Schistidium apocarpum;(Hedw.) Bruch & Schimp.;klanozoubek obecnı;Y;LC
+1151;V;10070;10087;10102;10107;10109;34;Schistidium brunnescens;Limpr.;klanozoubek hnìdavı;Y;LC
+1152;V;10070;10087;10102;10107;10109;35;Schistidium brunnescens subsp. brunnescens;\N;klanozoubek hnìdavı pravı;Y;LC
+1153;V;10070;10087;10102;10107;10109;34;Schistidium confertum;(Funck) Bruch & Schimp.;klanozoubek hustotrsı;Y;VU
+1154;V;10070;10087;10102;10107;10109;34;Schistidium confusum;H.H.Blom;klanozoubek zmatkotvornı;Y;LC-att
+1155;V;10070;10087;10102;10107;10109;34;Schistidium crassipilum;H.H.Blom;klanozoubek silnochlupı;Y;LC
+1156;V;10070;10087;10102;10107;10109;34;Schistidium dupretii;(Thér.) W.A.Weber;klanozoubek Dupretùv;Y;LC
+1157;V;10070;10087;10102;10107;10109;34;Schistidium elegantulum;H.H.Blom;klanozoubek ušlechtilı;Y;LC-att
+1158;V;10070;10087;10102;10107;10109;35;Schistidium elegantulum subsp. elegantulum;\N;klanozoubek ušlechtilı pravı;Y;LC-att
+1159;V;10070;10087;10102;10107;10109;34;Schistidium flaccidum;(De Not.) Ochyra;klanozoubek poduškovitı;Y;EN
+1160;V;10070;10087;10102;10107;10109;34;Schistidium helveticum;(Schkuhr) Deguchi;klanozoubek švıcarskı;Y;LC-att
+1161;V;10070;10087;10102;10107;10109;34;Schistidium lancifolium;(Kindb.) H.H.Blom;klanozoubek kopinatı;Y;LC-att
+1162;V;10070;10087;10102;10107;10109;34;Schistidium papillosum;Culm.;klanozoubek bradavèitı;Y;LC
+1163;V;10070;10087;10102;10107;10109;34;Schistidium pruinosum;(Wilson) G.Roth;klanozoubek ojínìnı;Y;LC-att
+1164;V;10070;10087;10102;10107;10109;34;Schistidium rivulare;(Brid.) Podp.;klanozoubek potoèní;Y;LC-att
+1165;V;10070;10087;10102;10107;10109;34;Schistidium robustum;(Nees & Hornsch.) H.H.Blom;klanozoubek statnı;Y;LC
+1166;V;10070;10087;10102;10107;10109;34;Schistidium strictum;(Turner) Loeske ex M?rtensson;klanozoubek štíhlı;N;NE
+1167;V;10070;10087;10102;10107;10109;34;Schistidium trichodon;(Brid.) Poelt;klanozoubek chlupozubı;Y;NE
+1168;V;10070;10087;10102;10107;10109;36;Schistidium trichodon var. trichodon;\N;klanozoubek chlupozubı pravı;Y;LC-att
+1169;V;10070;10087;10102;10107;10109;36;Schistidium trichodon var. nutans;H.H.Blom;klanozoubek chlupozubı nicí;Y;LC-att
+1170;V;10070;10087;10102;10112;10116;28;Schistostega;D.Mohr;døípovièník;Y;
+1171;V;10070;10087;10102;10112;10116;34;Schistostega pennata;(Hedw.) F.Weber & D.Mohr;døípovièník zpeøenı;Y;LC
+1172;V;10070;10087;10124;10145;10168;28;Sciuro-hypnum;Hampe;baòatka;Y;
+1173;V;10070;10087;10124;10145;10168;34;Sciuro-hypnum curtum;(Lindb.) Ignatov;baòatka zkrácená;Y;LC
+1174;V;10070;10087;10124;10145;10168;34;Sciuro-hypnum flotowianum;(Sendtn.) Ignatov & Huttunen;baòatka aksamitová;Y;DD
+1175;V;10070;10087;10124;10145;10168;34;Sciuro-hypnum plumosum;(Hedw.) Ignatov & Huttunen;baòatka pravá;Y;LC
+1176;V;10070;10087;10124;10145;10168;34;Sciuro-hypnum populeum;(Hedw.) Ignatov & Huttunen;baòatka topolová;Y;LC
+1177;V;10070;10087;10124;10145;10168;34;Sciuro-hypnum reflexum;(Starke) Ignatov & Huttunen;baòatka zakøivená;Y;LC
+1178;V;10070;10087;10124;10145;10168;34;Sciuro-hypnum starckii;(Brid.) Ignatov & Huttunen;baòatka Starkeova;Y;LC
+1179;V;10070;10087;10124;10145;10168;28;Scleropodium;Schimp.;dutolistec;N;
+1180;V;10070;10087;10124;10145;10168;34;Scleropodium touretii;(Brid.) L.F.Koch;dutolistec Touretùv;N;NE
+1181;V;10070;10087;10124;10145;10167;28;Scorpidium;(Schimp.) Limpr.;štírovec;Y;
+1182;V;10070;10087;10124;10145;10167;34;Scorpidium cossonii;(Schimp.) Hedenäs;štírovec prostøední;Y;NT
+1183;V;10070;10087;10124;10145;10167;34;Scorpidium revolvens;(Sw.) Rubers;štírovec závitkolistı;Y;EN
+1184;V;10070;10087;10124;10145;10167;34;Scorpidium scorpioides;(Hedw.) Limpr.;štírovec dutolistı;Y;EN
+1185;V;10070;10087;10102;10107;10111;28;Seligeria;Bruch & Schimp.;kápìnka;Y;
+1186;V;10070;10087;10102;10107;10111;34;Seligeria acutifolia;Lindb.;kápìnka ostrolistá;Y;VU
+1187;V;10070;10087;10102;10107;10111;34;Seligeria calcarea;(Hedw.) Bruch & Schimp.;kápìnka vápencová;Y;EN
+1188;V;10070;10087;10102;10107;10111;34;Seligeria donniana;(Sm.) Müll.Hal.;kápìnka Donnova;Y;LC
+1189;V;10070;10087;10102;10107;10111;34;Seligeria patula;(Lindb.) Lindb. ex I.Hagen;kápìnka rozevøená;V;DD-va
+1190;V;10070;10087;10102;10107;10111;34;Seligeria pusilla;(Hedw.) Bruch & Schimp.;kápìnka malièká;Y;VU
+1191;V;10070;10087;10102;10107;10111;34;Seligeria trifaria;(Brid.) Lindb.;kápìnka tøíøadá;N;NE
+1192;V;10070;10087;10102;10107;10111;34;Seligeria tristichoides;Kindb.;(bez èeského jména);N;NE
+1193;V;10070;10087;10124;10145;10170;28;Serpoleskea;(Hampe ex Limpr.) Loeske;rokytnatka;Y;
+1194;V;10070;10087;10124;10145;10170;34;Serpoleskea confervoides;(Brid.) Loeske;rokytnatka nejjemnìjší;Y;LC-att
+1195;V;10070;10071;10072;10073;10074;28;Sphagnum;L.;rašeliník;Y;
+1196;V;10070;10071;10072;10073;10074;34;Sphagnum affine;Renauld & Cardot;rašeliník støecholistı;Y;VU
+1197;V;10070;10071;10072;10073;10074;34;Sphagnum angustifolium;(Russow) C.E.O.Jensen;rašeliník úzkolistı;Y;LC-att
+1198;V;10070;10071;10072;10073;10074;34;Sphagnum auriculatum;Schimp.;rašeliník tuènı;Y;LC
+1199;V;10070;10071;10072;10073;10074;34;Sphagnum austinii;Sull.;rašeliník Austinùv;V;RE
+1200;V;10070;10071;10072;10073;10074;34;Sphagnum balticum;(Russow) C.E.O.Jensen;rašeliník baltskı;Y;LC-att
+1201;V;10070;10071;10072;10073;10074;34;Sphagnum capillifolium;(Ehrh.) Hedw.;rašeliník ostrolistı;Y;LC
+1202;V;10070;10071;10072;10073;10074;34;Sphagnum centrale;C.E.O.Jensen;rašeliník støedovı;Y;LC-att
+1203;V;10070;10071;10072;10073;10074;34;Sphagnum compactum;Lam. & DC.;rašeliník tuhı;Y;LC
+1204;V;10070;10071;10072;10073;10074;34;Sphagnum contortum;Schultz;rašeliník modøínovı;Y;NT
+1205;V;10070;10071;10072;10073;10074;34;Sphagnum cuspidatum;Ehrh. ex Hoffm.;rašeliník bodlavı;Y;LC
+1206;V;10070;10071;10072;10073;10074;34;Sphagnum fallax;(H.Klinggr.) H.Klinggr.;rašeliník køivolistı;Y;LC
+1207;V;10070;10071;10072;10073;10074;34;Sphagnum fimbriatum;Wilson;rašeliník tøásnitı;Y;LC
+1208;V;10070;10071;10072;10073;10074;35;Sphagnum fimbriatum subsp. fimbriatum;\N;rašeliník tøásnitı pravı;Y;LC
+1209;V;10070;10071;10072;10073;10074;34;Sphagnum flexuosum;Dozy & Molk.;rašeliník odchylnı;Y;LC
+1210;V;10070;10071;10072;10073;10074;34;Sphagnum fuscum;(Schimp.) H.Klinggr.;rašeliník hnìdı;Y;NT
+1211;V;10070;10071;10072;10073;10074;34;Sphagnum girgensohnii;Russow;rašeliník Girgensohnùv;Y;LC
+1212;V;10070;10071;10072;10073;10074;34;Sphagnum inundatum;Russow;rašeliník splıvavı;Y;DD
+1213;V;10070;10071;10072;10073;10074;34;Sphagnum lindbergii;Schimp.;rašeliník Lindbergùv;Y;LC
+1214;V;10070;10071;10072;10073;10074;34;Sphagnum magellanicum;Brid.;rašeliník prostøední;Y;LC
+1215;V;10070;10071;10072;10073;10074;34;Sphagnum majus;(Russow) C.E.O.Jensen;rašeliník Dusénùv;Y;LC
+1216;V;10070;10071;10072;10073;10074;35;Sphagnum majus subsp. majus;\N;rašeliník Dusénùv pravı;Y;NE
+1217;V;10070;10071;10072;10073;10074;34;Sphagnum molle;Sull.;rašeliník mìkkı;V;RE
+1218;V;10070;10071;10072;10073;10074;34;Sphagnum obtusum;Warnst.;rašeliník tupolistı;Y;NT
+1219;V;10070;10071;10072;10073;10074;34;Sphagnum palustre;L.;rašeliník èlunkolistı;Y;LC
+1220;V;10070;10071;10072;10073;10074;34;Sphagnum papillosum;Lindb.;rašeliník bradavèitı;Y;LC
+1221;V;10070;10071;10072;10073;10074;34;Sphagnum platyphyllum;(Lindb. ex Braithw.) Sull. ex Warnst.;rašeliník širolistı;Y;CR
+1222;V;10070;10071;10072;10073;10074;34;Sphagnum pulchrum;(Lindb.) Warnst.;rašeliník sliènı;N;NE
+1223;V;10070;10071;10072;10073;10074;34;Sphagnum quinquefarium;(Lindb.) Warnst.;rašeliník pìtiøadı;Y;LC
+1224;V;10070;10071;10072;10073;10074;34;Sphagnum riparium;?ngstr.;rašeliník pobøení;Y;LC
+1225;V;10070;10071;10072;10073;10074;34;Sphagnum rubellum;Wilson;rašeliník èervenı;Y;LC
+1226;V;10070;10071;10072;10073;10074;34;Sphagnum russowii;Warnst.;rašeliník statnı;Y;LC
+1227;V;10070;10071;10072;10073;10074;34;Sphagnum squarrosum;Crome;rašeliník kostrbatı;Y;LC
+1228;V;10070;10071;10072;10073;10074;34;Sphagnum subnitens;Russow & Warnst.;rašeliník lesklı;Y;LC-att
+1229;V;10070;10071;10072;10073;10074;35;Sphagnum subnitens subsp. subnitens;\N;rašeliník lesklı pravı;Y;LC-att
+1230;V;10070;10071;10072;10073;10074;34;Sphagnum subsecundum;Nees;rašeliník jednostrannı;Y;LC
+1231;V;10070;10071;10072;10073;10074;34;Sphagnum tenellum;(Brid.) Brid.;rašeliník nejmìkèí;Y;LC
+1232;V;10070;10071;10072;10073;10074;34;Sphagnum teres;(Schimp.) ?ngstr. ex Hartm.;rašeliník oblı;Y;LC
+1233;V;10070;10071;10072;10073;10074;34;Sphagnum warnstorfii;Russow;rašeliník Warnstorfùv;Y;LC-att
+1234;V;10070;10087;10124;10127;10128;28;Splachnum;Hedw.;volatka;Y;
+1235;V;10070;10087;10124;10127;10128;34;Splachnum ampullaceum;Hedw.;volatka baòatá;Y;NT
+1236;V;10070;10087;10124;10127;10128;34;Splachnum sphaericum;Hedw.;volatka kulatá;Y;NT
+1237;V;10070;10087;10102;10112;10123;28;Stegonia;Venturi;širolistka;Y;
+1238;V;10070;10087;10102;10112;10123;34;Stegonia latifolia;(Schwägr.) Venturi ex Broth.;širolistka støíbøitá;V;RE
+1239;V;10070;10087;10124;10145;10166;28;Straminergon;Hedenäs;baøinatka;Y;
+1240;V;10070;10087;10124;10145;10166;34;Straminergon stramineum;(Dicks. ex Brid.) Hedenäs;baøinatka naloutlá;Y;LC
+1241;V;10070;10087;10102;10112;10123;28;Streblotrichum;P.Beauv.;syèavka;Y;
+1242;V;10070;10087;10102;10112;10123;34;Streblotrichum commutatum;(Jur.) Hilp.;syèavka jiní;Y;DD
+1243;V;10070;10087;10102;10112;10123;34;Streblotrichum convolutum;(Hedw.) P.Beauv.;syèavka pošvatá;Y;LC
+1244;V;10070;10087;10102;10112;10123;34;Streblotrichum enderesii;(Garov.) Loeske;syèavka Endresova;V;RE
+1245;V;10070;10087;10102;10112;10123;28;Syntrichia;Brid.;rourkatec;Y;
+1246;V;10070;10087;10102;10112;10123;34;Syntrichia calcicola;J.J.Amann;rourkatec vápnomilnı;Y;LC
+1247;V;10070;10087;10102;10112;10123;34;Syntrichia caninervis;Mitt.;rourkatec šedoebrı;V;DD-va
+1248;V;10070;10087;10102;10112;10123;36;Syntrichia caninervis var. gypsophila;(J.J.Amann ex G.Roth) Ochyra;rourkatec šedoebrı sádrovcovı;V;DD-va
+1249;V;10070;10087;10102;10112;10123;34;Syntrichia fragilis;(Taylor) Ochyra;rourkatec køehkı;Y;CR
+1250;V;10070;10087;10102;10112;10123;34;Syntrichia laevipila;Brid.;rourkatec hladkı;V;DD-va
+1251;V;10070;10087;10102;10112;10123;34;Syntrichia latifolia;(Bruch ex Hartm.) Huebener;rourkatec širolistı;Y;NT
+1252;V;10070;10087;10102;10112;10123;34;Syntrichia montana;Nees;rourkatec chlumní;Y;LC
+1253;V;10070;10087;10102;10112;10123;36;Syntrichia montana var. calva;(Durieu & Sagot ex Schimp.) J.J.Amann;rourkatec chlumní bezchlupı;Y;NE
+1254;V;10070;10087;10102;10112;10123;36;Syntrichia montana var. montana;\N;rourkatec chlumní pravı;Y;NE
+1255;V;10070;10087;10102;10112;10123;34;Syntrichia norvegica;F.Weber;rourkatec norskı;Y;CR
+1256;V;10070;10087;10102;10112;10123;34;Syntrichia papillosa;(Wilson ex Spruce) Spruce;rourkatec bradavèitı;Y;LC
+1257;V;10070;10087;10102;10112;10123;34;Syntrichia ruralis;(Hedw.) F.Weber & D.Mohr;rourkatec obecnı;Y;NE
+1258;V;10070;10087;10102;10112;10123;36;Syntrichia ruralis var. ruraliformis;(Besch.) Delogne;rourkatec obecnı venkovskı;Y;LC-att
+1259;V;10070;10087;10102;10112;10123;36;Syntrichia ruralis var. ruralis;\N;rourkatec obecnı pravı;Y;LC
+1260;V;10070;10087;10102;10112;10123;34;Syntrichia sinensis;(Müll.Hal.) Ochyra;rourkatec horskı;N;NE
+1261;V;10070;10087;10102;10112;10123;34;Syntrichia virescens;(De Not.) Ochyra;rourkatec poduškovitı;Y;LC
+1262;V;10070;10087;10124;10145;10163;28;Taxiphyllum;M.Fleisch.;lodìnka;Y;
+1263;V;10070;10087;10124;10145;10163;34;Taxiphyllum densifolium;(Lindb. ex Broth.) Reimers;lodìnka hustolistá;N;NE
+1264;V;10070;10087;10124;10145;10163;34;Taxiphyllum wissgrillii;(Garov.) Wijk & Margad.;lodìnka smáèklá;Y;LC
+1265;V;10070;10087;10124;10127;10128;28;Tayloria;Hook.;mrvenka;Y;
+1266;V;10070;10087;10124;10127;10128;34;Tayloria acuminata;Hornsch.;mrvenka ostrolistá;N;NE
+1267;V;10070;10087;10124;10127;10128;34;Tayloria froelichiana;(Hedw.) Mitt. ex Broth.;mrvenka Frölichova;N;NE
+1268;V;10070;10087;10124;10127;10128;34;Tayloria serrata;(Hedw.) Bruch & Schimp.;mrvenka pilovitá;Y;EN
+1269;V;10070;10087;10124;10127;10128;34;Tayloria splachnoides;(Schleich. ex Schwägr.) Hook.;mrvenka volatkovitá;V;RE
+1270;V;10070;10087;10124;10127;10128;34;Tayloria tenuis;(Dicks. ex With.) Schimp.;mrvenka štíhlá;Y;EN
+1271;V;10070;10083;10084;10085;10086;28;Tetraphis;Hedw.;ètyøzoubek;Y;
+1272;V;10070;10083;10084;10085;10086;34;Tetraphis pellucida;Hedw.;ètyøzoubek prùzraènı;Y;LC
+1273;V;10070;10087;10124;10127;10128;28;Tetraplodon;Bruch & Schimp.;souzubka;Y;
+1274;V;10070;10087;10124;10127;10128;34;Tetraplodon angustatus;(Hedw.) Bruch & Schimp.;souzubka zúená;Y;VU
+1275;V;10070;10087;10124;10127;10128;34;Tetraplodon mnioides;(Hedw.) Bruch & Schimp.;souzubka mìøíkovitá;Y;VU
+1276;V;10070;10083;10084;10085;10086;28;Tetrodontium;Schwägr.;chudozubík;Y;
+1277;V;10070;10083;10084;10085;10086;34;Tetrodontium brownianum;(Dicks.) Schwägr.;chudozubík Brownùv;Y;NT
+1278;V;10070;10083;10084;10085;10086;34;Tetrodontium ovatum;(Funck) Schwägr.;chudozubík vejèitı;Y;DD
+1279;V;10070;10083;10084;10085;10086;34;Tetrodontium repandum;(Funck) Schwägr.;chudozubík zahnutı;Y;NT
+1280;V;10070;10087;10124;10145;10154;28;Thamnobryum;Nieuwl.;stromkovec;Y;
+1281;V;10070;10087;10124;10145;10154;34;Thamnobryum alopecurum;(Hedw.) Nieuwl. ex Gangulee;stromkovec ocáskovitı;Y;LC
+1282;V;10070;10087;10124;10145;10154;34;Thamnobryum neckeroides;(Hook.) E.Lawton;stromkovec sourubkovitı;Y;EN
+1283;V;10070;10087;10124;10145;10161;28;Thuidium;Schimp.;zpeøenka;Y;
+1284;V;10070;10087;10124;10145;10161;34;Thuidium assimile;(Mitt.) A.Jaeger;zpeøenka Philibertova;Y;LC
+1285;V;10070;10087;10124;10145;10161;34;Thuidium delicatulum;(Hedw.) Schimp.;zpeøenka pùvabná;Y;LC-att
+1286;V;10070;10087;10124;10145;10161;34;Thuidium recognitum;(Hedw.) Lindb.;zpeøenka ozdobná;Y;LC
+1287;V;10070;10087;10124;10145;10161;34;Thuidium tamariscinum;(Hedw.) Schimp.;zpeøenka tamaryšková;Y;LC
+1288;V;10070;10087;10094;10095;10096;28;Timmia;Hedw.;podnoitka;Y;
+1289;V;10070;10087;10094;10095;10096;34;Timmia austriaca;Hedw.;podnoitka rakouská;Y;RE
+1290;V;10070;10087;10094;10095;10096;34;Timmia bavarica;Hessl.;podnoitka bavorská;Y;EN
+1291;V;10070;10087;10124;10145;10170;28;Tomentypnum;Loeske;vlasolistec;Y;
+1292;V;10070;10087;10124;10145;10170;34;Tomentypnum nitens;(Hedw.) Loeske;vlasolistec vlhkomilnı;Y;NT
+1293;V;10070;10087;10102;10112;10123;28;Tortella;(Müll. Hal.) Limpr.;vijozub;Y;
+1294;V;10070;10087;10102;10112;10123;34;Tortella densa;(Lorentz & Molendo) Crundw. & Nyholm;(bez èeského jména);N;NE
+1295;V;10070;10087;10102;10112;10123;34;Tortella fragilis;(Hook. & Wilson) Limpr.;vijozub køehkı;N;NE
+1296;V;10070;10087;10102;10112;10123;34;Tortella inclinata;(R.Hedw.) Limpr.;vijozub nachılenı;Y;LC
+1297;V;10070;10087;10102;10112;10123;34;Tortella nitida;(Lindb.) Broth.;vijozub lesklı;N;NE
+1298;V;10070;10087;10102;10112;10123;34;Tortella pseudofragilis;(Thér.) Köckinger & Hedenäs;vijozub Bambergerùv;Y;LC
+1299;V;10070;10087;10102;10112;10123;34;Tortella squarrosa;(Brid.) Limpr.;vijozub kostrbatı;Y;NT
+1300;V;10070;10087;10102;10112;10123;34;Tortella tortuosa;(Schrad. ex Hedw.) Limpr.;vijozub zkroucenı;Y;LC
+1301;V;10070;10087;10102;10112;10123;28;Tortula;Hedw.;kroucenec;Y;
+1302;V;10070;10087;10102;10112;10123;34;Tortula acaulon;(With.) R.H.Zander;kroucenec bezštìtı;Y;NE
+1303;V;10070;10087;10102;10112;10123;34;Tortula acaulon var. acaulon;\N;kroucenec bezštìtı pravı;Y;LC
+1304;V;10070;10087;10102;10112;10123;34;Tortula acaulon var. pilifera;(Schreb. ex Hedw.) R.H.Zander;kroucenec bezštìtı chluponosnı;Y;LC
+1305;V;10070;10087;10102;10112;10123;34;Tortula atrovirens;(Sm.) Lindb.;kroucenec tmavı;Y;CR
+1306;V;10070;10087;10102;10112;10123;34;Tortula caucasica;Lindb.;kroucenec prostøední;Y;LC
+1307;V;10070;10087;10102;10112;10123;34;Tortula cernua;(Huebener) Lindb.;kroucenec nicí;V;RE
+1308;V;10070;10087;10102;10112;10123;34;Tortula hoppeana;(Schultz) Ochyra;kroucenec širolistı;Y;EN
+1309;V;10070;10087;10102;10112;10123;34;Tortula inermis;(Brid.) Mont.;kroucenec bezbrannı;Y;CR
+1310;V;10070;10087;10102;10112;10123;34;Tortula lindbergii;Broth.;kroucenec kopinatı;Y;LC
+1311;V;10070;10087;10102;10112;10123;34;Tortula lingulata;Lindb.;kroucenec jazykovitı;Y;CR
+1312;V;10070;10087;10102;10112;10123;34;Tortula mucronifolia;Schwägr.;kroucenec hrotitı;Y;CR
+1313;V;10070;10087;10102;10112;10123;34;Tortula muralis;Hedw.;kroucenec zední;Y;NE
+1314;V;10070;10087;10102;10112;10123;35;Tortula muralis subsp. muralis;\N;kroucenec zední pravı;Y;NE
+1315;V;10070;10087;10102;10112;10123;36;Tortula muralis subsp. muralis var. aestiva;Brid. ex Hedw.;kroucenec zední letní;Y;LC
+1316;V;10070;10087;10102;10112;10123;36;Tortula muralis subsp. muralis var. muralis;\N;kroucenec zední pravı;Y;LC
+1317;V;10070;10087;10102;10112;10123;35;Tortula muralis subsp. obtusifolia;(Schwägr.) Culm.;kroucenec zední tupolistı;N;NE
+1318;V;10070;10087;10102;10112;10123;34;Tortula protobryoides;R.H.Zander;kroucenec mechovitı;Y;LC-att
+1319;V;10070;10087;10102;10112;10123;34;Tortula schimperi;M.J.Cano, O.Werner & J.Guerra;kroucenec úzkolistı;Y;DD
+1320;V;10070;10087;10102;10112;10123;34;Tortula subulata;Hedw.;kroucenec šídlovitı;Y;LC
+1321;V;10070;10087;10102;10112;10123;34;Tortula truncata;(Hedw.) Mitt.;kroucenec uatı;Y;LC
+1322;V;10070;10087;10102;10112;10121;28;Trematodon;Michx.;dìrozub;Y;
+1323;V;10070;10087;10102;10112;10121;34;Trematodon ambiguus;(Hedw.) Hornsch.;dìrozub pochybnı;Y;CR
+1324;V;10070;10087;10102;10112;10122;28;Trichodon;Schimp.;tenkozubka;Y;
+1325;V;10070;10087;10102;10112;10122;34;Trichodon cylindricus;(Hedw.) Schimp.;tenkozubka válcovitá;Y;LC
+1326;V;10070;10087;10102;10112;10123;28;Trichostomum;Bruch;vlasoústka;Y;
+1327;V;10070;10087;10102;10112;10123;34;Trichostomum brachydontium;Bruch;vlasoústka lutozelená;V;DD-va
+1328;V;10070;10087;10102;10112;10123;34;Trichostomum crispulum;Bruch;vlasoústka kadeøavá;Y;LC-att
+1329;V;10070;10087;10124;10131;10132;28;Ulota;D.Mohr;kadeøavec;Y;
+1330;V;10070;10087;10124;10131;10132;34;Ulota bruchii;Hornsch. ex Brid.;kadeøavec Bruchùv;Y;LC
+1331;V;10070;10087;10124;10131;10132;34;Ulota coarctata;(P.Beauv.) Hammar;kadeøavec kyjovitı;Y;CR
+1332;V;10070;10087;10124;10131;10132;34;Ulota crispa;(Hedw.) Brid.;kadeøavec obecnı;Y;LC
+1333;V;10070;10087;10124;10131;10132;34;Ulota crispula;Bruch;kadeøavec pohárovitı;Y;NE
+1334;V;10070;10087;10124;10131;10132;34;Ulota curvifolia;(Wahlenb.) Sw.;(bez èeského jména);N;NE
+1335;V;10070;10087;10124;10131;10132;34;Ulota drummondii;(Hook. & Grev.) Brid.;kadeøavec Drummondùv;V;RE
+1336;V;10070;10087;10124;10131;10132;34;Ulota hutchinsiae;(Sm.) Hammar;kadeøavec západní;Y;EN
+1337;V;10070;10087;10124;10131;10132;34;Ulota intermedia;Schimp.;kadeøavec prostøední;Y;NE
+1338;V;10070;10087;10124;10131;10132;34;Ulota macrospora;Baur & Warnst.;kadeøavec velkovıtrusı;Y;NE
+1339;V;10070;10087;10124;10145;10166;28;Warnstorfia;Loeske;srpnatka;Y;
+1340;V;10070;10087;10124;10145;10166;34;Warnstorfia fluitans;(Hedw.) Loeske;srpnatka splıvavá;Y;LC
+1341;V;10070;10087;10124;10145;10166;34;Warnstorfia pseudostraminea;(Müll.Hal.) Tuom. & T.J.Kop.;srpnatka lutavá;Y;EN
+1342;V;10070;10087;10124;10145;10166;34;Warnstorfia trichophylla;(Warnst.) Tuom. & T.J.Kop.;(bez èeského jména);N;NE
+1343;V;10070;10087;10102;10112;10123;28;Weissia;Hedw.;termovka;Y;
+1344;V;10070;10087;10102;10112;10123;34;Weissia brachycarpa;(Nees & Hornsch.) Jur.;termovka krátkoplodá;Y;LC
+1345;V;10070;10087;10102;10112;10123;34;Weissia condensa;(Voit) Lindb.;termovka hustá;Y;LC
+1346;V;10070;10087;10102;10112;10123;34;Weissia controversa;Hedw.;termovka zelená;Y;LC
+1347;V;10070;10087;10102;10112;10123;34;Weissia fallax;Sehlm.;termovka dlouholistá;Y;LC-att
+1348;V;10070;10087;10102;10112;10123;34;Weissia levieri;(Limpr.) Kindb.;termovka Levierova;N;NE
+1349;V;10070;10087;10102;10112;10123;34;Weissia longifolia;Mitt.;termovka kadeøavá;Y;LC
+1350;V;10070;10087;10102;10112;10123;34;Weissia rostellata;(Brid.) Lindb.;termovka zobánkatá;V;DD-va
+1351;V;10070;10087;10102;10112;10123;34;Weissia rutilans;(Hedw.) Lindb.;termovka ostnitá;Y;EN
+1352;V;10070;10087;10102;10112;10123;34;Weissia squarrosa;(Nees & Hornsch.) Müll.Hal.;termovka kostrbatá;Y;VU
+1353;V;10070;10087;10102;10112;10123;34;Weissia sterilis;W.E.Nicholson;(bez èeského jména);N;NE
+1354;V;10070;10087;10102;10112;10123;34;Weissia wimmeriana;(Sendtn.) Bruch & Schimp.;termovka Wimmerova;Y;VU
+1355;V;10070;10087;10124;10131;10132;28;Zygodon;Hook. & Taylor;zrnitka;Y;
+1356;V;10070;10087;10124;10131;10132;34;Zygodon dentatus;(Limpr.) Kartt.;zrnitka zubatá;Y;NT
+1357;V;10070;10087;10124;10131;10132;34;Zygodon rupestris;Schimp. ex Lorentz;zrnitka skalní;Y;NT
+1358;V;10070;10087;10124;10131;10132;34;Zygodon viridissimus;(Dicks.) Brid.;zrnitka zelená;Y;EN

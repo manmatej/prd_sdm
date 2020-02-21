@@ -6,6 +6,7 @@ rownames(projects)<-projects$id
 
 dali<-dali[,-41] # duplicit column "id"
 check<-"check_list.csv" # IUCN category, redl ist file
+dbDisconnect(con)
 
 # lft:rght
 # Bryophyta 2:3081
@@ -16,7 +17,7 @@ m<-sum(dali$lft %in% c(2:3081))
 tot<-sum(counts_rec$count)
 
 Check<-data.table::fread(check,stringsAsFactors = F,header=F,encoding = "Latin-1") # IUCN category, redl ist
-mechy.red<-inner_join(mechy,Check,by=c("name_lat"="V9")) # red list category bryophytes
+mechy.red<-inner_join(dali,Check,by=c("name_lat"="V9")) # red list category bryophytes
 projs<-names(summary(as.factor(mechy.red$project_id)))
 
 projects<-projects[projs,]
@@ -24,7 +25,7 @@ projects<-projects[projs,]
 counts<-as.data.frame(table(mechy.red$name_lat[mechy.red$project_id==as.numeric(projects$id[1])]))
 names(counts)<-c("spec",projects$abbrev[1])
 for (i in 2:nrow(projects)){
-  counts1<-as.data.frame(table(mechy.red$name_lat[mechy.red$project_id==projects$id[2]]))
+  counts1<-as.data.frame(table(mechy.red$name_lat[mechy.red$project_id==projects$id[i]]))
   names(counts1)<-c("spec",projects$abbrev[i])
   counts<-merge(counts,counts1,by="spec",all=T)
 }

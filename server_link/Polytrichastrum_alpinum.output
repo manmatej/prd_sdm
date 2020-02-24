@@ -11,7 +11,7 @@
 > library(doParallel)
 > 
 > task_params<-list(
-+   taxon_name="Ptilium crista-castrensis",
++   taxon_name="Polytrichastrum alpinum",
 +   includes_absence=FALSE,
 +   pseudoabsence_count=161,
 +   epsg=4326,
@@ -152,8 +152,8 @@ proj4string:    +proj=utm +zone=33 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m 
 > body_32633<-sf::st_transform(body_pa,st@crs) # transform points to stack crs
 > sejp<-nam<-paste0("/home/mman/czechgrids_local/M_outputs/",task_params$taxon_name,"SHP_presence",format(Sys.time(),"%Y_%m_%d_%H"),".shp")
 > st_write(body_32633,sejp)
-Writing layer `Ptilium crista-castrensisSHP_presence2020_02_21_09' to data source `/home/mman/czechgrids_local/M_outputs/Ptilium crista-castrensisSHP_presence2020_02_21_09.shp' using driver `ESRI Shapefile'
-Writing 728 features with 1 fields and geometry type Point.
+Writing layer `Polytrichastrum alpinumSHP_presence2020_02_24_09' to data source `/home/mman/czechgrids_local/M_outputs/Polytrichastrum alpinumSHP_presence2020_02_24_09.shp' using driver `ESRI Shapefile'
+Writing 488 features with 1 fields and geometry type Point.
 > 
 > # Pararelize the task
 > st.list <- unstack(st)
@@ -270,11 +270,11 @@ null device
 > colnames(glm.stat)<-"Performance"
 > glm.stat
             Performance
-Sensitivity      0.7181
-Specificity      0.7765
-Prevalence       0.5000
-Kappa            0.4945
-TSS              0.4945
+Sensitivity      0.9156
+Specificity      0.9222
+Prevalence       0.4976
+Kappa            0.8379
+TSS              0.8378
 > 
 > 
 > rf.stat<-data.frame(rbind(rf.conf$byClass["Sensitivity"],
@@ -289,11 +289,11 @@ TSS              0.4945
 > colnames(rf.stat)<-"Performance"
 > rf.stat
             Performance
-Sensitivity      0.8725
-Specificity      0.7785
-Prevalence       0.5000
-Kappa            0.6510
-TSS              0.6510
+Sensitivity      0.9285
+Specificity      0.9436
+Prevalence       0.4976
+Kappa            0.8722
+TSS              0.8722
 > 
 > glm.imp<-varImp(model.glm,scale = T)
 > rf.imp<-varImp(model.rf,scale = T)
@@ -334,73 +334,193 @@ null device
 +                   index=2,
 +                   type="prob",
 +                   overwrite=T)
+Aggregating predictions.. Progress: 99%. Estimated remaining time: 0 seconds.
+Aggregating predictions.. Progress: 99%. Estimated remaining time: 0 seconds.
 Aggregating predictions.. Progress: 100%. Estimated remaining time: 0 seconds.
 Aggregating predictions.. Progress: 100%. Estimated remaining time: 0 seconds.
-Aggregating predictions.. Progress: 97%. Estimated remaining time: 1 seconds.
+Aggregating predictions.. Progress: 100%. Estimated remaining time: 0 seconds.
+Aggregating predictions.. Progress: 97%. Estimated remaining time: 0 seconds.
+Aggregating predictions.. Progress: 98%. Estimated remaining time: 0 seconds.
+Aggregating predictions.. Progress: 97%. Estimated remaining time: 0 seconds.
+Aggregating predictions.. Progress: 100%. Estimated remaining time: 0 seconds.
 Aggregating predictions.. Progress: 98%. Estimated remaining time: 0 seconds.
 Aggregating predictions.. Progress: 100%. Estimated remaining time: 0 seconds.
-Aggregating predictions.. Progress: 99%. Estimated remaining time: 0 seconds.
-Aggregating predictions.. Progress: 99%. Estimated remaining time: 0 seconds.
-Aggregating predictions.. Progress: 99%. Estimated remaining time: 0 seconds.
-Aggregating predictions.. Progress: 97%. Estimated remaining time: 0 seconds.
-Aggregating predictions.. Progress: 97%. Estimated remaining time: 1 seconds.
-Aggregating predictions.. Progress: 94%. Estimated remaining time: 1 seconds.
-Aggregating predictions.. Progress: 95%. Estimated remaining time: 1 seconds.
-Aggregating predictions.. Progress: 95%. Estimated remaining time: 1 seconds.
-Aggregating predictions.. Progress: 96%. Estimated remaining time: 1 seconds.
-Aggregating predictions.. Progress: 95%. Estimated remaining time: 1 seconds.
-Aggregating predictions.. Progress: 97%. Estimated remaining time: 1 seconds.
-Aggregating predictions.. Progress: 97%. Estimated remaining time: 0 seconds.
-Aggregating predictions.. Progress: 99%. Estimated remaining time: 0 seconds.
-Aggregating predictions.. Progress: 96%. Estimated remaining time: 1 seconds.
-Aggregating predictions.. Progress: 96%. Estimated remaining time: 1 seconds.
-Aggregating predictions.. Progress: 93%. Estimated remaining time: 2 seconds.
 Aggregating predictions.. Progress: 94%. Estimated remaining time: 2 seconds.
-Aggregating predictions.. Progress: 93%. Estimated remaining time: 2 seconds.
-Aggregating predictions.. Progress: 93%. Estimated remaining time: 2 seconds.
+Aggregating predictions.. Progress: 97%. Estimated remaining time: 0 seconds.
+Aggregating predictions.. Progress: 97%. Estimated remaining time: 0 seconds.
+Aggregating predictions.. Progress: 98%. Estimated remaining time: 0 seconds.
+Aggregating predictions.. Progress: 99%. Estimated remaining time: 0 seconds.
+Aggregating predictions.. Progress: 98%. Estimated remaining time: 0 seconds.
+Aggregating predictions.. Progress: 96%. Estimated remaining time: 1 seconds.
+Aggregating predictions.. Progress: 97%. Estimated remaining time: 0 seconds.
 Aggregating predictions.. Progress: 93%. Estimated remaining time: 2 seconds.
 Aggregating predictions.. Progress: 97%. Estimated remaining time: 1 seconds.
+Aggregating predictions.. Progress: 97%. Estimated remaining time: 0 seconds.
 Aggregating predictions.. Progress: 92%. Estimated remaining time: 2 seconds.
+Aggregating predictions.. Progress: 96%. Estimated remaining time: 1 seconds.
+Aggregating predictions.. Progress: 98%. Estimated remaining time: 0 seconds.
 Aggregating predictions.. Progress: 89%. Estimated remaining time: 3 seconds.
+Aggregating predictions.. Progress: 91%. Estimated remaining time: 2 seconds.
+Aggregating predictions.. Progress: 91%. Estimated remaining time: 3 seconds.
+Aggregating predictions.. Progress: 93%. Estimated remaining time: 2 seconds.
+Aggregating predictions.. Progress: 95%. Estimated remaining time: 1 seconds.
+Aggregating predictions.. Progress: 91%. Estimated remaining time: 2 seconds.
+Aggregating predictions.. Progress: 88%. Estimated remaining time: 4 seconds.
+Aggregating predictions.. Progress: 90%. Estimated remaining time: 3 seconds.
+Aggregating predictions.. Progress: 91%. Estimated remaining time: 3 seconds.
+Aggregating predictions.. Progress: 90%. Estimated remaining time: 3 seconds.
 Aggregating predictions.. Progress: 92%. Estimated remaining time: 2 seconds.
+Aggregating predictions.. Progress: 90%. Estimated remaining time: 3 seconds.
+Aggregating predictions.. Progress: 96%. Estimated remaining time: 1 seconds.
+Aggregating predictions.. Progress: 94%. Estimated remaining time: 1 seconds.
+Aggregating predictions.. Progress: 96%. Estimated remaining time: 1 seconds.
+Aggregating predictions.. Progress: 90%. Estimated remaining time: 3 seconds.
+Aggregating predictions.. Progress: 88%. Estimated remaining time: 4 seconds.
+Aggregating predictions.. Progress: 90%. Estimated remaining time: 3 seconds.
+Aggregating predictions.. Progress: 88%. Estimated remaining time: 4 seconds.
 Aggregating predictions.. Progress: 91%. Estimated remaining time: 3 seconds.
+Aggregating predictions.. Progress: 87%. Estimated remaining time: 4 seconds.
+Aggregating predictions.. Progress: 87%. Estimated remaining time: 4 seconds.
+Aggregating predictions.. Progress: 87%. Estimated remaining time: 4 seconds.
+Aggregating predictions.. Progress: 85%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 88%. Estimated remaining time: 4 seconds.
+Aggregating predictions.. Progress: 84%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 85%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 84%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 84%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 84%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 82%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 84%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 84%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 81%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 85%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 86%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 86%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 88%. Estimated remaining time: 4 seconds.
+Aggregating predictions.. Progress: 86%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 84%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 80%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 79%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 79%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 81%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 79%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 85%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 81%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 81%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 81%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 81%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 81%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 83%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 82%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 83%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 82%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 81%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 83%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 85%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 80%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 77%. Estimated remaining time: 9 seconds.
+Aggregating predictions.. Progress: 80%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 78%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 82%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 80%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 80%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 82%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 79%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 78%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 76%. Estimated remaining time: 9 seconds.
+Aggregating predictions.. Progress: 81%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 79%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 79%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 83%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 79%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 76%. Estimated remaining time: 10 seconds.
+Aggregating predictions.. Progress: 78%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 80%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 77%. Estimated remaining time: 9 seconds.
+Aggregating predictions.. Progress: 79%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 77%. Estimated remaining time: 9 seconds.
+Aggregating predictions.. Progress: 79%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 76%. Estimated remaining time: 9 seconds.
+Aggregating predictions.. Progress: 78%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 79%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 75%. Estimated remaining time: 10 seconds.
+Aggregating predictions.. Progress: 76%. Estimated remaining time: 9 seconds.
+Aggregating predictions.. Progress: 79%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 77%. Estimated remaining time: 9 seconds.
+Aggregating predictions.. Progress: 78%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 77%. Estimated remaining time: 9 seconds.
+Aggregating predictions.. Progress: 77%. Estimated remaining time: 9 seconds.
+Aggregating predictions.. Progress: 79%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 81%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 79%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 78%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 77%. Estimated remaining time: 9 seconds.
+Aggregating predictions.. Progress: 80%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 77%. Estimated remaining time: 9 seconds.
+Aggregating predictions.. Progress: 76%. Estimated remaining time: 9 seconds.
+Aggregating predictions.. Progress: 80%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 78%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 79%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 81%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 83%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 84%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 81%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 83%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 81%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 81%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 83%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 84%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 81%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 85%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 84%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 84%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 83%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 84%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 84%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 83%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 83%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 84%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 83%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 87%. Estimated remaining time: 4 seconds.
+Aggregating predictions.. Progress: 83%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 82%. Estimated remaining time: 7 seconds.
+Aggregating predictions.. Progress: 86%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 86%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 88%. Estimated remaining time: 4 seconds.
+Aggregating predictions.. Progress: 84%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 91%. Estimated remaining time: 2 seconds.
+Aggregating predictions.. Progress: 87%. Estimated remaining time: 4 seconds.
+Aggregating predictions.. Progress: 87%. Estimated remaining time: 4 seconds.
+Aggregating predictions.. Progress: 87%. Estimated remaining time: 4 seconds.
+Aggregating predictions.. Progress: 83%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 86%. Estimated remaining time: 4 seconds.
+Aggregating predictions.. Progress: 83%. Estimated remaining time: 6 seconds.
+Aggregating predictions.. Progress: 84%. Estimated remaining time: 5 seconds.
+Aggregating predictions.. Progress: 90%. Estimated remaining time: 3 seconds.
+Aggregating predictions.. Progress: 86%. Estimated remaining time: 5 seconds.
 Aggregating predictions.. Progress: 89%. Estimated remaining time: 3 seconds.
-Aggregating predictions.. Progress: 91%. Estimated remaining time: 3 seconds.
+Aggregating predictions.. Progress: 87%. Estimated remaining time: 4 seconds.
+Aggregating predictions.. Progress: 89%. Estimated remaining time: 3 seconds.
 Aggregating predictions.. Progress: 89%. Estimated remaining time: 3 seconds.
 Aggregating predictions.. Progress: 93%. Estimated remaining time: 2 seconds.
 Aggregating predictions.. Progress: 90%. Estimated remaining time: 3 seconds.
-Aggregating predictions.. Progress: 88%. Estimated remaining time: 4 seconds.
-Aggregating predictions.. Progress: 87%. Estimated remaining time: 4 seconds.
-Aggregating predictions.. Progress: 88%. Estimated remaining time: 4 seconds.
-Aggregating predictions.. Progress: 88%. Estimated remaining time: 4 seconds.
-Aggregating predictions.. Progress: 87%. Estimated remaining time: 4 seconds.
-Aggregating predictions.. Progress: 86%. Estimated remaining time: 4 seconds.
-Aggregating predictions.. Progress: 87%. Estimated remaining time: 4 seconds.
-Aggregating predictions.. Progress: 89%. Estimated remaining time: 3 seconds.
-Aggregating predictions.. Progress: 89%. Estimated remaining time: 3 seconds.
-Aggregating predictions.. Progress: 88%. Estimated remaining time: 4 seconds.
-Aggregating predictions.. Progress: 89%. Estimated remaining time: 3 seconds.
-Aggregating predictions.. Progress: 89%. Estimated remaining time: 3 seconds.
-Aggregating predictions.. Progress: 85%. Estimated remaining time: 5 seconds.
-Aggregating predictions.. Progress: 85%. Estimated remaining time: 5 seconds.
-Aggregating predictions.. Progress: 89%. Estimated remaining time: 3 seconds.
-Aggregating predictions.. Progress: 86%. Estimated remaining time: 4 seconds.
-Aggregating predictions.. Progress: 83%. Estimated remaining time: 6 seconds.
-Aggregating predictions.. Progress: 83%. Estimated remaining time: 6 seconds.
-Aggregating predictions.. Progress: 82%. Estimated remaining time: 6 seconds.
-Aggregating predictions.. Progress: 85%. Estimated remaining time: 5 seconds.
-Aggregating predictions.. Progress: 82%. Estimated remaining time: 6 seconds.
-Aggregating predictions.. Progress: 83%. Estimated remaining time: 6 seconds.
-Aggregating predictions.. Progress: 81%. Estimated remaining time: 7 seconds.
-Aggregating predictions.. Progress: 82%. Estimated remaining time: 6 seconds.
-Aggregating predictions.. Progress: 81%. Estimated remaining time: 7 seconds.
-Aggregating predictions.. Progress: 78%. Estimated remaining time: 8 seconds.
-Aggregating predictions.. Progress: 81%. Estimated remaining time: 7 seconds.
-Aggregating predictions.. Progress: 84%. Estimated remaining time: 6 seconds.
-Aggregating predictions.. Progress: 82%. Estimated remaining time: 6 seconds.
-Aggregating predictions.. Progress: 79%. Estimated remaining time: 8 seconds.
-Aggregating predictions.. Progress: 80%. Estimated remaining time: 7 seconds.
-Aggregating predictions.. Progress: 83%. Estimated remaining time: 6 seconds.
-Aggregating predictions.. Progress: 78%. Estimated remaining time: 8 seconds.
-Aggregating predictions.. Progress: 79%. Estimated remaining time: 8 seconds.
-Aggregating predictions.. Progress: 79%. Estimated remaining time: 8 seconds.
+Aggregating predictions.. Progress: 92%. Estimated remaining time: 2 seconds.
+Aggregating predictions.. Progress: 89%. Estimated remaining time: 4 seconds.
+Aggregating predictions.. Progress: 90%. Estimated remaining time: 3 seconds.
+Aggregating predictions.. Progress: 92%. Estimated remaining time: 2 seconds.
+Aggregating predictions.. Progress: 92%. Estimated remaining time: 2 seconds.
+Aggregating predictions.. Progress: 92%. Estimated remaining time: 2 seconds.
+Aggregating predictions.. Progress: 95%. Estimated remaining time: 1 seconds.
+Aggregating predictions.. Progress: 93%. Estimated remaining time: 2 seconds.
+Aggregating predictions.. Progress: 93%. Estimated remaining time: 2 seconds.
+Aggregating predictions.. Progress: 95%. Estimated remaining time: 1 seconds.
+Aggregating predictions.. Progress: 94%. Estimated remaining time: 2 seconds.
+Aggregating predictions.. Progress: 96%. Estimated remaining time: 1 seconds.
+Aggregating predictions.. Progress: 94%. Estimated remaining time: 1 seconds.
+Aggregating predictions.. Progress: 99%. Estimated remaining time: 0 seconds.
+Aggregating predictions.. Progress: 99%. Estimated remaining time: 0 seconds.
+Aggregating predictions.. Progress: 97%. Estimated remaining time: 1 seconds.
+Aggregating predictions.. Progress: 92%. Estimated remaining time: 2 seconds.
+Aggregating predictions.. Progress: 96%. Estimated remaining time: 1 seconds.
+Aggregating predictions.. Progress: 96%. Estimated remaining time: 1 seconds.
+Aggregating predictions.. Progress: 94%. Estimated remaining time: 1 seconds.

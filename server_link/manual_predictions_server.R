@@ -11,12 +11,19 @@ library(snowfall)
 library(doParallel)
 
 task_params<-list(
-  taxon_name="Ptilium crista-castrensis",
+  taxon_name="Sphagnum warnstorfii",
   includes_absence=FALSE,
   pseudoabsence_count=161,
   epsg=4326,
   area_type="cr",
   area_buffer=3000)
+
+# Sphagnum warnstorfii * 
+# Scorpidium scorpioides
+# Campylopus introflexus
+# Marsupella sphacelata 
+# Frullania tamarisci
+# Anastrepta orcadensis
 
 grids.path<-"/home/mman/czechgrids" # where are the data
 grids.path1<-"/home/mman/czechgrids_local"
